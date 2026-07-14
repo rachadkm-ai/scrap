@@ -1,0 +1,4422 @@
+[
+  {
+    "groupe_id": "01",
+    "groupe_titre": "Ain",
+    "etablissement": "Centre Hospitalier Bourg-en-Bresse (site de Fleyriat) (Bourg-en-Bresse)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2-establishment3863",
+    "service_titre": "Cardiologie - Soins intensifs de cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "02",
+    "groupe_titre": "Aisne",
+    "etablissement": "Centre hospitalier (Saint-Quentin)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure58-establishment3913",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Pierre HENON",
+    "email": "p.henon@ch-stquentin.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "02",
+    "groupe_titre": "Aisne",
+    "etablissement": "Centre hospitalier (Saint-Quentin)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure58-establishment3913",
+    "service_titre": "Service de Soins Intensifs Cardiologiques",
+    "service_h3": "Dr Pierre HENON",
+    "email": "p.henon@ch-stquentin.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "02",
+    "groupe_titre": "Aisne",
+    "etablissement": "Centre hospitalier de Soissons - GHT SAPHIR (Groupement hospitalier du territoire Sud-Axonais, Publi (Soissons)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure49-establishment3904",
+    "service_titre": "CARDIOLOGIE-USIC-ANGIOLOGIE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "02",
+    "groupe_titre": "Aisne",
+    "etablissement": "Centre hospitalier (Chauny)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure55-establishment3910",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "02",
+    "groupe_titre": "Aisne",
+    "etablissement": "Centre hospitalier (Laon)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure37-establishment3893",
+    "service_titre": "Service de Cardiologie",
+    "service_h3": "Dr Elisabeth NYOM",
+    "email": "secret.cardio1est@ch-laon.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "02",
+    "groupe_titre": "Aisne",
+    "etablissement": "Hôpital Villiers Saint Denis (VILLIERS ST DENIS)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3254-establishment7844",
+    "service_titre": "Pôle Gériatrie, pneumologie, cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "02",
+    "groupe_titre": "Aisne",
+    "etablissement": "Centre hospitalier Jeanne de Navarre (CHÂTEAU-THIERRY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure62-establishment3917",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Adéla FIRCEA",
+    "email": "adela.fircea@ch-chateau-thierry.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "03",
+    "groupe_titre": "Allier",
+    "etablissement": "CENTRE HOSPITALIER JACQUES LACARIN (VICHY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure86-establishment3941",
+    "service_titre": "Cardiologie et soins intensifs",
+    "service_h3": "Dr Vincent TIXIER",
+    "email": "vincent.tixier@ch-vichy.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "03",
+    "groupe_titre": "Allier",
+    "etablissement": "CENTRE HOSPITALIER JACQUES LACARIN (VICHY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure86-establishment3941",
+    "service_titre": "Soins Intensifs Cardiologiques",
+    "service_h3": "Dr Vincent TIXIER",
+    "email": "vincent.tixier@ch-vichy.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "03",
+    "groupe_titre": "Allier",
+    "etablissement": "Centre hospitalier de Montluçon - Néris les Bains (Montluçon)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure77-establishment3932",
+    "service_titre": "Cardiologie",
+    "service_h3": "M. Sylvain CHANSEAUME",
+    "email": "s.chanseaume@ch-montlucon.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "03",
+    "groupe_titre": "Allier",
+    "etablissement": "Centre hospitalier de Moulins (MCO-SSR) (Moulins)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure75-establishment3930",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Marion BOUCHANT-PIOCHE",
+    "email": "m.bouchantpioche@ch-moulins-yzeure.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "04",
+    "groupe_titre": "Alpes-de-Haute-Provence",
+    "etablissement": "Centre hospitalier Intercommunal des Alpes du Sud Site de SISTERON (Sisteron)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2837-establishment3296",
+    "service_titre": "Hôpital de jour Réadaptation cardio-respiratoire et métabolique",
+    "service_h3": "Dr Touria MGHAZLI",
+    "email": "touria.mghazli@chicas-gap.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "05",
+    "groupe_titre": "Hautes-Alpes",
+    "etablissement": "Centre hospitalier Intercommunal des Alpes du Sud Site de GAP (Gap)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2837-establishment3297",
+    "service_titre": "Cardiologie - USIC",
+    "service_h3": "Dr Jacques QUILICI",
+    "email": "jacques.quilici@chicas-gap.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "05",
+    "groupe_titre": "Hautes-Alpes",
+    "etablissement": "Centre hospitalier des Escartons (BRIANCON)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure122-establishment3976",
+    "service_titre": "Médecine cardio gastro rhumato endocrino",
+    "service_h3": "Dr Enrico SAGGIORATO",
+    "email": "esaggiorato@ch-briancon.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "06",
+    "groupe_titre": "Alpes-Maritimes",
+    "etablissement": "Centre hospitalier d'Antibes Juan-les-Pins (Antibes)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure154-establishment4004",
+    "service_titre": "Cardiologie et maladies vasculaires - soins intensifs cardiologiques - neurologie et exploration fonctionnelle du système nerveux - médecine du sport",
+    "service_h3": "Dr Laurent JACQ",
+    "email": "laurent.jacq@ch-antibes.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "06",
+    "groupe_titre": "Alpes-Maritimes",
+    "etablissement": "Centre Hospitalier de Cannes Simone Veil (CANNES)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure139-establishment10974",
+    "service_titre": "Cardiologie et USIC",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "06",
+    "groupe_titre": "Alpes-Maritimes",
+    "etablissement": "Hôpital Pasteur (Nice)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure129-establishment208",
+    "service_titre": "Service de Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "06",
+    "groupe_titre": "Alpes-Maritimes",
+    "etablissement": "CENTRE HOSPITALIER de GRASSE (Grasse)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure130-establishment3984",
+    "service_titre": "Médecine A . Cardiologie",
+    "service_h3": "Dr Bertrand PETIT",
+    "email": "b.petit@ch-grasse.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "06",
+    "groupe_titre": "Alpes-Maritimes",
+    "etablissement": "SSR Cardiologique et pneumologique (VENCE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3045-establishment10486",
+    "service_titre": "Service Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "07",
+    "groupe_titre": "Ardèche",
+    "etablissement": "Centre hospitalier d'Aubenas - Site de Bernard Hugo (Aubenas)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure169-establishment4018",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Vincent AUDIGIER",
+    "email": "nor.el.houda.zelazli@ch-ardeche-meridionale.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "07",
+    "groupe_titre": "Ardèche",
+    "etablissement": "Centre hospitalier d'Ardèche Nord (ANNONAY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure160-establishment4010",
+    "service_titre": "CARDIOLOGIE & ANGILOGIE",
+    "service_h3": "Dr Thierry GOUTTARD",
+    "email": "thierry.gouttard@ch-ardeche-nord.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "07",
+    "groupe_titre": "Ardèche",
+    "etablissement": "Centre hospitalier de Privas Ardèche (Privas)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure159-establishment4009",
+    "service_titre": "Médecine A  /  Cardiologie",
+    "service_h3": "Dr Philippe CHARRE",
+    "email": "p.charre@ch-privas.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "08",
+    "groupe_titre": "Ardennes",
+    "etablissement": "Site de Charleville-Mézières (Charleville-Mézières)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure186-establishment32",
+    "service_titre": "Cardiologie - USIC USC",
+    "service_h3": "Virginie HEROGUELLE",
+    "email": "virginie.heroguelle@ch-nord-ardennes.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "09",
+    "groupe_titre": "Ariège",
+    "etablissement": "CHIVA - Site de Saint Jean de Verges (Saint-Jean de Verges)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure205-establishment4050",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Joseph ABDO",
+    "email": "joseph.abdo@chi-val-ariege.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "10",
+    "groupe_titre": "Aube",
+    "etablissement": "Hôpital Simone Veil (TROYES)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure215-establishment4060",
+    "service_titre": "CARDIOLOGIE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "10",
+    "groupe_titre": "Aube",
+    "etablissement": "Centre hospitalier Hôpital Maurice Camuset (Romilly-sur-Seine)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure216-establishment4061",
+    "service_titre": "Médecine polyvalente à orientation cardiologique et unité de soins à surveillance continue",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "11",
+    "groupe_titre": "Aude",
+    "etablissement": "Centre hospitalier (Carcassonne)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure245-establishment4090",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Youcef AFIFI",
+    "email": "youcef.afifi@ch-carcassonne.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "11",
+    "groupe_titre": "Aude",
+    "etablissement": "Centre hospitalier MCO (Narbonne)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure232-establishment4077",
+    "service_titre": "CARDIOLOGIE",
+    "service_h3": "Dr Abdelkader OUAKLI",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "11",
+    "groupe_titre": "Aude",
+    "etablissement": "CENTRE HOSPITALIER DE LIMOUX (Limoux)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure240-establishment4085",
+    "service_titre": "CENTRE DE CONSULTATION DE CARDIOLOGIE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "11",
+    "groupe_titre": "Aude",
+    "etablissement": "CENTRE HOSPITALIER DE QUILLAN (Quillan)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure240-establishment3217",
+    "service_titre": "CENTRE DE CONSULTATION DE CARDIOLOGIE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "12",
+    "groupe_titre": "Aveyron",
+    "etablissement": "Hôpital Jacques Puel (Rodez)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure247-establishment4091",
+    "service_titre": "Cardiologie/USIC",
+    "service_h3": "Dr Taha HASSANI",
+    "email": "t.hassani@ch-rodez.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "AP-HM Hôpital de la Timone (Marseille)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure265-establishment4106",
+    "service_titre": "Cardiologie, insuffisance cardiaque",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "AP-HM Hôpital de la Timone (Marseille)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure265-establishment4106",
+    "service_titre": "Cardiologie, maladies coronaires",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "AP-HM Hôpital de la Timone (Marseille)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure265-establishment4106",
+    "service_titre": "Cardiologie, rythmologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "AP-HM Hôpital de la Timone (Marseille)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure265-establishment4106",
+    "service_titre": "Chirurgie cardio-thoracique",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "AP-HM Hôpital de la Timone (Marseille)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure265-establishment4106",
+    "service_titre": "Pédiatrie spécialisée et médecine infantile (neurologie, pneumologie, maladies héréditaires du métabolisme, cardiologie)",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "AP-HM Hôpital de la Timone (Marseille)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure265-establishment4106",
+    "service_titre": "Service médico-chirurgical de cardiologie pédiatrique et congénitale",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "AP-HM Hôpital de la Conception (Marseille)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure281-establishment4117",
+    "service_titre": "Consultations et explorations cardio-vasculaires",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "AP-HM Hôpital Nord (Marseille)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure311-establishment4145",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "CHIAP - CENTRE HOSPITALIER D'AIX EN PROVENCE (Aix-en-Provence)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure292-establishment4126",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Jérome TAIEB",
+    "email": "jtaieb@ch-aix.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "HOPITAL EUROPEEN MARSEILLE (MARSEILLE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure4817-establishment10435",
+    "service_titre": "CARDIO VASCULAIRE ET THORACIQUE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "Hôpital du pays Salonais (Salon-de-Provence)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure297-establishment4131",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Luc BOULAIN",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "Centre hospitalier Hôpital des Rayettes (Martigues)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure299-establishment4133",
+    "service_titre": "CARDIOLOGIE",
+    "service_h3": "Dr Serge YVORRA",
+    "email": "serge.yvorra@ch-martigues.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "Centre hospitalier Edmond Garcin (Aubagne)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure298-establishment4132",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Emmanuel ROUX",
+    "email": "eroux@ch-aubagne.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "Centre hospitalier Joseph Imbert (ARLES)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure295-establishment4129",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr François SAINT-PIERRE",
+    "email": "francois.saint-pierre@ch-arles.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "Centre hospitalier Joseph Imbert (ARLES)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure295-establishment4129",
+    "service_titre": "SMR Cardiologie",
+    "service_h3": "Dr François SAINT-PIERRE",
+    "email": "francois.saint-pierre@ch-arles.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "Centre hospitalier Joseph Imbert (ARLES)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure295-establishment4129",
+    "service_titre": "Unité de Soins Intensifs en Cardiologie (USIC)",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "13",
+    "groupe_titre": "Bouches-du-Rhône",
+    "etablissement": "Hopital d'Instruction des Armées LAVERAN (MARSEILLE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure5561-establishment8034",
+    "service_titre": "CARDIOLOGIE - HIA LAVERAN",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "14",
+    "groupe_titre": "Calvados",
+    "etablissement": "CHU Hôpital Côte de Nacre (Caen)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure315-establishment481",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Farzin BEYGUI",
+    "email": "beygui-f@chu-caen.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "14",
+    "groupe_titre": "Calvados",
+    "etablissement": "Centre hospitalier Robert Bisson (Lisieux)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure317-establishment4150",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Vincent TROUSSARD",
+    "email": "t.werner@ch-lisieux.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "14",
+    "groupe_titre": "Calvados",
+    "etablissement": "Centre Hospitalier (Falaise)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure339-establishment4169",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Damrong EA",
+    "email": "damrong.ea@ch-falaise.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "14",
+    "groupe_titre": "Calvados",
+    "etablissement": "Centre hospitalier de la Côte Fleurie Site de Cricqueboeuf (Honfleur)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure337-establishment4167",
+    "service_titre": "Médecine cardiologique",
+    "service_h3": "Dr Aref FERROUDJ",
+    "email": "Aferroudj@ch-cotefleurie.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "14",
+    "groupe_titre": "Calvados",
+    "etablissement": "Centre hospitalier de la Côte Fleurie Site de Cricqueboeuf (Honfleur)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure337-establishment4167",
+    "service_titre": "SSR cardiologique",
+    "service_h3": "Dr Jean-Paul MABIRE",
+    "email": "jpmabire@ch-cotefleurie.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "14",
+    "groupe_titre": "Calvados",
+    "etablissement": "Centre Hospitalier Aunay-Bayeux Site de Bayeux (BAYEUX)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure331-establishment4163",
+    "service_titre": "Médecine interne à orientation cardiologique",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "15",
+    "groupe_titre": "Cantal",
+    "etablissement": "Centre Hospitalier Henri Mondor (AURILLAC)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure340-establishment11325",
+    "service_titre": "Cardiologie - Coronarographie - consultation médecine du sport -",
+    "service_h3": "Dr Manuel FONT",
+    "email": "cardiologie@ch-aurillac.fr",
+    "plateau_cardio": "Oui"
+  },
+  {
+    "groupe_id": "15",
+    "groupe_titre": "Cantal",
+    "etablissement": "Centre hospitalier (Mauriac)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure350-establishment4179",
+    "service_titre": "Cardiologie",
+    "service_h3": "M. Manuel FONT",
+    "email": "m.font@ch-aurillac.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "16",
+    "groupe_titre": "Charente",
+    "etablissement": "Centre hospitalier d'Angoulême (ANGOULEME)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure374-establishment4202",
+    "service_titre": "Cardiologie",
+    "service_h3": "Véronique LUCKE",
+    "email": "veronique.lucke@ch-angouleme.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "16",
+    "groupe_titre": "Charente",
+    "etablissement": "Centre hospitalier de Cognac (COGNAC)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure360-establishment4189",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Saleh AL SALEH",
+    "email": "a.alsaleh@ch-cognac.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "17",
+    "groupe_titre": "Charente-Maritime",
+    "etablissement": "GROUPE HOSPITALIER DE LA ROCHELLE-RE-AUNIS (La Rochelle)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure377-establishment4205",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Ludovic MEUNIER",
+    "email": "ludovic.meunier@ght-atlantique17.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "17",
+    "groupe_titre": "Charente-Maritime",
+    "etablissement": "GH Saintes - Saint-Jean-d'Angély Site de Saintes (SAINTES)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure379-establishment6731",
+    "service_titre": "Cardiologie : Soins intensifs de cardiologie (USIC) - Hospitalisations complètes (Unité 1)",
+    "service_h3": "Dr Caroline LASGI",
+    "email": "caroline.lasgi@gh-saintesangely.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "17",
+    "groupe_titre": "Charente-Maritime",
+    "etablissement": "GH Saintes - Saint-Jean-d'Angély Site de Saintes (SAINTES)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure379-establishment6731",
+    "service_titre": "Coronarographie - Angioplastie (UCI : Unité de cardiologie interventionnelle)",
+    "service_h3": "Dr Hatem BERRAHMOUN",
+    "email": "hatem.berrahmoun@gh-saintesangely.fr",
+    "plateau_cardio": "Oui"
+  },
+  {
+    "groupe_id": "17",
+    "groupe_titre": "Charente-Maritime",
+    "etablissement": "GH Saintes - Saint-Jean-d'Angély Site de Saintes (SAINTES)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure379-establishment6731",
+    "service_titre": "Rythmologie interventionnelle - Implantologie (UCI : Unité de cardiologie interventionnelle)",
+    "service_h3": "Dr Noor BENGOUFA",
+    "email": "noor.bengoufa@gh-saintesangely.fr",
+    "plateau_cardio": "Oui"
+  },
+  {
+    "groupe_id": "17",
+    "groupe_titre": "Charente-Maritime",
+    "etablissement": "Centre hospitalier (Rochefort)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure387-establishment4214",
+    "service_titre": "Unité médicale de Cardiologie",
+    "service_h3": "Dr Sandra BENIGNO DE BOISSESON",
+    "email": "sandra.benigno@ch-rochefort.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "17",
+    "groupe_titre": "Charente-Maritime",
+    "etablissement": "GH Saintes - Saint-Jean-d'Angély Site de Saint-Jean-d'Angély (Saint-Jean-d'Angely)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure379-establishment4223",
+    "service_titre": "Cardiologie, Angiologie",
+    "service_h3": "Dr Abderrahim HAROURI",
+    "email": "abderrahim.harouri@gh-saintesangely.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "17",
+    "groupe_titre": "Charente-Maritime",
+    "etablissement": "Centre Hospitalier Royan-Atlantique (ROYAN)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure383-establishment4210",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Abdel-Moula EL KENZ",
+    "email": "secretariat.medecinec@ch-royan.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "18",
+    "groupe_titre": "Cher",
+    "etablissement": "Centre hospitalier Jacques Coeur (Bourges)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure403-establishment4228",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Valérian DIDOT",
+    "email": "valerian.didot@ch-bourges.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "18",
+    "groupe_titre": "Cher",
+    "etablissement": "Centre hospitalier Jacques Coeur (Bourges)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure403-establishment4228",
+    "service_titre": "Soins intensifs de cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "19",
+    "groupe_titre": "Corrèze",
+    "etablissement": "Centre Hospitalier (Brive-la-Gaillarde)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure440-establishment4261",
+    "service_titre": "CARDIOLOGIE - ANGIOPLASTIE",
+    "service_h3": "Dr Eric FLEURANT",
+    "email": "eric.fleurant@ch-brive.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "19",
+    "groupe_titre": "Corrèze",
+    "etablissement": "Centre hospitalier Coeur de Corrèze bâtiment principal place maschat (Tulle)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure423-establishment4246",
+    "service_titre": "Cardiologie et pathologies respiratoires - soins intensifs cardiaques",
+    "service_h3": "Dr Alain GUILLON",
+    "email": "guillon@ch-tulle.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "19",
+    "groupe_titre": "Corrèze",
+    "etablissement": "Centre hospitalier de Haute-Corrèze Direction Commune des Hôpitaux de Corrèze (Ussel)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure431-establishment4252",
+    "service_titre": "Cardiologie/Soins continus cardiologiques",
+    "service_h3": "Dr Alain BERENFELD",
+    "email": "a.berenfeld@chussel.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "2B",
+    "groupe_titre": "Haute-Corse",
+    "etablissement": "Centre Hospitalier de Bastia (Bastia)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure454-establishment4274",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "2B",
+    "groupe_titre": "Haute-Corse",
+    "etablissement": "Centre Hospitalier de Bastia (Bastia)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure454-establishment4274",
+    "service_titre": "Explorations fonctionnelles de cardiologie, consultations de cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "2B",
+    "groupe_titre": "Haute-Corse",
+    "etablissement": "Centre Hospitalier de Bastia (Bastia)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure454-establishment4274",
+    "service_titre": "Soins Médicaux et de Réadaptation (SMR) cardio-vasculaire et respiratoire",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "2B",
+    "groupe_titre": "Haute-Corse",
+    "etablissement": "Centre Hospitalier de Bastia (Bastia)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure454-establishment4274",
+    "service_titre": "Unité de Soins Intensifs de Cardiologie (USIC)",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "21",
+    "groupe_titre": "Côte-d'Or",
+    "etablissement": "Centre hospitalier universitaire (Dijon)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure456-establishment639",
+    "service_titre": "Cardiologie générale",
+    "service_h3": "Pr Gabriel LAURENT",
+    "email": "audrey.sagnard@chu-dijon.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "21",
+    "groupe_titre": "Côte-d'Or",
+    "etablissement": "Centre hospitalier universitaire (Dijon)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure456-establishment639",
+    "service_titre": "chirurgie cardio-vasculaire et thoracique (CCVT)",
+    "service_h3": "Pr Olivier BOUCHOT",
+    "email": "helene.greigert@chu-dijon.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "21",
+    "groupe_titre": "Côte-d'Or",
+    "etablissement": "Centre hospitalier universitaire (Dijon)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure456-establishment639",
+    "service_titre": "Hospitalisation de Semaine Cardio-Pneumologie",
+    "service_h3": "Dr Pascal FOUCHER",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "21",
+    "groupe_titre": "Côte-d'Or",
+    "etablissement": "Hospices Civils de Beaune MCO (Beaune)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure465-establishment4282",
+    "service_titre": "Réadaptation cardio-vasculaire",
+    "service_h3": "Dr Aurélie GUDJONCIK",
+    "email": "aurelie.gudjoncik@ch-beaune.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "21",
+    "groupe_titre": "Côte-d'Or",
+    "etablissement": "Centre Hospitalier (Semur-en-Auxois)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure461-establishment6376",
+    "service_titre": "Médecine 1 Cardiologie/USIC/Pneumologie/Neurologie/Médecine interne",
+    "service_h3": "Dr Idriss KIOUEH",
+    "email": "idriss.kioueh@ch-semur.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "21",
+    "groupe_titre": "Côte-d'Or",
+    "etablissement": "Hôpital de proximité de MONTBARD (MONTBARD)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure473-establishment11489",
+    "service_titre": "3. SMR Cardiologie",
+    "service_h3": "Dr Mohamed JOLAK",
+    "email": "mohamed.jolak@ch-hco.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "22",
+    "groupe_titre": "Côtes-d'Armor",
+    "etablissement": "Hôpital de Saint-Brieuc Centre Hospitalier Saint-Brieuc - Paimpol - Tréguier (Saint-Brieuc)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure483-establishment6766",
+    "service_titre": "Cardiologie / Cardiologie Interventionnelle hôpital de jour /  Hospitalisation de semaine de cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Oui"
+  },
+  {
+    "groupe_id": "22",
+    "groupe_titre": "Côtes-d'Armor",
+    "etablissement": "Site hospitalier René Pleven (Dinan)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure827-establishment4299",
+    "service_titre": "Cardiologie-UPAVC",
+    "service_h3": "Dr Anne-Hélène GINGUENE",
+    "email": "annehelene.ginguene@ch-dinan.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "22",
+    "groupe_titre": "Côtes-d'Armor",
+    "etablissement": "Centre hospitalier de Guingamp (Guingamp)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure488-establishment4303",
+    "service_titre": "CARDIOLOGIE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "22",
+    "groupe_titre": "Côtes-d'Armor",
+    "etablissement": "Hôpital de proximité de Paimpol Centre Hospitalier Saint-Brieuc - Paimpol - Tréguier (Paimpol)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure483-establishment4311",
+    "service_titre": "SMR CARDIO-VASCULAIRE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "22",
+    "groupe_titre": "Côtes-d'Armor",
+    "etablissement": "Centre Hospitalier Pierre Le Damany (Lannion)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure492-establishment4306",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Guillaume GOSSELIN",
+    "email": "guillaume.gosselin@armorsante.bzh",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "23",
+    "groupe_titre": "Creuse",
+    "etablissement": "Centre Hospitalier de GUERET (GUERET)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure506-establishment4318",
+    "service_titre": "Cardiologie - Unité de Soins Intensifs de cardiologie",
+    "service_h3": "M. Larbi MANSOUR",
+    "email": "l.mansour@ch-gueret.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "24",
+    "groupe_titre": "Dordogne",
+    "etablissement": "CENTRE HOSPITALIER (PERIGUEUX)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure521-establishment4333",
+    "service_titre": "Cardiologie et Maladies Vasculaires",
+    "service_h3": "Dr Philippe JARNIER",
+    "email": "philippe.jarnier@ch-perigueux.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "24",
+    "groupe_titre": "Dordogne",
+    "etablissement": "CENTRE HOSPITALIER (PERIGUEUX)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure521-establishment4333",
+    "service_titre": "Hôpital de semaine de cardiologie, diabétologie et endocrinologie",
+    "service_h3": "Dr Philippe JARNIER",
+    "email": "philippe.jarnier@ch-perigueux.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "24",
+    "groupe_titre": "Dordogne",
+    "etablissement": "CENTRE HOSPITALIER (PERIGUEUX)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure521-establishment4333",
+    "service_titre": "SSR Cardio",
+    "service_h3": "Dr Quang-Thu NGUYEN",
+    "email": "quanthu.nguyen@ch-perigueux.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "24",
+    "groupe_titre": "Dordogne",
+    "etablissement": "Centre hospitalier Samuel Pozzi (Bergerac)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure522-establishment4334",
+    "service_titre": "Cardiologie - Medecine Interne",
+    "service_h3": "Mme Martine DUMAIN",
+    "email": "martine.dumain@ch-bergerac.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "24",
+    "groupe_titre": "Dordogne",
+    "etablissement": "Centre hospitalier Jean Leclaire (Sarlat)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure532-establishment4344",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "25",
+    "groupe_titre": "Doubs",
+    "etablissement": "Centre Hospitalier Universitaire Hôpital Jean Minjoz (Besançon)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure561-establishment6570",
+    "service_titre": "Cardiologie",
+    "service_h3": "Pr Nicolas MENEVEAU",
+    "email": "nicolas.meneveau@univ-fcomte.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "26",
+    "groupe_titre": "Drôme",
+    "etablissement": "Centre Hospitalier (Valence)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure600-establishment4409",
+    "service_titre": "Département de cardiologie",
+    "service_h3": "Dr Martin RABOT",
+    "email": "mrabot@ch-valence.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "26",
+    "groupe_titre": "Drôme",
+    "etablissement": "Groupement Hospitalier Portes de Provence (MONTELIMAR)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure592-establishment7937",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "26",
+    "groupe_titre": "Drôme",
+    "etablissement": "HOPITAUX Drôme Nord - site de Romans (Romans)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure585-establishment4395",
+    "service_titre": "Médecine cardiologie - SIC - Pneumologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "26",
+    "groupe_titre": "Drôme",
+    "etablissement": "Centre de réadaptation DIEULEFIT SANTE (DIEULEFIT)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3075-establishment7536",
+    "service_titre": "SSR cardiologie",
+    "service_h3": "Dr Claudy KÜGLER-CHAMBRON",
+    "email": "c.kugler@dieulefit-sante.org",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "27",
+    "groupe_titre": "Eure",
+    "etablissement": "Centre Hospitalier Eure-Seine - Hôpital d'Evreux - Vernon (Evreux)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure611-establishment4418",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "27",
+    "groupe_titre": "Eure",
+    "etablissement": "Centre Hospitalier Eure-Seine - Hôpital d'Evreux - Vernon (Evreux)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure611-establishment4418",
+    "service_titre": "Médecine à orientation cardiologique - Vernon",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "27",
+    "groupe_titre": "Eure",
+    "etablissement": "Centre Hospitalier Anne de Ticheville de Bernay (Bernay)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure615-establishment4422",
+    "service_titre": "Médecine à orientation cardiologique",
+    "service_h3": "Dr Eliza CUMINY",
+    "email": "eliza.cumminy@ch-bernay.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "28",
+    "groupe_titre": "Eure-et-Loir",
+    "etablissement": "Centre hospitalier Louis Pasteur (LE COUDRAY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure626-establishment4432",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Franck ALBERT",
+    "email": "falbert@ch-chartres.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "28",
+    "groupe_titre": "Eure-et-Loir",
+    "etablissement": "Centre hospitalier (DREUX)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure628-establishment4434",
+    "service_titre": "Cardiologie-USIC-Explorations Fonctionnelles cardiologiques",
+    "service_h3": "M. Dario BOTTIGLIERO",
+    "email": "dbottigliero@ch-dreux.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "29",
+    "groupe_titre": "Finistère",
+    "etablissement": "Centre hospitalier des Pays de Morlaix (Morlaix)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure667-establishment4470",
+    "service_titre": "Cardiologie",
+    "service_h3": "M. Jacques MANSOURATI",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "29",
+    "groupe_titre": "Finistère",
+    "etablissement": "Hôpital Cavale Blanche (Brest)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure680-establishment815",
+    "service_titre": "Département de Cardiologie",
+    "service_h3": "Pr Jacques MANSOURATI",
+    "email": "jacques.mansourati@chu-brest.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "29",
+    "groupe_titre": "Finistère",
+    "etablissement": "Centre hospitalier Site de Quimper (Quimper)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure658-establishment4462",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "29",
+    "groupe_titre": "Finistère",
+    "etablissement": "Hôpital Carhaix (Carhaix-Plouguer)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure680-establishment4491",
+    "service_titre": "Médecine à orientation cardiologie",
+    "service_h3": "M. Eric LE GOFF",
+    "email": "eric.legoff@chu-brest.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "29",
+    "groupe_titre": "Finistère",
+    "etablissement": "Hôpital d'Instruction des Armées CLERMONT-TONNERRE (BREST)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure5561-establishment8035",
+    "service_titre": "Pathologies Cardiovasculaires 29",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "29",
+    "groupe_titre": "Finistère",
+    "etablissement": "Centre hospitalier de Douarnenez (Douarnenez)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure664-establishment4468",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Jean-Philippe ELKAIM",
+    "email": "secretariat.direction@ch-douarnenez.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "29",
+    "groupe_titre": "Finistère",
+    "etablissement": "Centre hospitalier de Douarnenez (Douarnenez)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure664-establishment4468",
+    "service_titre": "Réadaptation Cardio-Vasculaire",
+    "service_h3": "Dr Virginie JAN-BLIN",
+    "email": "secretariat.direction@ch-douarnenez.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "29",
+    "groupe_titre": "Finistère",
+    "etablissement": "Centre hospitalier de Douarnenez (Douarnenez)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure664-establishment4468",
+    "service_titre": "Soins de Suite et de Réadaptation Cardiovasculaire - SSR Cardio",
+    "service_h3": "Dr Virginie JAN-BLIN",
+    "email": "secretariat.direction@ch-douarnenez.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "30",
+    "groupe_titre": "Gard",
+    "etablissement": "Centre Hospitalier Universitaire de Nîmes (CHU de Nîmes) - Carémeau (NIMES)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure693-establishment910",
+    "service_titre": "Cardio Pédiatrique",
+    "service_h3": "M. Jean-Michel RAUZIER",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "30",
+    "groupe_titre": "Gard",
+    "etablissement": "Centre Hospitalier Universitaire de Nîmes (CHU de Nîmes) - Carémeau (NIMES)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure693-establishment910",
+    "service_titre": "Cardiologie",
+    "service_h3": "Pr Guillaume CAYLA",
+    "email": "Mehdi.BOUADJAMA@chu-nimes.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "30",
+    "groupe_titre": "Gard",
+    "etablissement": "Centre Hospitalier Universitaire de Nîmes (CHU de Nîmes) - Carémeau (NIMES)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure693-establishment910",
+    "service_titre": "Rééducation Cardio-Vasculaire",
+    "service_h3": "Pr Arnaud DUPEYRON",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "30",
+    "groupe_titre": "Gard",
+    "etablissement": "Centre hospitalier Alès-Cévennes (Ales)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure694-establishment4497",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Clément ALARCON",
+    "email": "dr.alarcon@ch-ales.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "30",
+    "groupe_titre": "Gard",
+    "etablissement": "Centre Hospitalier de Bagnols-sur-Cèze (Bagnols-sur-Cèze)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure700-establishment4503",
+    "service_titre": "CARDIOLOGIE ET PNEUMOLOGIE",
+    "service_h3": "Dr Olivier ABRIEU",
+    "email": "oabrieu@ch-bagnolssurceze.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "31",
+    "groupe_titre": "Haute-Garonne",
+    "etablissement": "Hôpital Rangueil (Toulouse)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure716-establishment919",
+    "service_titre": "Cardiologie",
+    "service_h3": "Pr Meyer ELBAZ",
+    "email": "elbaz.m@chu-toulouse.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "31",
+    "groupe_titre": "Haute-Garonne",
+    "etablissement": "Hôpital Rangueil (Toulouse)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure716-establishment919",
+    "service_titre": "Chirurgie cardio-vasculaire",
+    "service_h3": "Pr Bertrand MARCHEIX",
+    "email": "marcheix.b@chu-toulouse.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "31",
+    "groupe_titre": "Haute-Garonne",
+    "etablissement": "Hôpital des enfants et Paule de Viguier (Toulouse)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure716-establishment924",
+    "service_titre": "Cardiologie pédiatrique",
+    "service_h3": "Dr Clément KARSENTY",
+    "email": "karsenty.cl@chu-toulouse.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "31",
+    "groupe_titre": "Haute-Garonne",
+    "etablissement": "CENTRE HOSPITALIER COMMINGES PYRENEES (Saint-Gaudens)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure736-establishment4536",
+    "service_titre": "CARDIOLOGIE  / PNEUMOLOGIE",
+    "service_h3": "Dr Jean-Philippe BONNET",
+    "email": "jeanphilippe.bonnet@ch-saintgaudens.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "32",
+    "groupe_titre": "Gers",
+    "etablissement": "Centre Hospitalier d'Auch en Gascogne (Auch)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure738-establishment4538",
+    "service_titre": "Cardiologie",
+    "service_h3": "Maryse LESCURE",
+    "email": "m.lescure@ch-auch.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "33",
+    "groupe_titre": "Gironde",
+    "etablissement": "Groupe hospitalier Sud (Pessac)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure771-establishment101",
+    "service_titre": "Cardiologie - électrophysiologie et stimulation cardiaque Groupe Sud",
+    "service_h3": "Pr Jean-Michel HAISSAGUERRE",
+    "email": "jean-michel.haissaguerre@chu-bordeaux.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "33",
+    "groupe_titre": "Gironde",
+    "etablissement": "Groupe hospitalier Sud (Pessac)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure771-establishment101",
+    "service_titre": "Cardiologie et maladies vasculaires",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "33",
+    "groupe_titre": "Gironde",
+    "etablissement": "Groupe hospitalier Sud (Pessac)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure771-establishment101",
+    "service_titre": "Cardiologie-valvulopathie-maladie coronaire et réadaptation",
+    "service_h3": "Pr Raymond ROUDAUT",
+    "email": "raymond.roudaut@chu-bordeaux.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "33",
+    "groupe_titre": "Gironde",
+    "etablissement": "Groupe hospitalier Sud (Pessac)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure771-establishment101",
+    "service_titre": "Maladies cardio-vasculaires congénitales",
+    "service_h3": "Dr Jean-Benoît THAMBO",
+    "email": "jean-benoit.thambo@chu-bordeaux.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "33",
+    "groupe_titre": "Gironde",
+    "etablissement": "Groupe hospitalier Sud (Pessac)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure771-establishment101",
+    "service_titre": "urgences cardiologiques et soins intensifs - cardiologie interventionnelle",
+    "service_h3": "Pr Pierre COSTE",
+    "email": "pierre.coste@chu-bordeaux.fr",
+    "plateau_cardio": "Oui"
+  },
+  {
+    "groupe_id": "33",
+    "groupe_titre": "Gironde",
+    "etablissement": "CENTRE HOSPITALIER Robert Boulin (Libourne)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure778-establishment4577",
+    "service_titre": "CARDIOLOGIE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "33",
+    "groupe_titre": "Gironde",
+    "etablissement": "Centre hospitalier Sud Gironde Sites de Langon et La Réole (La Réole)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure760-establishment4559",
+    "service_titre": "Médecine polyvalente à orientation cardiologique",
+    "service_h3": "Dr Philippe BORDIER",
+    "email": "cardiologie@ch-sudgironde.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "33",
+    "groupe_titre": "Gironde",
+    "etablissement": "Groupe Hospitalier Saint-André (Bordeaux)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure771-establishment2736",
+    "service_titre": "Cardiologie - hypertension artérielle Saint-André",
+    "service_h3": "Pr Jean-Michel HAISSAGUERRE",
+    "email": "jean-michel.haissaguerre@chu-bordeaux.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "33",
+    "groupe_titre": "Gironde",
+    "etablissement": "Centre hospitalier d'Arcachon (La Teste-de-Buch)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure766-establishment4565",
+    "service_titre": "service de cardiologie",
+    "service_h3": "Dr Romain DARIER",
+    "email": "romain.darier@ch-arcachon.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "34",
+    "groupe_titre": "Hérault",
+    "etablissement": "Centre hospitalier (Béziers)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure801-establishment4600",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Nassib AZOURY",
+    "email": "nassib.azoury@ch-beziers.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "34",
+    "groupe_titre": "Hérault",
+    "etablissement": "Hôpital Arnaud de Villeneuve (MONTPELLIER)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure795-establishment1002",
+    "service_titre": "Cardiologie",
+    "service_h3": "Pr Jean-Luc PASQUIE",
+    "email": "jl-pasquie@chu-montpellier.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "35",
+    "groupe_titre": "Ille-et-Vilaine",
+    "etablissement": "Hôpital Pontchaillou (Rennes)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure806-establishment1026",
+    "service_titre": "Service de cardiologie et maladies vasculaires",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "35",
+    "groupe_titre": "Ille-et-Vilaine",
+    "etablissement": "Site hospitalier Broussais (Saint-Malo)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure827-establishment4625",
+    "service_titre": "Cardiologie, USIC et explorations de cardiologie",
+    "service_h3": "Dr Florence REVAULT D'ALLONNES",
+    "email": "f.revault@ch-stmalo.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "35",
+    "groupe_titre": "Ille-et-Vilaine",
+    "etablissement": "Site hospitalier Broussais (Saint-Malo)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure827-establishment4625",
+    "service_titre": "Hopital de Semaine de Cardiologie",
+    "service_h3": "Dr Florence REVAULT D'ALLONNES",
+    "email": "f.revault@ch-stmalo.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "35",
+    "groupe_titre": "Ille-et-Vilaine",
+    "etablissement": "Centre hospitalier (Vitré)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure833-establishment4630",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Catherine VIDAL",
+    "email": "catherine.vidal@ch-vitre.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "36",
+    "groupe_titre": "Indre",
+    "etablissement": "Centre hospitalier (CHATEAUROUX)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure847-establishment4643",
+    "service_titre": "Cardiologie",
+    "service_h3": "M. Alexandru MISCHIE",
+    "email": "alexandru.mischie@ch-chateauroux.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "37",
+    "groupe_titre": "Indre-et-Loire",
+    "etablissement": "Hôpital Trousseau (Chambray-lès-Tours)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure862-establishment1054",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "38",
+    "groupe_titre": "Isère",
+    "etablissement": "CHU Grenoble Alpes - Site NORD (La Tronche)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure887-establishment1075",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "38",
+    "groupe_titre": "Isère",
+    "etablissement": "CHU Grenoble Alpes - Site NORD (La Tronche)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure887-establishment1075",
+    "service_titre": "Réanimation cardio-vasculaire et thoracique",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "38",
+    "groupe_titre": "Isère",
+    "etablissement": "Centre hospitalier Lucien Hussel (VIENNE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure895-establishment4690",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "38",
+    "groupe_titre": "Isère",
+    "etablissement": "GROUPE HOSPITALIER MUTUALISTE GHM (GRENOBLE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3106-establishment6910",
+    "service_titre": "Cardio-Vasculaire",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "38",
+    "groupe_titre": "Isère",
+    "etablissement": "Centre Hospitalier Pierre Oudot (BOURGOIN JALLIEU)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure905-establishment4700",
+    "service_titre": "CARDIOLOGIE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "38",
+    "groupe_titre": "Isère",
+    "etablissement": "CHU Grenoble Alpes - Site SUD (Echirolles)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure887-establishment1074",
+    "service_titre": "Réadaptation cardio-vasculaire",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "39",
+    "groupe_titre": "Jura",
+    "etablissement": "Centre Hospitalier Jura Sud Site de Lons-le-Saunier (Lons-le-Saunier)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure937-establishment4729",
+    "service_titre": "Cardiologie USIC USINV",
+    "service_h3": "Dr Rémy HECHEMA",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "39",
+    "groupe_titre": "Jura",
+    "etablissement": "Centre hospitalier Louis Pasteur (Dole)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure940-establishment4732",
+    "service_titre": "CARDIOLOGIE - NEUROLOGIE",
+    "service_h3": "Dr Ayi NAPPORN",
+    "email": "cardio-neuro.cadre@ch-dole.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "39",
+    "groupe_titre": "Jura",
+    "etablissement": "Centre hospitalier Louis Jaillon (Saint-Claude)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure944-establishment4736",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Hervé JEANVOINE",
+    "email": "medecine.stclaude@hopitaux-jura.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "39",
+    "groupe_titre": "Jura",
+    "etablissement": "CENTRE DE RÉADAPTATION CARDIOLOGIQUE ET PNEUMOLOGIQUE DE FRANCHE-COMTE (Pont d'Héry)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3072-establishment8415",
+    "service_titre": "CENTRE DE RÉADAPTATION CARDIOLOGIQUE ET PNEUMOLOGIQUE DE FRANCHE-COMTE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "40",
+    "groupe_titre": "Landes",
+    "etablissement": "Site Vincent de Paul (Dax)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure959-establishment4748",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "40",
+    "groupe_titre": "Landes",
+    "etablissement": "Site Vincent de Paul (Dax)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure959-establishment4748",
+    "service_titre": "Soins critiques : Réanimation/USIP/US Cardio",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "40",
+    "groupe_titre": "Landes",
+    "etablissement": "Site de Layné (Mont-de-Marsan)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure958-establishment4747",
+    "service_titre": "CARDIOLOGIE ET SOINS INTENSIFS",
+    "service_h3": "Dr Pierre ROUGIER",
+    "email": "alain.ranjatson@ch-mdm.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "41",
+    "groupe_titre": "Loir-et-Cher",
+    "etablissement": "Centre Hospitalier de Blois (BLOIS)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure978-establishment8705",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Pierre-Marc LALLEMAND",
+    "email": "sec.cardio@ch-blois.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "41",
+    "groupe_titre": "Loir-et-Cher",
+    "etablissement": "Centre hospitalier (Vendôme)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure980-establishment4769",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "42",
+    "groupe_titre": "Loire",
+    "etablissement": "CHU de Saint-Étienne Hôpital Nord (Saint Etienne)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1010-establishment1181",
+    "service_titre": "Cardiologie",
+    "service_h3": "Pr Antoine DA COSTA",
+    "email": "Antoine.DaCosta@chu-st-etienne.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "42",
+    "groupe_titre": "Loire",
+    "etablissement": "CHU de Saint-Étienne Hôpital Nord (Saint Etienne)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1010-establishment1181",
+    "service_titre": "Chirurgie Cardio-Vasculaire",
+    "service_h3": "Pr Jean-Noel ALBERTINI",
+    "email": "j.noel.albertini@chu-st-etienne.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "42",
+    "groupe_titre": "Loire",
+    "etablissement": "Centre hospitalier de Roanne (Roanne)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1028-establishment4815",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Marie LEVALLOIS",
+    "email": "secretariat.cardio@ch-roanne.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "42",
+    "groupe_titre": "Loire",
+    "etablissement": "Centre hospitalier (Firminy)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1056-establishment4843",
+    "service_titre": "Médecine cardiologique",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "43",
+    "groupe_titre": "Haute-Loire",
+    "etablissement": "Centre hospitalier Emile Roux (Le Puy-en-Velay)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1058-establishment4845",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Mikaël BOULOT",
+    "email": "mikael.boulot@ch-lepuy.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "44",
+    "groupe_titre": "Loire-Atlantique",
+    "etablissement": "Centre hospitalier de Saint-Nazaire (Saint-Nazaire)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1118-establishment4901",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "44",
+    "groupe_titre": "Loire-Atlantique",
+    "etablissement": "Centre Hospitalier Universitaire G. R. Laennec (Saint-Herblain)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1085-establishment1205",
+    "service_titre": "Clinique cardiologique et des maladies vasculaires",
+    "service_h3": "Pr Jean-Noël TROCHU",
+    "email": "jean-noël.trochu@chu-nantes.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "44",
+    "groupe_titre": "Loire-Atlantique",
+    "etablissement": "CENTRE HOSPITALIER CHATEAUBRIANT NOZAY POUANCE Site Châteaubriant - Siège social (Chateaubriant)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1092-establishment4879",
+    "service_titre": "Médecine Cardiologie-Soins intensifs",
+    "service_h3": "Dr Simon SAAD",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "44",
+    "groupe_titre": "Loire-Atlantique",
+    "etablissement": "Centre Hospitalier Loire Vendée Océan - Site de Machecoul (MACHECOUL)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2365-establishment1501",
+    "service_titre": "Cardiologie - pneumologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "44",
+    "groupe_titre": "Loire-Atlantique",
+    "etablissement": "Centre Hospitalier Loire Vendée Océan - Site de Machecoul (MACHECOUL)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2365-establishment1501",
+    "service_titre": "Réadaptation cardio-vasculaire",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "45",
+    "groupe_titre": "Loiret",
+    "etablissement": "Centre Hospitalier Universitaire d'Orléans (Orléans)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1123-establishment1237",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Marc GORALSKI",
+    "email": "marc.goralski@chu-orleans.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "45",
+    "groupe_titre": "Loiret",
+    "etablissement": "Centre Hospitalier de l'Agglomération Montargoise (AMILLY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1131-establishment4914",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "46",
+    "groupe_titre": "Lot",
+    "etablissement": "Centre hospitalier Jean Rougier (Cahors)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1153-establishment4936",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Mihaela-Liliana BUCELEA",
+    "email": "Mihaela.bucelea@ch-cahors.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "47",
+    "groupe_titre": "Lot-et-Garonne",
+    "etablissement": "CH Pôle de Santé du Villeneuvois (Villeneuve-sur-Lot)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1181-establishment4964",
+    "service_titre": "POLE URGENCE - SURVEILLANCE CONTINUE - CARDIOLOGIE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "47",
+    "groupe_titre": "Lot-et-Garonne",
+    "etablissement": "Centre hospitalier (Agen)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1194-establishment4976",
+    "service_titre": "CARDIOLOGIE AIGUE",
+    "service_h3": "Dr Aurel CRACAN",
+    "email": "cracanau@ch-agen-nerac.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "47",
+    "groupe_titre": "Lot-et-Garonne",
+    "etablissement": "Centre hospitalier (Agen)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1194-establishment4976",
+    "service_titre": "SSR CARDIOLOGIQUES",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "47",
+    "groupe_titre": "Lot-et-Garonne",
+    "etablissement": "Centre hospitalier Intercommunal Marmande-Tonneins (Marmande)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1174-establishment4957",
+    "service_titre": "Cardiologie Pneumologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "48",
+    "groupe_titre": "Lozère",
+    "etablissement": "MCO SITE VALLEE DU LOT (site principal) (Mende)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1195-establishment4977",
+    "service_titre": "Medecine polyvalente (Cs addictologie, cardiologie, endocrinologie, oncologie, pneumologie, sexologie, neurologie, rhumatologie)",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "49",
+    "groupe_titre": "Maine-et-Loire",
+    "etablissement": "CHU (Angers)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1212-establishment6580",
+    "service_titre": "Cardiologie",
+    "service_h3": "Pr Fabrice PRUNIER",
+    "email": "FaPrunier@chu-angers.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "49",
+    "groupe_titre": "Maine-et-Loire",
+    "etablissement": "Centre hospitalier (CHOLET)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1238-establishment5016",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "49",
+    "groupe_titre": "Maine-et-Loire",
+    "etablissement": "Centre hospitalier (CHOLET)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1238-establishment5016",
+    "service_titre": "Cardiologie - Soins intensifs",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "49",
+    "groupe_titre": "Maine-et-Loire",
+    "etablissement": "Centre Hospitalier de SAUMUR (Saumur)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1244-establishment5022",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Fabrice PRUNIER",
+    "email": "affaires-medicales@ch-saumur.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "50",
+    "groupe_titre": "Manche",
+    "etablissement": "Centre hospitalier d'Avranches-Granville (Granville)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1289-establishment5065",
+    "service_titre": "Médecine Cardio-vasculaire et néphrologique",
+    "service_h3": "Dr Takieddine ABADA",
+    "email": "takieddine.abada@ch-avranches-granville.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "50",
+    "groupe_titre": "Manche",
+    "etablissement": "Centre Hospitalier Public du Cotentin (CHERBOURG-EN-COTENTIN)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1270-establishment3376",
+    "service_titre": "Cardiologie et soins intensifs de cardiologie",
+    "service_h3": "Dr Philippe LOISELET",
+    "email": "p.loiselet@ch-cotentin.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "50",
+    "groupe_titre": "Manche",
+    "etablissement": "Centre Hospitalier Public du Cotentin (CHERBOURG-EN-COTENTIN)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1270-establishment3376",
+    "service_titre": "Coronarographie - Centre de Cardiologie Interventionnelle de la Manche",
+    "service_h3": "Dr Guillaume MALCOR",
+    "email": "g.malcor@ch-cotentin.fr",
+    "plateau_cardio": "Oui"
+  },
+  {
+    "groupe_id": "50",
+    "groupe_titre": "Manche",
+    "etablissement": "Centre hospitalier Mémorial France - Etats-Unis (Saint-Lô)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1269-establishment5046",
+    "service_titre": "CARDIOLOGIE",
+    "service_h3": "Dr Laurent MICHEL",
+    "email": "laurent.michel@ch-stlo.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "51",
+    "groupe_titre": "Marne",
+    "etablissement": "Bâtiment D Robert Debre (Reims)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1310-establishment1252",
+    "service_titre": "Cardiologie",
+    "service_h3": "Pr Damien METZ",
+    "email": "dmetz@chu-reims.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "51",
+    "groupe_titre": "Marne",
+    "etablissement": "Bâtiment D Robert Debre (Reims)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1310-establishment1252",
+    "service_titre": "Chirurgie Thoracique et Cardio-Vasculaire",
+    "service_h3": "Pr Vito-Giovanni RUGGIERI",
+    "email": "vgruggieri@chu-reims.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "51",
+    "groupe_titre": "Marne",
+    "etablissement": "Bâtiment D Robert Debre (Reims)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1310-establishment1252",
+    "service_titre": "Imagerie Cardio-Thoracique, Uro-Néphrologie, Vasculaire et Interventionnelle",
+    "service_h3": "Pr Claude MARCUS",
+    "email": "cmarcus@chu-reims.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "51",
+    "groupe_titre": "Marne",
+    "etablissement": "Centre hospitalier Léon Bourgeois (CHALONS-EN-CHAMPAGNE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1308-establishment5083",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Nathalie BAJOLLE",
+    "email": "nbajolle@ch-chalonsenchampagne.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "51",
+    "groupe_titre": "Marne",
+    "etablissement": "Centre hospitalier (VITRY LE FRANCOIS)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1321-establishment5095",
+    "service_titre": "CARDIOLOGIE",
+    "service_h3": "Dr Mamy ANDRIAMBOLOLONA",
+    "email": "m.andriambololona@ch-vitrylefrancois.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "52",
+    "groupe_titre": "Haute-Marne",
+    "etablissement": "Centre hospitalier (Chaumont)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1325-establishment5099",
+    "service_titre": "Cardiologie",
+    "service_h3": "M. Olivier CLAUDON",
+    "email": "olivier.claudon@ch-chaumont.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "52",
+    "groupe_titre": "Haute-Marne",
+    "etablissement": "Centre hospitalier Saint Dizier (Saint-Dizier)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1326-establishment5100",
+    "service_titre": "CARDIOLOGIE ET U.S.I.C",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "52",
+    "groupe_titre": "Haute-Marne",
+    "etablissement": "Centre hospitalier Saint Dizier (Saint-Dizier)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1326-establishment5100",
+    "service_titre": "CARDIOLOGIE usic",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "52",
+    "groupe_titre": "Haute-Marne",
+    "etablissement": "Centre hospitalier (Langres)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1330-establishment5104",
+    "service_titre": "Consultation Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "53",
+    "groupe_titre": "Mayenne",
+    "etablissement": "Centre hospitalier de Laval (Laval)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1341-establishment5115",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Tahar LAZIZI",
+    "email": "tahar.lazizi@chlaval.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "53",
+    "groupe_titre": "Mayenne",
+    "etablissement": "Centre Hospitalier du Nord-Mayenne (Mayenne)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1343-establishment5116",
+    "service_titre": "CARDIOLOGIE",
+    "service_h3": "Dr Abdelrhani MOUMEN",
+    "email": "amoumen@ch-mayenne.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "53",
+    "groupe_titre": "Mayenne",
+    "etablissement": "Centre Hospitalier du Haut Anjou (CHATEAU GONTIER)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1355-establishment5129",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "54",
+    "groupe_titre": "Meurthe-et-Moselle",
+    "etablissement": "Hôpitaux de Brabois (Vandoeuvre-les-Nancy)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1382-establishment1279",
+    "service_titre": "Cardiologie congénitale pédiatrique",
+    "service_h3": "M. Gilles BOSSER",
+    "email": "G.BOSSER@chru-nancy.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "54",
+    "groupe_titre": "Meurthe-et-Moselle",
+    "etablissement": "Hôpitaux de Brabois (Vandoeuvre-les-Nancy)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1382-establishment1279",
+    "service_titre": "Centre de compétence des Maladies cardiovasculaires rares (troubles du rythme cardiaque)",
+    "service_h3": "Pr Nicolas SADOUL",
+    "email": "n.sadoul@chru-nancy.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "54",
+    "groupe_titre": "Meurthe-et-Moselle",
+    "etablissement": "Hôpitaux de Brabois (Vandoeuvre-les-Nancy)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1382-establishment1279",
+    "service_titre": "Centre de compétences des maladies cardiovasculaires graves",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "54",
+    "groupe_titre": "Meurthe-et-Moselle",
+    "etablissement": "Hôpitaux de Brabois (Vandoeuvre-les-Nancy)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1382-establishment1279",
+    "service_titre": "Chirurgie des maladies cardiovasculaires et transplantations (pôle territorial lorrain)",
+    "service_h3": "M. Juan-Pablo MAUREIRA",
+    "email": "jp.maureira@chru-nancy.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "54",
+    "groupe_titre": "Meurthe-et-Moselle",
+    "etablissement": "Hôpitaux de Brabois (Vandoeuvre-les-Nancy)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1382-establishment1279",
+    "service_titre": "Département de cardiologie médicale et réadaptation",
+    "service_h3": "Pr Nicolas SADOUL",
+    "email": "n.sadoul@chru-nancy.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "54",
+    "groupe_titre": "Meurthe-et-Moselle",
+    "etablissement": "Centre hospitalier de Briey Hôpital Maillot (Briey)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1387-establishment5160",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "54",
+    "groupe_titre": "Meurthe-et-Moselle",
+    "etablissement": "Centre Hospitalier de Lunéville (Lunéville)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1391-establishment5164",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Alexandre KOCH",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "55",
+    "groupe_titre": "Meuse",
+    "etablissement": "Centre Hospitalier de Verdun Saint-Mihiel - site Saint-Nicolas MCO (VERDUN)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1412-establishment5184",
+    "service_titre": "Cardiologie et soins intensifs",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "55",
+    "groupe_titre": "Meuse",
+    "etablissement": "Centre Hospitalier (Bar-le-Duc)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1410-establishment5182",
+    "service_titre": "Plateau technique médecine-cardiologie BPCO",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "56",
+    "groupe_titre": "Morbihan",
+    "etablissement": "Centre Hospitalier Bretagne Atlantique - Site de Vannes (Vannes)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1429-establishment7159",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "56",
+    "groupe_titre": "Morbihan",
+    "etablissement": "LORIENT Site du Scorff (LORIENT)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1449-establishment7789",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Pierre KHATTAR",
+    "email": "f.porhel@ghbs.bzh",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "56",
+    "groupe_titre": "Morbihan",
+    "etablissement": "CHCB - Site de Kerio (PONTIVY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1446-establishment10413",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "56",
+    "groupe_titre": "Morbihan",
+    "etablissement": "Centre hospitalier (Ploermel)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1465-establishment5236",
+    "service_titre": "Médecine à orientation cardiologique",
+    "service_h3": "Dr Louis-François GARNIER",
+    "email": "louis-francois.garnier@ch-ploermel.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "57",
+    "groupe_titre": "Moselle",
+    "etablissement": "Hôpital de Mercy (Metz)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1471-establishment1282",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Khalifé KHALIFE",
+    "email": "k.khalife@chr-metz-thionville.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "57",
+    "groupe_titre": "Moselle",
+    "etablissement": "Hôpital de Mercy (Metz)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1471-establishment1282",
+    "service_titre": "Chirurgie cardio-vasculaire et thoracique",
+    "service_h3": "M. Bruno SCHJOTH",
+    "email": "b.schjoth@chr-metz-thionville.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "57",
+    "groupe_titre": "Moselle",
+    "etablissement": "Hôpital Bel-Air (Thionville)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1471-establishment1289",
+    "service_titre": "Cardiologie - Médecine Interne A",
+    "service_h3": "Dr Khalifé KHALIFE",
+    "email": "k.khalife@chr-metz-thionville.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "57",
+    "groupe_titre": "Moselle",
+    "etablissement": "CENTRE HOSPITALIER Hôpital Robert-PAX (Sarreguemines)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1475-establishment5246",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Mohamed NESSIBI",
+    "email": "mohamed.nessibi@ch-sarreguemines.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "57",
+    "groupe_titre": "Moselle",
+    "etablissement": "CHIC Unisanté+ Hôpital Marie-Madeleine de Forbach (Forbach)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1487-establishment5255",
+    "service_titre": "Cardiologie et USIC",
+    "service_h3": "Dr Awad AL AMMAR",
+    "email": "awad.alammar@unisante.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "57",
+    "groupe_titre": "Moselle",
+    "etablissement": "Hopital d'Instruction des Armees LEGOUEST (METZ)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure5561-establishment8037",
+    "service_titre": "CENTRE DE CONSULTATIONS MEDICO-CHIRURGICALES (57) CARDIOLOGIE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "57",
+    "groupe_titre": "Moselle",
+    "etablissement": "Centre Hospitalier Saint Nicolas (Sarrebourg)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1479-establishment5249",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "58",
+    "groupe_titre": "Nièvre",
+    "etablissement": "Centre Hospitalier de l'Agglomération de Nevers Pierre Bérégovoy (Nevers)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1500-establishment5263",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "58",
+    "groupe_titre": "Nièvre",
+    "etablissement": "Centre Hospitalier de l'Agglomération de Nevers Pierre Bérégovoy (Nevers)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1500-establishment5263",
+    "service_titre": "Soins intensifs et surveillance continue de cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "58",
+    "groupe_titre": "Nièvre",
+    "etablissement": "Centre hospitalier (Decize)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1511-establishment5274",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Alexandre TECHE",
+    "email": "teche.m@ght58.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Hôpital Victor PROVO et Maternité de Beaumont (ROUBAIX)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1519-establishment10769",
+    "service_titre": "Cardiologie - USIC",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Centre hospitalier de Douai (Douai)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1576-establishment5338",
+    "service_titre": "CARDIOLOGIE - USIC",
+    "service_h3": "Dr Rosario PILATO",
+    "email": "rosario.pilato@ch-douai.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Centre hospitalier de Tourcoing (Tourcoing)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1542-establishment5304",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Eric DECOULX",
+    "email": "edecoulx@ch-tourcoing.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "CENTRE HOSPITALIER (DENAIN)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1592-establishment5355",
+    "service_titre": "Médecine polyvalente à orientation Gastro-entérologie et Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Groupe Hospitalier SECLIN/CARVIN (Seclin)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1572-establishment5334",
+    "service_titre": "Médecine à orientation Cardio-Vasculaire",
+    "service_h3": "M. Alessandro COSENZA",
+    "email": "alessandro.cosenza@ghsc.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Hôpital Saint Vincent de Paul (Lille)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3163-establishment7200",
+    "service_titre": "Cardiologie SVP",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Hôpital Saint Vincent de Paul (Lille)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3163-establishment7200",
+    "service_titre": "Explorations fonctionnelles cardio, neuro et vasculaire SVP",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Hôpital Saint Vincent de Paul (Lille)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3163-establishment7200",
+    "service_titre": "Laboratoire d'échocardiographie SVP",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Centre Hospitalier (Cambrai)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1562-establishment5324",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Patrick KONE",
+    "email": "p.kone@ch-cambrai.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Centre Hospitalier (Cambrai)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1562-establishment5324",
+    "service_titre": "Unité de Soins Intensifs de Cardiologie",
+    "service_h3": "Dr Patrick KONE",
+    "email": "p.kone@ch-cambrai.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Centre hospitalier de Sambre - Avesnois (MAUBEUGE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1585-establishment5348",
+    "service_titre": "Cardiologie - USIC",
+    "service_h3": "M. Benaissa AGRAOU",
+    "email": "agraou.benaissa@ch-maubeuge.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Hôpital Saint Philibert (Lomme)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3163-establishment7199",
+    "service_titre": "Cardiologie - Soins intensifs SP",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Hôpital Institut Coeur Poumon (LILLE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1518-establishment1301",
+    "service_titre": "Pôle anesthésie-Réanimation cardio-thoracique",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Hôpital Institut Coeur Poumon (LILLE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1518-establishment1301",
+    "service_titre": "Pôle cardiologie et maladies vasculaires",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Hôpital Institut Coeur Poumon (LILLE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1518-establishment1301",
+    "service_titre": "Pôle Explorations fonctionnelles cardiovasculaires",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Centre hospitalier Centre Hospitalier du pays d'avesnes (Avesnes-sur-Helpe)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1568-establishment5330",
+    "service_titre": "Hôpital de Jour de Réadaptation Cardio-Vasculaire",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Centre Hospitalier (Saint-Amand-les-Eaux)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1545-establishment5307",
+    "service_titre": "Consultation de Cardiologie",
+    "service_h3": "Dr Ahmed AMIAR",
+    "email": "aamiar@chsa.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Centre hospitalier d'Armentières (Armentières)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1566-establishment5328",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr François COVIAUX",
+    "email": "f.coviaux@ch-armentieres.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Clinique Sainte Marie (CAMBRAI)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3163-establishment12026",
+    "service_titre": "Cardiologie SM",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "59",
+    "groupe_titre": "Nord",
+    "etablissement": "Hôpital Albert Calmette (LILLE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1518-establishment1306",
+    "service_titre": "Pôle cardio vasculaire et pulmonaire",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "60",
+    "groupe_titre": "Oise",
+    "etablissement": "Centre hospitalier Compiègne-Noyon (Compiègne)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1619-establishment5382",
+    "service_titre": "Cardiologie - USIC",
+    "service_h3": "Dr Jérôme CLERC",
+    "email": "j.clerc@ch-compiegnenoyon.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "60",
+    "groupe_titre": "Oise",
+    "etablissement": "Centre hospitalier Général Beauvais (Beauvais)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1606-establishment5369",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "60",
+    "groupe_titre": "Oise",
+    "etablissement": "Etablissement sanitaire PSPH (CHANTILLY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3168-establishment7224",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "60",
+    "groupe_titre": "Oise",
+    "etablissement": "GHPSO Groupe Hospitalier Public Sud de l'Oise (Creil)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1607-establishment5370",
+    "service_titre": "Cardiologie Unité de soins Intensifs en Cardiologie (USIC)",
+    "service_h3": "Dr Salim BELGUIDOUM",
+    "email": "Salim.Belguidoum@ghpso.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "61",
+    "groupe_titre": "Orne",
+    "etablissement": "Centre Hospitalier Jacques Monod (Flers)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1638-establishment5401",
+    "service_titre": "Médecine Cardiologie et Pneumologie",
+    "service_h3": "Dr Nizar MOHIDDINE",
+    "email": "direction.flers@ght-cdn.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "61",
+    "groupe_titre": "Orne",
+    "etablissement": "Centre hospitalier (La Ferté-Macé)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1651-establishment5414",
+    "service_titre": "Consultation CARDIOLOGIE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "61",
+    "groupe_titre": "Orne",
+    "etablissement": "CENTRE HOSPITALIER (Sées)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1650-establishment5413",
+    "service_titre": "CONSULTATIONS EXTERNES CARDIOLOGIE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "61",
+    "groupe_titre": "Orne",
+    "etablissement": "Centre hospitalier (Argentan)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1645-establishment5408",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "62",
+    "groupe_titre": "Pas-de-Calais",
+    "etablissement": "Centre hospitalier Dr Schaffner (Lens)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1671-establishment5433",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "62",
+    "groupe_titre": "Pas-de-Calais",
+    "etablissement": "Centre Hospitalier de Boulogne-sur-Mer (Boulogne-sur-Mer)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1672-establishment5435",
+    "service_titre": "Cardiologie - USIC",
+    "service_h3": "Dr Eric VERBRUGGE",
+    "email": "direction@ch-boulogne.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "62",
+    "groupe_titre": "Pas-de-Calais",
+    "etablissement": "Centre hospitalier de Béthune (Béthune)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1677-establishment5440",
+    "service_titre": "Unité de Soins cardiologiques",
+    "service_h3": "Dr Christophe MYCINSKI",
+    "email": "cmycinski@ch-bethune.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "62",
+    "groupe_titre": "Pas-de-Calais",
+    "etablissement": "Centre hospitalier (Saint-Omer)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1679-establishment5442",
+    "service_titre": "cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "62",
+    "groupe_titre": "Pas-de-Calais",
+    "etablissement": "Centre Hospitalier d'Arras (Arras)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1656-establishment5419",
+    "service_titre": "Cardiologie / USIC / Explorations fonctionnelles cardio.",
+    "service_h3": "Dr Francesco FAVATA",
+    "email": "Francesco.FAVATA@gh-artoisternois.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "62",
+    "groupe_titre": "Pas-de-Calais",
+    "etablissement": "Centre Hospitalier d'Arras (Arras)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1656-establishment5419",
+    "service_titre": "SSR Cardio - Pneumo (Éole)",
+    "service_h3": "Dr Philippe PAUQUET",
+    "email": "Philippe.PAUQUET@gh-artoisternois.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "63",
+    "groupe_titre": "Puy-de-Dôme",
+    "etablissement": "CHRU Clermont- Ferrand Gabriel-Montpied (Clermont-Ferrand)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1688-establishment2931",
+    "service_titre": "Cardiologie médicale et médecine vasculaire",
+    "service_h3": "M. Romain ESCHALIER",
+    "email": "reschalier@chu-clermontferrand.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "63",
+    "groupe_titre": "Puy-de-Dôme",
+    "etablissement": "CHRU Clermont- Ferrand Gabriel-Montpied (Clermont-Ferrand)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1688-establishment2931",
+    "service_titre": "Chirurgie Cardio-Vasculaire",
+    "service_h3": "Pr Lionel CAMILLERI",
+    "email": "lcamilleri@chu-clermontferrand.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "63",
+    "groupe_titre": "Puy-de-Dôme",
+    "etablissement": "Centre hospitalier Guy Thomas (Riom)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1694-establishment5455",
+    "service_titre": "Médecine à orientation cardiologique",
+    "service_h3": "Dr Pascale HAUMONT",
+    "email": "p.haumont@ch-riom.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "64",
+    "groupe_titre": "Pyrénées-Atlantiques",
+    "etablissement": "Centre hospitalier (Pau)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1731-establishment5490",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "64",
+    "groupe_titre": "Pyrénées-Atlantiques",
+    "etablissement": "Centre hospitalier de la Côte Basque - Saint-Léon (Bayonne)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1733-establishment5492",
+    "service_titre": "Cardiologie Consultations",
+    "service_h3": "Dr Jean-Baptiste BERNEAU",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "64",
+    "groupe_titre": "Pyrénées-Atlantiques",
+    "etablissement": "Centre hospitalier (Orthez)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1738-establishment5497",
+    "service_titre": "MEDECINE POLYVALENTE à orientations Cardiologie, Médecine, Pneumologie et Gastroentérologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "65",
+    "groupe_titre": "Hautes-Pyrénées",
+    "etablissement": "Centre Hospitalier de Bigorre site de la Gespe (MCO) (Tarbes)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1746-establishment5505",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Majdi ABDENNADHER",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "65",
+    "groupe_titre": "Hautes-Pyrénées",
+    "etablissement": "Centre Hospitalier de Bigorre site de la Gespe (MCO) (Tarbes)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1746-establishment5505",
+    "service_titre": "Réanimation spécialisée en cardiologie",
+    "service_h3": "M. Michel SERRANO",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "65",
+    "groupe_titre": "Hautes-Pyrénées",
+    "etablissement": "CENTRE HOSPITALIER (Lourdes)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1746-establishment5506",
+    "service_titre": "Cardiologie et maladies vasculaires",
+    "service_h3": "M. Christian DEMASLES",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "66",
+    "groupe_titre": "Pyrénées-Orientales",
+    "etablissement": "Centre Hospitalier de Perpignan (Perpignan)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1761-establishment5519",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "67",
+    "groupe_titre": "Bas-Rhin",
+    "etablissement": "Centre hospitalier (Haguenau)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1806-establishment5561",
+    "service_titre": "Service de Cardiologie",
+    "service_h3": "Dr Philippe COUPPIE",
+    "email": "sec.cardiologie@ch-haguenau.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "67",
+    "groupe_titre": "Bas-Rhin",
+    "etablissement": "CENTRE HOSPITALIER SELESTAT (SELESTAT)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1811-establishment5566",
+    "service_titre": "Consultations externes de cardiologie et explorations cardiovasculaires",
+    "service_h3": "Dr Mounzer MANSOUR",
+    "email": "Mounzer.MANSOUR@ghso.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "67",
+    "groupe_titre": "Bas-Rhin",
+    "etablissement": "Centre hospitalier (Wissembourg)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1786-establishment5544",
+    "service_titre": "Plateau technique de cardiologie",
+    "service_h3": "Dr Rodolphe THEOLADE",
+    "email": "rtheolade@ch-wissembourg.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "67",
+    "groupe_titre": "Bas-Rhin",
+    "etablissement": "Centre hospitalier (Wissembourg)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1786-establishment5544",
+    "service_titre": "SSR Cardiologique",
+    "service_h3": "Dr Rodolphe THEOLADE",
+    "email": "rtheolade@ch-wissembourg.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "67",
+    "groupe_titre": "Bas-Rhin",
+    "etablissement": "Hôpital Civil (Strasbourg)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1777-establishment1331",
+    "service_titre": "Cardiologie - NHC",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "67",
+    "groupe_titre": "Bas-Rhin",
+    "etablissement": "Hôpital Civil (Strasbourg)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1777-establishment1331",
+    "service_titre": "Chirurgie cardio vasculaire - transplantation et assistance cardiaque - NHC",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "68",
+    "groupe_titre": "Haut-Rhin",
+    "etablissement": "Hôpital Louis Pasteur (Colmar)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1817-establishment5572",
+    "service_titre": "Cardiologie (Médecine C)",
+    "service_h3": "Dr Laszlo LEVAI",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "68",
+    "groupe_titre": "Haut-Rhin",
+    "etablissement": "Hôpital Louis Pasteur (Colmar)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1817-establishment5572",
+    "service_titre": "Explorations fonctionnelles cardio-vasculaires",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "68",
+    "groupe_titre": "Haut-Rhin",
+    "etablissement": "Hôpital Emile Muller (Mulhouse)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1818-establishment9947",
+    "service_titre": "Radiologie cardio-interventionnelle",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "68",
+    "groupe_titre": "Haut-Rhin",
+    "etablissement": "Hôpital Hasenrain (Mulhouse)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1818-establishment5573",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hôpital de la Croix-Rousse - HCL (Lyon)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1860-establishment5607",
+    "service_titre": "Consultation de Cardiologie Pédiatrique",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hôpital de la Croix-Rousse - HCL (Lyon)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1860-establishment5607",
+    "service_titre": "Service de Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hôpital de Villefranche-sur-Saône - HNO (Villefranche-sur-Saône Cedex)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1887-establishment5630",
+    "service_titre": "CARDIOLOGIE, CARDIOLOGIE INTERVENTIONNELLE ET UNITE DE SOINS INTENSIFS DE CARDIOLOGIE",
+    "service_h3": "Dr Olivier LE VAVASSEUR",
+    "email": "secretariat.cardio@hno.fr",
+    "plateau_cardio": "Oui"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hôpital Femme Mère-Enfant -HCL (BRON)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1867-establishment6722",
+    "service_titre": "Consultation de Cardiologie Pédiatrique",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hôpital Louis Pradel - HCL (Bron)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1867-establishment5613",
+    "service_titre": "Plateau ambulatoire cardiologique",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hôpital Louis Pradel - HCL (Bron)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1867-establishment5613",
+    "service_titre": "Plateau Urgences Cardiologiques",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hôpital Louis Pradel - HCL (Bron)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1867-establishment5613",
+    "service_titre": "Service d'Hémodynamique et de Cardiologie Interventionnelle",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Oui"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hôpital Louis Pradel - HCL (Bron)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1867-establishment5613",
+    "service_titre": "Service d'Imagerie cardio-vasculaire et thoracique",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hôpital Louis Pradel - HCL (Bron)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1867-establishment5613",
+    "service_titre": "Service de Cardiologie : filière coronaires et valves",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hôpital Louis Pradel - HCL (Bron)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1867-establishment5613",
+    "service_titre": "Service de Cardiologie congénitale adultes et enfants",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hôpital Louis Pradel - HCL (Bron)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1867-establishment5613",
+    "service_titre": "Service de Cardiologie E (cardiologie générale)",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hôpital Louis Pradel - HCL (Bron)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1867-establishment5613",
+    "service_titre": "Service de Chirurgie Cardio-Vasculaire A",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hôpital Louis Pradel - HCL (Bron)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1867-establishment5613",
+    "service_titre": "Service de Chirurgie Cardio-Vasculaire B",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hôpital Louis Pradel - HCL (Bron)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1867-establishment5613",
+    "service_titre": "Service de Chirurgie Cardio-Vasculaire C",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hôpital Saint Joseph Saint Luc (Lyon)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3208-establishment7212",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hopital spécialisé des Armées DESGENETTES (LYON 3)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure5561-establishment8038",
+    "service_titre": "CARDIOLOGIE ET PATHOLOGIE VASCULAIRE 69",
+    "service_h3": "Dr Delphine MIOULET",
+    "email": "cardiologie@hiadcssa.org",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "69",
+    "groupe_titre": "Rhône",
+    "etablissement": "Hôpital Lyon Sud HCL (Pierre-Bénite)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1878-establishment5623",
+    "service_titre": "Consultations de cardiologie - Explorations fonctionnelles cardiologiques",
+    "service_h3": "Pr Pierre LANTELME",
+    "email": "pierre.lantelme@chu-lyon.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "70",
+    "groupe_titre": "Haute-Saône",
+    "etablissement": "GROUPE HOSPITALIER DE LA HAUTE-SAONE site de Vesoul (VESOUL)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1902-establishment8474",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Lisbeth CART",
+    "email": "l.cart@gh70.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "71",
+    "groupe_titre": "Saône-et-Loire",
+    "etablissement": "Centre hospitalier (MACON)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1908-establishment5650",
+    "service_titre": "CARDIOLOGIE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "71",
+    "groupe_titre": "Saône-et-Loire",
+    "etablissement": "Hôpital Fondation Hôtel-Dieu du Creusot (LE CREUSOT)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3155-establishment7870",
+    "service_titre": "Consultations Cardiologie",
+    "service_h3": "Dr Ghassan YANNI",
+    "email": "ghyanni@hoteldieu-creusot.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "71",
+    "groupe_titre": "Saône-et-Loire",
+    "etablissement": "Centre hospitalier EHPAD (AUTUN)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1935-establishment5674",
+    "service_titre": "Consultations Cardiologie",
+    "service_h3": "Dr Patrick BUTTARD",
+    "email": "P.BUTTARD@ch-autun.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "71",
+    "groupe_titre": "Saône-et-Loire",
+    "etablissement": "Centre hospitalier (CHALON-SUR-SAONE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1927-establishment5666",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Patrick BUTTARD",
+    "email": "patrick.buttard@ch-chalon71.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "73",
+    "groupe_titre": "Savoie",
+    "etablissement": "Centre hospitalier Métropole Savoie (CHAMBERY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1996-establishment5735",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Vincent DESCOTES-GENON",
+    "email": "vincent.descotes-genon@ch-metropole-savoie.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "73",
+    "groupe_titre": "Savoie",
+    "etablissement": "Centre hospitalier Métropole Savoie (AIX-LES-BAINS)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1996-establishment5736",
+    "service_titre": "Médecine polyvalente à orientation gastro-entérologie et cardiologie",
+    "service_h3": "Dr Léa CARBONE",
+    "email": "lea.carbone@ch-metropole-savoie.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "74",
+    "groupe_titre": "Haute-Savoie",
+    "etablissement": "Centre Hospitalier Annecy Genevois - site ANNECY (EPAGNY METZ TESSY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2012-establishment5750",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Emmanuel DESJOYAUX",
+    "email": "edesjoyaux@ch-annecygenevois.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "74",
+    "groupe_titre": "Haute-Savoie",
+    "etablissement": "Centre Hospitalier Annecy Genevois - site ANNECY (EPAGNY METZ TESSY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2012-establishment5750",
+    "service_titre": "Cardiologie - USIC - Unité de soins intensifs cardiologiques",
+    "service_h3": "Dr Emmanuel DESJOYAUX",
+    "email": "edesjoyaux@ch-annecygenevois.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "74",
+    "groupe_titre": "Haute-Savoie",
+    "etablissement": "Centre Hospitalier Alpes Léman Établissement Support du GHT Léman Mont-Blanc (Contamine sur Arve)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2013-establishment5751",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Vuthik PANH",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "74",
+    "groupe_titre": "Haute-Savoie",
+    "etablissement": "Centre Hospitalier Annecy Genevois site de St Julien en Genevois (Saint-Julien-en-Genevois)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2012-establishment5754",
+    "service_titre": "Cardiologie clinique et explorations fonctionnelles - site de St Julien",
+    "service_h3": "Dr Rachid BENDERBOUS",
+    "email": "rbenderbous@ch-annecygenevois.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "74",
+    "groupe_titre": "Haute-Savoie",
+    "etablissement": "Centre Hospitalier Intercommunal Hôpitaux du Pays du Mont-Blanc site de SALLANCHES (SALLANCHES)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2028-establishment5766",
+    "service_titre": "MEDECINE CARDIOLOGIQUE ET GASTROENTEROLOGIE",
+    "service_h3": "Dr Patrick BROIN",
+    "email": "Meds_Sec@ch-sallanches-chamonix.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "74",
+    "groupe_titre": "Haute-Savoie",
+    "etablissement": "HOPITAUX DU LEMAN Site Georges PIANTA à THONON (Thonon-les-Bains)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2017-establishment5755",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Audrey NGEUTCHA TANTCHOU",
+    "email": "secretariat-cardiologie@ch-hopitauxduleman.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "74",
+    "groupe_titre": "Haute-Savoie",
+    "etablissement": "HOPITAUX DU LEMAN Site Georges PIANTA à THONON (Thonon-les-Bains)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2017-establishment5755",
+    "service_titre": "Explorations fonctionnelles cardiologiques",
+    "service_h3": "Mme Hélène VIVET",
+    "email": "h-vivet@hopitauxduleman.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "74",
+    "groupe_titre": "Haute-Savoie",
+    "etablissement": "Hopital Gabriel Déplante (RUMILLY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2015-establishment7659",
+    "service_titre": "CARDIO-GERIATRIE",
+    "service_h3": "Dr Mathieu CHACORNAC",
+    "email": "mchacornac@ch-annecygenevois.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Universitaire Pitié Salpêtrière (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2048-establishment5783",
+    "service_titre": "Cardiogénétique et myogénétique moléculaire et cellulaire",
+    "service_h3": "Dr MAGALIE LODIN PASQUIER",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Universitaire Pitié Salpêtrière (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2048-establishment5783",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr MICHEL ZEITOUNI",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Universitaire Pitié Salpêtrière (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2048-establishment5783",
+    "service_titre": "Cardiologie - Hospitalisation",
+    "service_h3": "Dr MARIA ELISABETA GHEORGHIU",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Universitaire Pitié Salpêtrière (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2048-establishment5783",
+    "service_titre": "Imagerie Cardiovasculaire et Thoracique (ICT)",
+    "service_h3": "Dr PAUL-GYDEON RITVO",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Universitaire Pitié Salpêtrière (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2048-establishment5783",
+    "service_titre": "Lipidologie et Prévention Cardiovasculaire",
+    "service_h3": "Dr ANTONIO GALLO",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Universitaire Pitié Salpêtrière (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2048-establishment5783",
+    "service_titre": "Pharmacologie oncologique et cardiovasculaire et Oncocardiologie",
+    "service_h3": "Pr JOE ELIE SALEM",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Universitaire Pitié Salpêtrière (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2048-establishment5783",
+    "service_titre": "Radiologie cardiovasculaire et interventionnelle",
+    "service_h3": "TRISTAN PITTIN",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Universitaire Pitié Salpêtrière (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2048-establishment5783",
+    "service_titre": "Unité de Cardiologie Ambulatoire Sans et Avec Rendez-vous",
+    "service_h3": "Dr CLEMENT DAVRIL",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Universitaire Pitié Salpêtrière (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2048-establishment5783",
+    "service_titre": "Unité Soins Intensifs Cardiologie (USIC)",
+    "service_h3": "Pr JOHANNE SILVAIN",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Cochin - Port-Royal (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2051-establishment5786",
+    "service_titre": "Anesthésie en chirurgie digestive, endocrinienne, endoscopie digestive, radiologie et cardiologie interventionnelles",
+    "service_h3": "Dr ILYES MEKKI",
+    "email": "",
+    "plateau_cardio": "Oui"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Cochin - Port-Royal (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2051-establishment5786",
+    "service_titre": "cardiologie",
+    "service_h3": "Dr ANISSA ZIDOUNE",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Cochin - Port-Royal (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2051-establishment5786",
+    "service_titre": "explorations invasives cardiologiques",
+    "service_h3": "Dr FABIEN PICARD",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Cochin - Port-Royal (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2051-establishment5786",
+    "service_titre": "Imagerie cardiothoracique et oncologique",
+    "service_h3": "Pr MARIE PIERRE REVEL DUBOIS",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Groupe hospitalier Lariboisière - Fernand-Widal (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2043-establishment5778",
+    "service_titre": "Cardiologie",
+    "service_h3": "MARIE CHRISTINE DARRICAU",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Groupe hospitalier Lariboisière - Fernand-Widal (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2043-establishment5778",
+    "service_titre": "Explorations Fonctionnelles Cardio-vasculaires et Respiratoires",
+    "service_h3": "Dr PIERRE LOZERON",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Groupe hospitalier Lariboisière - Fernand-Widal (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2043-establishment5778",
+    "service_titre": "Unité de Soins Intensifs en Cardiologie",
+    "service_h3": "AURORE LEMAY",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Bichat - Claude-Bernard (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2038-establishment5775",
+    "service_titre": "Hospitalisation de cardiologie",
+    "service_h3": "Dr JULIA ATTIA",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Bichat - Claude-Bernard (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2038-establishment5775",
+    "service_titre": "Imagerie cardiovasculaire",
+    "service_h3": "Dr Alexandre FITOUSSI",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Bichat - Claude-Bernard (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2038-establishment5775",
+    "service_titre": "Réanimation chirurgicale cardiologique",
+    "service_h3": "Pr DAN LONGROIS",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Bichat - Claude-Bernard (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2038-establishment5775",
+    "service_titre": "Soins intensifs de cardiologie",
+    "service_h3": "Pr GREGORY DUCROCQ",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital européen Georges-Pompidou (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2056-establishment5791",
+    "service_titre": "Biochimie cardiovasculaire",
+    "service_h3": "MURIELLE PIETROBONI",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital européen Georges-Pompidou (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2056-establishment5791",
+    "service_titre": "Cardio-oncologie",
+    "service_h3": "Dr SEBASTIAN STOICA",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital européen Georges-Pompidou (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2056-establishment5791",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr CATHERINE SZYMANSKI",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital européen Georges-Pompidou (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2056-establishment5791",
+    "service_titre": "Consultation de cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital européen Georges-Pompidou (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2056-establishment5791",
+    "service_titre": "Plateau Technique non invasif (Explorations non invasives cardio-vasculaires)",
+    "service_h3": "Dr DORRA M'BAREK RABOUDI",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Groupe Hospitalier Saint-Louis, Lariboisière, Fernand-Widal Site Saint Louis (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2044-establishment5779",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr BENJAMIN SIBILIA",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "HOPITAL PARIS SAINT-JOSEPH (GHPSJ - Maternité Notre-Dame de Bon Secours) (PARIS)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3228-establishment6803",
+    "service_titre": "CARDIOLOGIE",
+    "service_h3": "Dr Romain CADOR",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "Hôpital Hôpital Saint Antoine (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2034-establishment5772",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr CLEMENT DARRICAUD",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "Hôpital Hôpital Saint Antoine (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2034-establishment5772",
+    "service_titre": "Soins intensifs de cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Necker - Enfants Malades (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2053-establishment5788",
+    "service_titre": "Cardiologie pédiatrique",
+    "service_h3": "JULES ADER",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Necker - Enfants Malades (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2053-establishment5788",
+    "service_titre": "Hôpital de jour de cardiologie pédiatrique",
+    "service_h3": "Pr DAMIEN BONNET",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Necker - Enfants Malades (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2053-establishment5788",
+    "service_titre": "Unité Fonctionnelle de Cardiologie Adulte",
+    "service_h3": "Pr Eloi MARIJON",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital Tenon (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2055-establishment5790",
+    "service_titre": "Cardiologie",
+    "service_h3": "Pr ARON ARIEL COHEN",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "AP-HP Hôpital universitaire Robert-Debré (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2039-establishment5776",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr BASTIEN MOYSSET",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "HOPITAL HOPITAL LEOPOLD BELLAN (PARIS)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3238-establishment7346",
+    "service_titre": "UNITE DE READAPTATION CARDIO-VASCULAIRE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "75",
+    "groupe_titre": "Paris",
+    "etablissement": "Hôpital Hôtel Dieu (AP-HP) (Paris)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2041-establishment5777",
+    "service_titre": "HTA cardiologie",
+    "service_h3": "ELEONORE SOTTO",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "76",
+    "groupe_titre": "Seine-Maritime",
+    "etablissement": "Hôpital Charles-Nicolle (Rouen)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2057-establishment1353",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "76",
+    "groupe_titre": "Seine-Maritime",
+    "etablissement": "Hôpital Charles-Nicolle (Rouen)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2057-establishment1353",
+    "service_titre": "Service de Chirurgie Thoracique et cardio-vasculaire",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "76",
+    "groupe_titre": "Seine-Maritime",
+    "etablissement": "Centre Hospitalier Intercommunal Elbeuf-Louviers/Val de Reuil (ELBEUF)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2098-establishment5829",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Fabian TOURNEVACHE",
+    "email": "fabian.tournevache@chi-elbeuf-louviers.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "76",
+    "groupe_titre": "Seine-Maritime",
+    "etablissement": "Groupe Hospitalier du Havre Hôpital Jacques Monod (MONTIVILLIERS)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2059-establishment3306",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Emmanuel LECLUSE",
+    "email": "emmanuel.lecluse@ch-havre.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "76",
+    "groupe_titre": "Seine-Maritime",
+    "etablissement": "Groupe Hospitalier du Havre Hôpital Jacques Monod (MONTIVILLIERS)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2059-establishment3306",
+    "service_titre": "SSR cardio-respiratoire (HC et HDJ)",
+    "service_h3": "Dr Emmanuel LECLUSE",
+    "email": "emmanuel.lecluse@ch-havre.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "76",
+    "groupe_titre": "Seine-Maritime",
+    "etablissement": "CENTRE HOSPITALIER DE DIEPPE : Site Pasteur (Dieppe)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2071-establishment5802",
+    "service_titre": "CARDIOLOGIE ET UNITE DE SOINS INTENSIFS CARDIOLOGIQUES",
+    "service_h3": "Dr Carole HUCHE",
+    "email": "chuche@ch-dieppe.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "76",
+    "groupe_titre": "Seine-Maritime",
+    "etablissement": "Centre Hospitalier Intercommunal (FECAMP)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2089-establishment5820",
+    "service_titre": "Médecine à orientation cardiologique",
+    "service_h3": "Dr Philippe CALOT",
+    "email": "philippe.calot@ch-fecamp.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "77",
+    "groupe_titre": "Seine-et-Marne",
+    "etablissement": "Grand Hôpital de l'Est Francilien (JOSSIGNY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2119-establishment5865",
+    "service_titre": "Cardiologie - USIC - HDJ - HDS - Explorations fonctionnelles cardiologiques - MLV",
+    "service_h3": "Dr Simon ELHADAD",
+    "email": "mgerber@ghef.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "77",
+    "groupe_titre": "Seine-et-Marne",
+    "etablissement": "Grand Hôpital de l'Est Francilien (JOSSIGNY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2119-establishment5865",
+    "service_titre": "Unité de cardiologie du sport - MLV",
+    "service_h3": "Dr Simon ELHADAD",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "77",
+    "groupe_titre": "Seine-et-Marne",
+    "etablissement": "Hôpital de Melun-Sénart - Groupe hospitalier Sud Ile-de-France (Melun)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2117-establishment10636",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Cyrus MOINI",
+    "email": "cyrus.moini@ghsif.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "77",
+    "groupe_titre": "Seine-et-Marne",
+    "etablissement": "Grand Hôpital de l'Est Francilien (MEAUX)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2119-establishment5849",
+    "service_titre": "Cardiologie - USIC - Explorations fonctionnelles cardiologiques - MX",
+    "service_h3": "Dr Sergio PERNA",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "77",
+    "groupe_titre": "Seine-et-Marne",
+    "etablissement": "Grand Hôpital de l'Est Francilien (COULOMMIERS)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2119-establishment5872",
+    "service_titre": "Cardiologie - Explorations fonctionnelles cardiologiques - CLM",
+    "service_h3": "Dr Simon ELHADAD",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "77",
+    "groupe_titre": "Seine-et-Marne",
+    "etablissement": "Centre hospitalier Léon Binet (Provins)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2140-establishment5869",
+    "service_titre": "Cardiologie et maladies vasculaires",
+    "service_h3": "Dr Farid TAOURI",
+    "email": "ehaddad@ch-provins.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "77",
+    "groupe_titre": "Seine-et-Marne",
+    "etablissement": "Site hospitalier de Fontainebleau (FONTAINEBLEAU)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2132-establishment5861",
+    "service_titre": "Médecine A-B (neurologie - cardiologie)",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "77",
+    "groupe_titre": "Seine-et-Marne",
+    "etablissement": "Site de Montereau-Fault-Yonne (MONTEREAU FAUT YONNE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2132-establishment5884",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Adama SANGARE",
+    "email": "adama.sangare@ch-montereau.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "78",
+    "groupe_titre": "Yvelines",
+    "etablissement": "Centre hospitalier intercommunal de Poissy-Saint-Germain-en-Laye > Site hospitalier de Poissy (POISSY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2163-establishment2557",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr David BERVILLE",
+    "email": "david.berville@ght-yvelinesnord.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "78",
+    "groupe_titre": "Yvelines",
+    "etablissement": "Hôpital André Mignot Centre Hospitalier de Versailles (Le Chesnay)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2165-establishment5893",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Geraldine GIBAULT GENTY",
+    "email": "ggibaultgenty@ght78sud.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "78",
+    "groupe_titre": "Yvelines",
+    "etablissement": "Centre hospitalier François Quesnay (Mantes-la-Jolie)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2166-establishment5894",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr David BERVILLE",
+    "email": "david.berville@ght-yvelinesnord.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "78",
+    "groupe_titre": "Yvelines",
+    "etablissement": "Centre hospitalier (RAMBOUILLET)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2179-establishment5908",
+    "service_titre": "Cardiologie-Pneumologie-USIC",
+    "service_h3": "Dr Christophe CHAVELAS",
+    "email": "cchavelas@ght78sud.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "78",
+    "groupe_titre": "Yvelines",
+    "etablissement": "Etablissement SSR et Institut de Néphrologie de Maisons-Laffitte Groupe MGEN (Maisons-Laffitte)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3220-establishment8546",
+    "service_titre": "Service de SSR Cardiologie-Néphrologie-Polyvalents",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "78",
+    "groupe_titre": "Yvelines",
+    "etablissement": "Centre hospitalier intercommunal de Poissy-Saint-Germain-en-Laye > Site hospitalier de Saint-Germain-en-Laye (SAINT-GERMAIN-EN-LAYE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2163-establishment5891",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr David BERVILLE",
+    "email": "david.berville@ght-yvelinesnord.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "79",
+    "groupe_titre": "Deux-Sèvres",
+    "etablissement": "Centre hospitalier (Niort)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2190-establishment5917",
+    "service_titre": "Cardiologie et Explorations Cardiovasculaires",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "80",
+    "groupe_titre": "Somme",
+    "etablissement": "CHU Amiens Picardie - Site Sud (Amiens)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2224-establishment1360",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "80",
+    "groupe_titre": "Somme",
+    "etablissement": "CHU Amiens Picardie - Site Sud (Amiens)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2224-establishment1360",
+    "service_titre": "Cardiologie et Pneumo-Allergologie Pédiatriques",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "80",
+    "groupe_titre": "Somme",
+    "etablissement": "CHU Amiens Picardie - Site Sud (Amiens)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2224-establishment1360",
+    "service_titre": "Cardiologie, Rythmologie et Stimulation Cardiaque",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "80",
+    "groupe_titre": "Somme",
+    "etablissement": "CHU Amiens Picardie - Site Sud (Amiens)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2224-establishment1360",
+    "service_titre": "Réanimation Médico-Chirurgicale Cardio Thoracique Vasculaire et Respiratoire",
+    "service_h3": "Pr Hervé DUPONT",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "80",
+    "groupe_titre": "Somme",
+    "etablissement": "CHU Amiens Picardie - Site Sud (Amiens)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2224-establishment1360",
+    "service_titre": "Unité de Soins Intensifs de Cardiologie (USIC)",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "80",
+    "groupe_titre": "Somme",
+    "etablissement": "Centre hospitalier (Abbeville)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2230-establishment5957",
+    "service_titre": "Médecine cardiologique - USIC",
+    "service_h3": "Dr Vincent MOUQUET",
+    "email": "hautbout.karine@ch-abbeville.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "80",
+    "groupe_titre": "Somme",
+    "etablissement": "Centre hospitalier (Abbeville)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2230-establishment5957",
+    "service_titre": "Soins de suite et de réadaptation cardio-respiratoires",
+    "service_h3": "Dr Olivier LELEU",
+    "email": "hautbout.karine@ch-abbeville.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "80",
+    "groupe_titre": "Somme",
+    "etablissement": "Centre hospitalier (Corbie)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2258-establishment5983",
+    "service_titre": "SSR - Réadaptation cardio-vasculaire",
+    "service_h3": "Dr Florent KRIM",
+    "email": "cardiovasculaire@ch-corbie.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "81",
+    "groupe_titre": "Tarn",
+    "etablissement": "HOPITAL DU PAYS d'AUTAN - Site de Castres (Castres)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2261-establishment5986",
+    "service_titre": "CARDIOLOGIE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "81",
+    "groupe_titre": "Tarn",
+    "etablissement": "HOPITAL DU PAYS d'AUTAN - Site de Castres (Castres)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2261-establishment5986",
+    "service_titre": "CARDIOLOGIE et USIC",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "81",
+    "groupe_titre": "Tarn",
+    "etablissement": "Centre hospitalier (Albi)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2260-establishment5985",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "82",
+    "groupe_titre": "Tarn-et-Garonne",
+    "etablissement": "Centre Hospitalier Général (MONTAUBAN)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2269-establishment5994",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Nouredinne EL HAJJAJI",
+    "email": "n.elhajjaji@ch-montauban.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "82",
+    "groupe_titre": "Tarn-et-Garonne",
+    "etablissement": "Centre Hospitalier Général (MONTAUBAN)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2269-establishment5994",
+    "service_titre": "Soins Intensifs Neuro-Cardio-Vasculaires",
+    "service_h3": "Dr Nouredinne EL HAJJAJI",
+    "email": "n.elhajjaji@ch-montauban.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "83",
+    "groupe_titre": "Var",
+    "etablissement": "C.H.I.T.S. Hôpital Sainte Musse (Toulon)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2284-establishment2219",
+    "service_titre": "Cardiologie A",
+    "service_h3": "Dr Jean-Michel TARTIERE",
+    "email": "jean-michel.tartiere@ch-toulon.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "83",
+    "groupe_titre": "Var",
+    "etablissement": "C.H.I.T.S. Hôpital Sainte Musse (Toulon)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2284-establishment2219",
+    "service_titre": "Unité de Soins intensifs cardiologiques (USIC)",
+    "service_h3": "Dr Farid CHALLAL",
+    "email": "farid.challal@ch-toulon.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "83",
+    "groupe_titre": "Var",
+    "etablissement": "Centre Hospitalier Intercommunal (FREJUS)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2302-establishment6026",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Hélène ZAKARIAN",
+    "email": "zakarian-h@chi-fsr.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "83",
+    "groupe_titre": "Var",
+    "etablissement": "Hôpital National d'Instruction des armées SAINTE ANNE (TOULON)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure5561-establishment8042",
+    "service_titre": "CARDIOLOGIE ET MALADIES VASCULAIRES HIA Sainte-Anne",
+    "service_h3": "Pr Gilles CELLARIER",
+    "email": "cardiologie@hia-sainte-anne.ssa.msante.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "83",
+    "groupe_titre": "Var",
+    "etablissement": "Centre Hospitalier de la Dracénie (Draguignan)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2283-establishment6008",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "83",
+    "groupe_titre": "Var",
+    "etablissement": "HCL Hôpital Renée Sabran (Giens)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2294-establishment6018",
+    "service_titre": "Consultations Cardiologie",
+    "service_h3": "Mme Daniele RAUFAST",
+    "email": "daniele.raufast@chu-lyon.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "84",
+    "groupe_titre": "Vaucluse",
+    "etablissement": "Centre Hospitalier Henri Duffaut (Avignon)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2347-establishment6067",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "84",
+    "groupe_titre": "Vaucluse",
+    "etablissement": "Centre hospitalier intercommunal de Cavaillon - Lauris (Cavaillon)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2329-establishment6052",
+    "service_titre": "Service de médecine A - Cardiologie",
+    "service_h3": "Dr Patrick GIRAUD",
+    "email": "p.giraud@ch-cavaillon.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "85",
+    "groupe_titre": "Vendée",
+    "etablissement": "Centre Hospitalier Départemental Vendée, site de La Roche-sur-Yon (La Roche-sur-Yon)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2349-establishment6069",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "85",
+    "groupe_titre": "Vendée",
+    "etablissement": "Centre Hospitalier Côte de Lumière (LES SABLES D'OLONNE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2352-establishment6071",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Claire BOIVINEAU",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "85",
+    "groupe_titre": "Vendée",
+    "etablissement": "Centre Hospitalier Loire Vendée Océan - site de Challans (CHALLANS)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2365-establishment6082",
+    "service_titre": "Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "85",
+    "groupe_titre": "Vendée",
+    "etablissement": "Centre hospitalier (FONTENAY LE COMTE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2356-establishment6075",
+    "service_titre": "Cardiologie et neuro-vasculaire",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "86",
+    "groupe_titre": "Vienne",
+    "etablissement": "Site hospitalier de Poitiers La Miletrie (Poitiers)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2376-establishment1364",
+    "service_titre": "Chirurgie cardio-thoracique",
+    "service_h3": "Pr Pierre CORBI",
+    "email": "pierre.corbi@chu-poitiers.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "86",
+    "groupe_titre": "Vienne",
+    "etablissement": "Site hospitalier de Poitiers La Miletrie (Poitiers)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2376-establishment1364",
+    "service_titre": "Service médico-chirurgical de Cardiologie",
+    "service_h3": "Pr Luc-Philippe CHRISTIAENS",
+    "email": "luc-philippe.christiaens@chu-poitiers.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "86",
+    "groupe_titre": "Vienne",
+    "etablissement": "Site hospitalier de Châtellerault (Chatellerault)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2376-establishment6093",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Damien COISNE",
+    "email": "cardiologie@ghnv.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "86",
+    "groupe_titre": "Vienne",
+    "etablissement": "Site hospitalier de Montmorillon (Montmorillon)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2376-establishment6098",
+    "service_titre": "Médecine générale - Cardiologie - Rhumatologie - Angiologie - Diabétologie/endocrinologie - Douleur",
+    "service_h3": "Dr Jean-Claude LORENZO",
+    "email": "jean-claude.lorenzo@ch-montmorillon.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "87",
+    "groupe_titre": "Haute-Vienne",
+    "etablissement": "CHU Dupuytren 1 (Limoges)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2386-establishment1372",
+    "service_titre": "Cardiologie",
+    "service_h3": "Pr Victor ABOYANS",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "88",
+    "groupe_titre": "Vosges",
+    "etablissement": "Centre hospitalier Nouvel Hôpital d'Epinal - plateau de la justice (Epinal)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2413-establishment6126",
+    "service_titre": "Cardiologie USIC Plateau Technique",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "88",
+    "groupe_titre": "Vosges",
+    "etablissement": "Centre hospitalier Nouvel Hôpital d'Epinal - plateau de la justice (Epinal)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2413-establishment6126",
+    "service_titre": "Unité de Soins Intensifs de Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "88",
+    "groupe_titre": "Vosges",
+    "etablissement": "Centre hospitalier (Remiremont)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2425-establishment6138",
+    "service_titre": "Médecine orientation Cardiologie",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "88",
+    "groupe_titre": "Vosges",
+    "etablissement": "Site Hospitalier de Neufchâteau Siège Social (Neufchâteau)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2435-establishment6148",
+    "service_titre": "CARDIOLOGIE ET SOINS INTENSIFS CARDIAQUES",
+    "service_h3": "Dr Jean-Louis MEREGNANI",
+    "email": "jl.meregnani@ch-ouestvosgien.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "89",
+    "groupe_titre": "Yonne",
+    "etablissement": "Centre hospitalier Centre hospitalier d'Auxerre (Auxerre)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2462-establishment6170",
+    "service_titre": "Cardiologie et unité de soins intensifs cardiologiques",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "89",
+    "groupe_titre": "Yonne",
+    "etablissement": "Hopital Gaston Ramon (Sens)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2465-establishment6172",
+    "service_titre": "Médecine cardiologie et soins intensifs",
+    "service_h3": "Dr Didier PACAUD",
+    "email": "dpacaud@ch-sens.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "89",
+    "groupe_titre": "Yonne",
+    "etablissement": "CENTRE HOSPITALIER (JOIGNY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2477-establishment6183",
+    "service_titre": "Plateau Technique de Cardiologie",
+    "service_h3": "Dr Yan MORVAN",
+    "email": "morvan@ch-joigny.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "89",
+    "groupe_titre": "Yonne",
+    "etablissement": "CENTRE HOSPITALIER (JOIGNY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2477-establishment6183",
+    "service_titre": "SMR des affections cardio-vasculaires",
+    "service_h3": "Dr Yan MORVAN",
+    "email": "morvan@ch-joigny.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "89",
+    "groupe_titre": "Yonne",
+    "etablissement": "CENTRE HOSPITALIER (AVALLON)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2826-establishment6392",
+    "service_titre": "médecine 2 à orientation pneumologique et cardiologique",
+    "service_h3": "Dr Brahim BOUKHELOUA",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "90",
+    "groupe_titre": "Territoire de Belfort",
+    "etablissement": "Hôpital Nord Franche-Comté (TREVENANS)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2497-establishment6201",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Yoann LEFRANCOIS",
+    "email": "yoann.lefrancois@hnfc.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "91",
+    "groupe_titre": "Essonne",
+    "etablissement": "Centre Hospitalier Sud Francilien (Corbeil-Essonnes)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2501-establishment10188",
+    "service_titre": "CARDIOLOGIE",
+    "service_h3": "Dr Brahim MEFTOUT",
+    "email": "brahim.meftout@chsf.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "91",
+    "groupe_titre": "Essonne",
+    "etablissement": "Centre Hospitalier Sud Francilien (Corbeil-Essonnes)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2501-establishment10188",
+    "service_titre": "SMR READAPTATION CARDIO VASCULAIRE",
+    "service_h3": "Dr François KOUKOUI",
+    "email": "francois.koukoui@ch-sud-francilien.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "91",
+    "groupe_titre": "Essonne",
+    "etablissement": "Hôpital Paris-Saclay (ORSAY)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2505-establishment7767",
+    "service_titre": "Cardiologie et Unité de Soins Intensifs de Cardiologie (USIC)",
+    "service_h3": "Dr Maruan BARRI",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "91",
+    "groupe_titre": "Essonne",
+    "etablissement": "CENTRE HOSPITALIER DE BLIGNY (BRIIS SOUS FORGES)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure3248-establishment7081",
+    "service_titre": "READAPTATION CARDIAQUE ET SOINS DE SUITE CARDIOLOGIQUES",
+    "service_h3": "Dr Titi FARROKHI",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "92",
+    "groupe_titre": "Hauts-de-Seine",
+    "etablissement": "Hôpital Ambroise-Paré AP-HP (Boulogne-Billancourt)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2524-establishment6228",
+    "service_titre": "Cardiologie et maladies vasculaires",
+    "service_h3": "Dr MARIE HAUGUEL-MOREAU",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "92",
+    "groupe_titre": "Hauts-de-Seine",
+    "etablissement": "Hôpital Antoine Béclère AP-HP (Clamart)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2531-establishment6235",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr CLAUDIUS STATESCU",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "92",
+    "groupe_titre": "Hauts-de-Seine",
+    "etablissement": "AP-HP Hôpital Beaujon (Clichy)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2526-establishment6230",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr AGNES CACHIER",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "92",
+    "groupe_titre": "Hauts-de-Seine",
+    "etablissement": "Hôpital d'instruction des Armées PERCY (CLAMART)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure5561-establishment8044",
+    "service_titre": "CARDIOLOGIE/MEDECINE AERONAUTIQUE 92",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "92",
+    "groupe_titre": "Hauts-de-Seine",
+    "etablissement": "Hôpital d'instruction des Armées PERCY (CLAMART)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure5561-establishment8044",
+    "service_titre": "CHIRURGIE THORACIQUE ET CARDIO-VASCULAIRE 92",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "92",
+    "groupe_titre": "Hauts-de-Seine",
+    "etablissement": "Centre d'accueil et de soins hospitaliers CASH (Nanterre)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2522-establishment6226",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Mohand GOUDJIL",
+    "email": "mohand.goudjil@ch-nanterre.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "92",
+    "groupe_titre": "Hauts-de-Seine",
+    "etablissement": "Centre d'accueil et de soins hospitaliers CASH (Nanterre)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2522-establishment6226",
+    "service_titre": "Unité de Soins Intensifs de Cardiologie",
+    "service_h3": "Dr Mohand GOUDJIL",
+    "email": "mohand.goudjil@ch-nanterre.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "92",
+    "groupe_titre": "Hauts-de-Seine",
+    "etablissement": "Centre Hospitalier Centre Hospitalier Stell (Rueil-Malmaison)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2547-establishment6249",
+    "service_titre": "Hôpital de jour de Soins de suite et de réadaptation cardio-vasculaires",
+    "service_h3": "Dr Fatima BOUKHSIBI",
+    "email": "fatima.boukhsibi@ch-rueil.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "92",
+    "groupe_titre": "Hauts-de-Seine",
+    "etablissement": "Centre Hospitalier Centre Hospitalier Stell (Rueil-Malmaison)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2547-establishment6249",
+    "service_titre": "Soins de Suite et de Réadaptation Cardiovasculaire",
+    "service_h3": "Dr Fatima BOUKHSIBI",
+    "email": "fatima.boukhsibi@ch-rueil.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "92",
+    "groupe_titre": "Hauts-de-Seine",
+    "etablissement": "Site Hospitalier de Neuilly-sur-Seine (Siège Social) (Neuilly-sur-Seine)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2537-establishment6240",
+    "service_titre": "Spécialités médicales (Cardiologie)",
+    "service_h3": "Dr Camille BOTELLA",
+    "email": "cbotella@ch-rivesdeseine.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "93",
+    "groupe_titre": "Seine-Saint-Denis",
+    "etablissement": "Centre hospitalier Intercommunal (Aulnay-sous-Bois)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2573-establishment6274",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr François WALYLO",
+    "email": "francois.walylo@ch-aulnay.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "93",
+    "groupe_titre": "Seine-Saint-Denis",
+    "etablissement": "Hôpital Avicenne - AP-HP.Hôpitaux Universitaires Paris Seine-Saint-Denis (Bobigny)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2552-establishment6254",
+    "service_titre": "Cardiologie",
+    "service_h3": "NATHALIE AZOPPARDI",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "93",
+    "groupe_titre": "Seine-Saint-Denis",
+    "etablissement": "Centre hospitalier intercommunal André Grégoire (Montreuil-sous-Bois)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2568-establishment6255",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Albert BOCCARA",
+    "email": "albert.boccara@ght-gpne.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "93",
+    "groupe_titre": "Seine-Saint-Denis",
+    "etablissement": "Groupement Hospitalier de Territoire Grand Paris Nord Est (Montfermeil)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2568-establishment6269",
+    "service_titre": "Cardiologie",
+    "service_h3": "M. Olivier NALLET",
+    "email": "olivier.nallet@ght-gpne.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "94",
+    "groupe_titre": "Val-de-Marne",
+    "etablissement": "Hôpital Bicêtre AP-HP (Le Kremlin-Bicêtre)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2589-establishment6290",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr SAFA JEBALI",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "94",
+    "groupe_titre": "Val-de-Marne",
+    "etablissement": "Hôpital Bicêtre AP-HP (Le Kremlin-Bicêtre)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2589-establishment6290",
+    "service_titre": "Explorations fonctionnelles cardio-vasculaires",
+    "service_h3": "Dr OLIVIER CHOURAQUI",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "94",
+    "groupe_titre": "Val-de-Marne",
+    "etablissement": "AP-HP Hôpital Henri Mondor (Créteil)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2577-establishment6278",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr ALBAN COPIE",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "94",
+    "groupe_titre": "Val-de-Marne",
+    "etablissement": "AP-HP Hôpital Henri Mondor (Créteil)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2577-establishment6278",
+    "service_titre": "Cardiologie interventionnelle",
+    "service_h3": "Pr EMMANUEL TEIGER",
+    "email": "",
+    "plateau_cardio": "Oui"
+  },
+  {
+    "groupe_id": "94",
+    "groupe_titre": "Val-de-Marne",
+    "etablissement": "AP-HP Hôpital Henri Mondor (Créteil)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2577-establishment6278",
+    "service_titre": "Chirurgie cardio-vasculaire",
+    "service_h3": "MORGANE ARNOUX",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "94",
+    "groupe_titre": "Val-de-Marne",
+    "etablissement": "AP-HP Hôpital Henri Mondor (Créteil)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2577-establishment6278",
+    "service_titre": "Exploration fonctionnelle cardiovasculaire non invasive et de cardiologie ambulatoire",
+    "service_h3": "Pr GENEVIEVE DERUMEAUX",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "94",
+    "groupe_titre": "Val-de-Marne",
+    "etablissement": "Hôpital Paul-Brousse AP-HP (Villejuif)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2596-establishment6296",
+    "service_titre": "CARDIOLOGIE",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "94",
+    "groupe_titre": "Val-de-Marne",
+    "etablissement": "AP-HP Hôpital Charles Foix (Ivry-sur-Seine)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2584-establishment6285",
+    "service_titre": "court séjour gériatrique à orientation cardiologie et neuro-psycho",
+    "service_h3": "Dr SONIA ADRAR",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "94",
+    "groupe_titre": "Val-de-Marne",
+    "etablissement": "AP-HP Hôpital Charles Foix (Ivry-sur-Seine)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2584-establishment6285",
+    "service_titre": "Soins de suite et de réadapation à orientation cardiologie et neuro-psycho-gériatrique",
+    "service_h3": "Dr CARMELO LAFUENTE LAFUENTE",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "94",
+    "groupe_titre": "Val-de-Marne",
+    "etablissement": "Centre Hospitalier Intercommunal de Villeneuve-Saint-Georges Lucie & Raymond Aubrac (Villeneuve-Saint-Georges)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2583-establishment6284",
+    "service_titre": "Cardiologie et urgences cardio-vasculaires",
+    "service_h3": "Dr Emmanuel SALENGRO",
+    "email": "emmanuel.salengro@chiv.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "94",
+    "groupe_titre": "Val-de-Marne",
+    "etablissement": "Hopital d'Instruction des Armées BEGIN (SAINT-MANDE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure5561-establishment8045",
+    "service_titre": "Cardiologie et maladies vasculaires",
+    "service_h3": "Dr Maria STEFURIAC",
+    "email": "pole-medical@hia-begin.ssa.mssante.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "95",
+    "groupe_titre": "Val-d'Oise",
+    "etablissement": "Hôpital NOVO - Site de Pontoise (CERGY PONTOISE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2605-establishment6305",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Véronique DECALF",
+    "email": "veronique.decalf@ght-novo.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "95",
+    "groupe_titre": "Val-d'Oise",
+    "etablissement": "Centre Hospitalier de Gonesse (Gonesse)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2610-establishment6309",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Nabil POULOS",
+    "email": "nabil.poulos@ch-gonesse.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "95",
+    "groupe_titre": "Val-d'Oise",
+    "etablissement": "Groupement hospitalier Eaubonne - Montmorency - Hôpital Simone Veil (EAUBONNE)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2600-establishment6300",
+    "service_titre": "Cardiologie - Cardiologie interventionnelle - USIC",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Oui"
+  },
+  {
+    "groupe_id": "95",
+    "groupe_titre": "Val-d'Oise",
+    "etablissement": "Centre hospitalier Victor Dupouy (Argenteuil)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2598-establishment6298",
+    "service_titre": "CARDIOLOGIE",
+    "service_h3": "Dr François DUCLOS",
+    "email": "francois.duclos@ch-argenteuil.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "95",
+    "groupe_titre": "Val-d'Oise",
+    "etablissement": "Hôpital Le Parc (Taverny)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2599-establishment6299",
+    "service_titre": "CARDIOLOGIE",
+    "service_h3": "Dr Ioana MORARU",
+    "email": "i.moraru@hopital-parc-taverny.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "971",
+    "groupe_titre": "Guadeloupe",
+    "etablissement": "Centre Hospitalier Universitaire de la Guadeloupe (Pointe-à-Pitre)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2624-establishment6323",
+    "service_titre": "Cardiologie",
+    "service_h3": "Pr Annie LANNUZEL",
+    "email": "annie.lannuzel@chu-guadeloupe.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "971",
+    "groupe_titre": "Guadeloupe",
+    "etablissement": "Centre Hospitalier Universitaire de la Guadeloupe (Pointe-à-Pitre)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2624-establishment6323",
+    "service_titre": "Chirurgie thoracique et cardio-vasculaire",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "972",
+    "groupe_titre": "Martinique",
+    "etablissement": "Hôpital Pierre Zobda-Quitman (Fort-de-France)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2640-establishment1385",
+    "service_titre": "Département de Cardiologie - Soins Intensifs 7B",
+    "service_h3": "Pr Jocelyn INAMO",
+    "email": "jocelyn.inamo@chu-martinique.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "972",
+    "groupe_titre": "Martinique",
+    "etablissement": "Hôpital Pierre Zobda-Quitman (Fort-de-France)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2640-establishment1385",
+    "service_titre": "Département de Cardiologie 7D",
+    "service_h3": "Pr Jocelyn INAMO",
+    "email": "jocelyn.inamo@chu-martinique.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "973",
+    "groupe_titre": "Guyane",
+    "etablissement": "Centre Hospitalier de Cayenne Andrée Rosemon (Cayenne)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2645-establishment6342",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Yves-Kénol FRANCK",
+    "email": "yves-kenol.franck@ch-cayenne.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "973",
+    "groupe_titre": "Guyane",
+    "etablissement": "Centre Hospitalier de l'Ouest Guyanais Franck Joly (Saint-Laurent-du-Maroni)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2646-establishment6343",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Grace-À-Dieu YABETA",
+    "email": "g.yabeta@ch-ouestguyane.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "974",
+    "groupe_titre": "La Réunion",
+    "etablissement": "Centre Hospitalier Universitaire Sud Réunion (Saint-Pierre)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2651-establishment6347",
+    "service_titre": "Cardiologie (Sud)",
+    "service_h3": "",
+    "email": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "974",
+    "groupe_titre": "La Réunion",
+    "etablissement": "Centre hospitalier Felix Guyon (Saint-Denis)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2651-establishment6344",
+    "service_titre": "Cardiologie (Nord)",
+    "service_h3": "Dr Christian KICHENIN",
+    "email": "cardiologie@chd-fguyon.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "974",
+    "groupe_titre": "La Réunion",
+    "etablissement": "Centre hospitalier Felix Guyon (Saint-Denis)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2651-establishment6344",
+    "service_titre": "Chir. Thoracique et Cardiovasculaire",
+    "service_h3": "M. Jean-François DELAMBRE",
+    "email": "jf-delambre@chd-fguyon.fr",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "974",
+    "groupe_titre": "La Réunion",
+    "etablissement": "Centre hospitalier Ouest Réunion (Saint-Paul)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2656-establishment6352",
+    "service_titre": "Médecine à orientation Cardiologie et Neurologie",
+    "service_h3": "Dr Fanny LE MEE",
+    "email": "secretariat.cardiologie@chor.re",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "987",
+    "groupe_titre": "Polynésie Française",
+    "etablissement": "Centre Hospitalier de Polynésie française (Papeete)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2771-establishment7816",
+    "service_titre": "Cardiologie",
+    "service_h3": "M. Christophe LEGOANVIC",
+    "email": "christophe.legoanvic@cht.pf",
+    "plateau_cardio": "Non spécifié / Non"
+  }
+]
