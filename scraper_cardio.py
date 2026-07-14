@@ -143,18 +143,19 @@ async def get_services(page, detail_url: str) -> list:
         btns = await page.query_selector_all("button.accordion-button")
         for btn in btns:
             text = (await btn.inner_text()).strip()
-            if "Services" in text and "tablissement" in text:
+            if "services" in text.lower() or "direction" in text.lower():
                 css_class = await btn.get_attribute("class") or ""
                 if "collapsed" in css_class:
                     await btn.click()
                     await page.wait_for_timeout(900)
-                break
     except Exception:
         pass
 
     # Extraire les .row-item et filtrer pour la cardiologie
     row_els  = await page.query_selector_all(".row-item")
     services = []
+    email_am = ""
+
     for el in row_els:
         title_el    = await el.query_selector(".title")
         h3_el       = await el.query_selector(".col h3")
@@ -162,18 +163,26 @@ async def get_services(page, detail_url: str) -> list:
 
         title       = (await title_el.inner_text()).strip()    if title_el    else ""
         svc_h3      = (await h3_el.inner_text()).strip()       if h3_el       else ""
+        mailto_href = await mailto_el.get_attribute("href")    if mailto_el   else ""
+        mailto      = mailto_href.replace("mailto:", "")       if mailto_href else ""
+
+        t_low = title.lower()
+        h3_low = svc_h3.lower()
         
+        # Détection "Direction des Affaires Médicales"
+        # Un hôpital n'en a qu'un seul, donc on ne stocke que le premier email trouvé
+        is_am = ("affaires" in t_low and "dical" in t_low) or ("affaires" in h3_low and "dical" in h3_low)
+        if is_am and mailto and not email_am:
+            email_am = mailto
+
         # Filtre Cardiologie
-        if "cardio" not in title.lower() and "cardio" not in svc_h3.lower():
+        if "cardio" not in t_low and "cardio" not in h3_low:
             continue
 
         # Recherche de plateau technique dans TOUT le texte du service (incluant la description)
         full_text = (await el.inner_text()).lower()
         has_interv = "coronarographie" in full_text or "cardiologie interventionnelle" in full_text
         plateau_info = "Oui" if has_interv else "Non spécifié / Non"
-
-        mailto_href = await mailto_el.get_attribute("href")    if mailto_el   else ""
-        mailto      = mailto_href.replace("mailto:", "")       if mailto_href else ""
 
         services.append({
             "title": title, 
@@ -182,7 +191,7 @@ async def get_services(page, detail_url: str) -> list:
             "plateau_cardio": plateau_info
         })
 
-    return services
+    return {"services": services, "email_am": email_am}
 
 
 # ──────────────────────────────────────────────
@@ -219,7 +228,9 @@ async def scrape() -> list:
                 await asyncio.sleep(DELAY)
 
                 # Etape 3
-                services = await get_services(page, card["card_link"])
+                svc_data = await get_services(page, card["card_link"])
+                services = svc_data.get("services", [])
+                email_am = svc_data.get("email_am", "")
 
                 if services:
                     for svc in services:
@@ -231,6 +242,7 @@ async def scrape() -> list:
                             "service_titre": svc["title"],
                             "service_h3":    svc["service_h3"],
                             "email":         svc["mailto"],
+                            "email_affaires": email_am,
                             "plateau_cardio": svc["plateau_cardio"]
                         })
                 # On retire le "else" ici car si un établissement n'a pas de cardiologie,
@@ -285,7 +297,8 @@ def export_excel(data, path):
         "fiche_url":     "URL Fiche",
         "service_titre": "Titre Service",
         "service_h3":    "Nom Service",
-        "email":         "Email",
+        "email":         "Email Service",
+        "email_affaires": "Email Affaires Médicales",
         "plateau_cardio":"Plateau Coronaro/Interventionnel",
     }
 
@@ -301,14 +314,14 @@ def export_excel(data, path):
         for ci, h in enumerate(headers, 1):
             val  = row.get(h, "")
             cell = ws.cell(row=ri, column=ci, value=val)
-            if h == "email" and val:
+            if h in ["email", "email_affaires"] and val:
                 cell.hyperlink = f"mailto:{val}"
                 cell.font = Font(color="0563C1", underline="single")
             elif h == "fiche_url" and val:
                 cell.hyperlink = val
                 cell.font = Font(color="0563C1", underline="single")
 
-    widths = [10, 28, 42, 48, 25, 32, 38, 35]
+    widths = [10, 28, 42, 48, 25, 32, 38, 38, 35]
     for i, w in enumerate(widths, 1):
         ws.column_dimensions[openpyxl.utils.get_column_letter(i)].width = w
 
