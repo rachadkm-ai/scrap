@@ -1,0 +1,45 @@
+name: Scraping FHF Cardio Hebdomadaire
+
+on:
+  schedule:
+    # Lancement tous les lundis à 1h du matin (UTC)
+    - cron: '0 1 * * 1'
+  workflow_dispatch:
+    # Permet aussi de lancer le script manuellement depuis l'interface GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-cardio:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Récupération du code
+        uses: actions/checkout@v4
+
+      - name: 🐍 Configuration de Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: 📦 Installation des dépendances
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          
+      - name: 🌐 Installation du navigateur Playwright
+        run: |
+          python -m playwright install --with-deps chromium
+
+      - name: 🚀 Lancement du scraping Cardio
+        run: |
+          python scraper_cardio.py
+
+      - name: 💾 Sauvegarde des résultats sur GitHub
+        run: |
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          git add fhf_cardiologie.xlsx fhf_cardiologie.json fhf_cardiologie.csv
+          git commit -m "Mise à jour hebdomadaire des données de cardiologie 🔄" || echo "Aucune modification à commit"
+          git push
