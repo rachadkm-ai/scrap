@@ -7,6 +7,7 @@
     "service_titre": "Cardiologie - Soins intensifs de cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -17,6 +18,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Pierre HENON",
     "email": "p.henon@ch-stquentin.fr",
+    "email_affaires": "c.hugues@ch-stquentin.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -27,6 +29,7 @@
     "service_titre": "Service de Soins Intensifs Cardiologiques",
     "service_h3": "Dr Pierre HENON",
     "email": "p.henon@ch-stquentin.fr",
+    "email_affaires": "c.hugues@ch-stquentin.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -37,6 +40,7 @@
     "service_titre": "CARDIOLOGIE-USIC-ANGIOLOGIE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "eric.heyrman@ch-soissons.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -47,6 +51,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -57,6 +62,7 @@
     "service_titre": "Service de Cardiologie",
     "service_h3": "Dr Elisabeth NYOM",
     "email": "secret.cardio1est@ch-laon.fr",
+    "email_affaires": "benedicte.point@ch-laon.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -67,6 +73,7 @@
     "service_titre": "Pôle Gériatrie, pneumologie, cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -77,6 +84,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Adéla FIRCEA",
     "email": "adela.fircea@ch-chateau-thierry.fr",
+    "email_affaires": "affaires.medicales@ch-chateau-thierry.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -87,6 +95,7 @@
     "service_titre": "Cardiologie et soins intensifs",
     "service_h3": "Dr Vincent TIXIER",
     "email": "vincent.tixier@ch-vichy.fr",
+    "email_affaires": "amandine.bernon@ch-vichy.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -97,6 +106,7 @@
     "service_titre": "Soins Intensifs Cardiologiques",
     "service_h3": "Dr Vincent TIXIER",
     "email": "vincent.tixier@ch-vichy.fr",
+    "email_affaires": "amandine.bernon@ch-vichy.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -107,6 +117,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "M. Sylvain CHANSEAUME",
     "email": "s.chanseaume@ch-montlucon.fr",
+    "email_affaires": "m.demain@ch-montlucon.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -117,6 +128,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Marion BOUCHANT-PIOCHE",
     "email": "m.bouchantpioche@ch-moulins-yzeure.fr",
+    "email_affaires": "affaires-medicales@ch-moulins-yzeure.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -127,6 +139,7 @@
     "service_titre": "Hôpital de jour Réadaptation cardio-respiratoire et métabolique",
     "service_h3": "Dr Touria MGHAZLI",
     "email": "touria.mghazli@chicas-gap.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -137,6 +150,7 @@
     "service_titre": "Cardiologie - USIC",
     "service_h3": "Dr Jacques QUILICI",
     "email": "jacques.quilici@chicas-gap.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -147,6 +161,7 @@
     "service_titre": "Médecine cardio gastro rhumato endocrino",
     "service_h3": "Dr Enrico SAGGIORATO",
     "email": "esaggiorato@ch-briancon.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -157,6 +172,7 @@
     "service_titre": "Cardiologie et maladies vasculaires - soins intensifs cardiologiques - neurologie et exploration fonctionnelle du système nerveux - médecine du sport",
     "service_h3": "Dr Laurent JACQ",
     "email": "laurent.jacq@ch-antibes.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -167,6 +183,7 @@
     "service_titre": "Cardiologie et USIC",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -177,6 +194,7 @@
     "service_titre": "Service de Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -187,6 +205,7 @@
     "service_titre": "Médecine A . Cardiologie",
     "service_h3": "Dr Bertrand PETIT",
     "email": "b.petit@ch-grasse.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -197,6 +216,7 @@
     "service_titre": "Service Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -207,6 +227,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Vincent AUDIGIER",
     "email": "nor.el.houda.zelazli@ch-ardeche-meridionale.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -217,6 +238,7 @@
     "service_titre": "CARDIOLOGIE & ANGILOGIE",
     "service_h3": "Dr Thierry GOUTTARD",
     "email": "thierry.gouttard@ch-ardeche-nord.fr",
+    "email_affaires": "dam.ag@chu-st-etienne.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -224,9 +246,10 @@
     "groupe_titre": "Ardèche",
     "etablissement": "Centre hospitalier de Privas Ardèche (Privas)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure159-establishment4009",
-    "service_titre": "Médecine A  /  Cardiologie",
+    "service_titre": "Médecine A / Cardiologie",
     "service_h3": "Dr Philippe CHARRE",
     "email": "p.charre@ch-privas.fr",
+    "email_affaires": "a.guiraud@ch-privas.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -237,6 +260,7 @@
     "service_titre": "Cardiologie - USIC USC",
     "service_h3": "Virginie HEROGUELLE",
     "email": "virginie.heroguelle@ch-nord-ardennes.fr",
+    "email_affaires": "aurelie.barbe@ch-nord-ardennes.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -247,6 +271,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Joseph ABDO",
     "email": "joseph.abdo@chi-val-ariege.fr",
+    "email_affaires": "francois.ooghe@chi-val-ariege.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -257,6 +282,7 @@
     "service_titre": "CARDIOLOGIE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "mathilde.royer@hcs-sante.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -267,6 +293,7 @@
     "service_titre": "Médecine polyvalente à orientation cardiologique et unité de soins à surveillance continue",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -277,6 +304,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Youcef AFIFI",
     "email": "youcef.afifi@ch-carcassonne.fr",
+    "email_affaires": "affairesmedicales-cooperations@ch-carcassonne.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -287,6 +315,7 @@
     "service_titre": "CARDIOLOGIE",
     "service_h3": "Dr Abdelkader OUAKLI",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -297,6 +326,7 @@
     "service_titre": "CENTRE DE CONSULTATION DE CARDIOLOGIE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -307,6 +337,7 @@
     "service_titre": "CENTRE DE CONSULTATION DE CARDIOLOGIE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -317,6 +348,7 @@
     "service_titre": "Cardiologie/USIC",
     "service_h3": "Dr Taha HASSANI",
     "email": "t.hassani@ch-rodez.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -327,6 +359,7 @@
     "service_titre": "Cardiologie, insuffisance cardiaque",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -337,6 +370,7 @@
     "service_titre": "Cardiologie, maladies coronaires",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -347,6 +381,7 @@
     "service_titre": "Cardiologie, rythmologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -357,6 +392,7 @@
     "service_titre": "Chirurgie cardio-thoracique",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -367,6 +403,7 @@
     "service_titre": "Pédiatrie spécialisée et médecine infantile (neurologie, pneumologie, maladies héréditaires du métabolisme, cardiologie)",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -377,6 +414,7 @@
     "service_titre": "Service médico-chirurgical de cardiologie pédiatrique et congénitale",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -387,6 +425,7 @@
     "service_titre": "Consultations et explorations cardio-vasculaires",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -397,6 +436,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -407,6 +447,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Jérome TAIEB",
     "email": "jtaieb@ch-aix.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -417,6 +458,7 @@
     "service_titre": "CARDIO VASCULAIRE ET THORACIQUE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -427,6 +469,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Luc BOULAIN",
     "email": "",
+    "email_affaires": "jennifer.mauriat@ch-salon.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -437,6 +480,7 @@
     "service_titre": "CARDIOLOGIE",
     "service_h3": "Dr Serge YVORRA",
     "email": "serge.yvorra@ch-martigues.fr",
+    "email_affaires": "janette.belaadi@ch-martigues.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -447,6 +491,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Emmanuel ROUX",
     "email": "eroux@ch-aubagne.fr",
+    "email_affaires": "margaux.maurel@ch-aubagne.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -457,6 +502,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr François SAINT-PIERRE",
     "email": "francois.saint-pierre@ch-arles.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -467,6 +513,7 @@
     "service_titre": "SMR Cardiologie",
     "service_h3": "Dr François SAINT-PIERRE",
     "email": "francois.saint-pierre@ch-arles.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -477,6 +524,7 @@
     "service_titre": "Unité de Soins Intensifs en Cardiologie (USIC)",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -487,6 +535,7 @@
     "service_titre": "CARDIOLOGIE - HIA LAVERAN",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -497,6 +546,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Farzin BEYGUI",
     "email": "beygui-f@chu-caen.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -507,6 +557,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Vincent TROUSSARD",
     "email": "t.werner@ch-lisieux.fr",
+    "email_affaires": "v.dubesset@ch-lisieux.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -517,6 +568,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Damrong EA",
     "email": "damrong.ea@ch-falaise.fr",
+    "email_affaires": "lebosse-m@chu-caen.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -527,6 +579,7 @@
     "service_titre": "Médecine cardiologique",
     "service_h3": "Dr Aref FERROUDJ",
     "email": "Aferroudj@ch-cotefleurie.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -537,6 +590,7 @@
     "service_titre": "SSR cardiologique",
     "service_h3": "Dr Jean-Paul MABIRE",
     "email": "jpmabire@ch-cotefleurie.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -547,6 +601,7 @@
     "service_titre": "Médecine interne à orientation cardiologique",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -557,6 +612,7 @@
     "service_titre": "Cardiologie - Coronarographie - consultation médecine du sport -",
     "service_h3": "Dr Manuel FONT",
     "email": "cardiologie@ch-aurillac.fr",
+    "email_affaires": "j.mutin@ch-aurillac.fr",
     "plateau_cardio": "Oui"
   },
   {
@@ -567,6 +623,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "M. Manuel FONT",
     "email": "m.font@ch-aurillac.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -577,6 +634,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Véronique LUCKE",
     "email": "veronique.lucke@ch-angouleme.fr",
+    "email_affaires": "stephanie.jonas@ch-angouleme.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -587,6 +645,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Saleh AL SALEH",
     "email": "a.alsaleh@ch-cognac.fr",
+    "email_affaires": "j.heraud@ch-cognac.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -597,6 +656,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Ludovic MEUNIER",
     "email": "ludovic.meunier@ght-atlantique17.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -607,6 +667,7 @@
     "service_titre": "Cardiologie : Soins intensifs de cardiologie (USIC) - Hospitalisations complètes (Unité 1)",
     "service_h3": "Dr Caroline LASGI",
     "email": "caroline.lasgi@gh-saintesangely.fr",
+    "email_affaires": "suzy.ferchaud@gh-saintesangely.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -617,6 +678,7 @@
     "service_titre": "Coronarographie - Angioplastie (UCI : Unité de cardiologie interventionnelle)",
     "service_h3": "Dr Hatem BERRAHMOUN",
     "email": "hatem.berrahmoun@gh-saintesangely.fr",
+    "email_affaires": "suzy.ferchaud@gh-saintesangely.fr",
     "plateau_cardio": "Oui"
   },
   {
@@ -627,6 +689,7 @@
     "service_titre": "Rythmologie interventionnelle - Implantologie (UCI : Unité de cardiologie interventionnelle)",
     "service_h3": "Dr Noor BENGOUFA",
     "email": "noor.bengoufa@gh-saintesangely.fr",
+    "email_affaires": "suzy.ferchaud@gh-saintesangely.fr",
     "plateau_cardio": "Oui"
   },
   {
@@ -637,6 +700,7 @@
     "service_titre": "Unité médicale de Cardiologie",
     "service_h3": "Dr Sandra BENIGNO DE BOISSESON",
     "email": "sandra.benigno@ch-rochefort.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -647,6 +711,7 @@
     "service_titre": "Cardiologie, Angiologie",
     "service_h3": "Dr Abderrahim HAROURI",
     "email": "abderrahim.harouri@gh-saintesangely.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -657,6 +722,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Abdel-Moula EL KENZ",
     "email": "secretariat.medecinec@ch-royan.fr",
+    "email_affaires": "affaires.medicales@ch-royan.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -667,6 +733,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Valérian DIDOT",
     "email": "valerian.didot@ch-bourges.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -677,6 +744,7 @@
     "service_titre": "Soins intensifs de cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -687,6 +755,7 @@
     "service_titre": "CARDIOLOGIE - ANGIOPLASTIE",
     "service_h3": "Dr Eric FLEURANT",
     "email": "eric.fleurant@ch-brive.fr",
+    "email_affaires": "sarah.ferret@ch-brive.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -697,6 +766,7 @@
     "service_titre": "Cardiologie et pathologies respiratoires - soins intensifs cardiaques",
     "service_h3": "Dr Alain GUILLON",
     "email": "guillon@ch-tulle.fr",
+    "email_affaires": "affaires-medicales.tulle@ch-correze.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -707,6 +777,7 @@
     "service_titre": "Cardiologie/Soins continus cardiologiques",
     "service_h3": "Dr Alain BERENFELD",
     "email": "a.berenfeld@chussel.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -717,6 +788,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "relations.humaines@ch-bastia.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -727,6 +799,7 @@
     "service_titre": "Explorations fonctionnelles de cardiologie, consultations de cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "relations.humaines@ch-bastia.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -737,6 +810,7 @@
     "service_titre": "Soins Médicaux et de Réadaptation (SMR) cardio-vasculaire et respiratoire",
     "service_h3": "",
     "email": "",
+    "email_affaires": "relations.humaines@ch-bastia.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -747,6 +821,7 @@
     "service_titre": "Unité de Soins Intensifs de Cardiologie (USIC)",
     "service_h3": "",
     "email": "",
+    "email_affaires": "relations.humaines@ch-bastia.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -757,6 +832,7 @@
     "service_titre": "Cardiologie générale",
     "service_h3": "Pr Gabriel LAURENT",
     "email": "audrey.sagnard@chu-dijon.fr",
+    "email_affaires": "anne-lucie.boulanger@chu-dijon.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -767,6 +843,7 @@
     "service_titre": "chirurgie cardio-vasculaire et thoracique (CCVT)",
     "service_h3": "Pr Olivier BOUCHOT",
     "email": "helene.greigert@chu-dijon.fr",
+    "email_affaires": "anne-lucie.boulanger@chu-dijon.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -777,6 +854,7 @@
     "service_titre": "Hospitalisation de Semaine Cardio-Pneumologie",
     "service_h3": "Dr Pascal FOUCHER",
     "email": "",
+    "email_affaires": "anne-lucie.boulanger@chu-dijon.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -787,6 +865,7 @@
     "service_titre": "Réadaptation cardio-vasculaire",
     "service_h3": "Dr Aurélie GUDJONCIK",
     "email": "aurelie.gudjoncik@ch-beaune.fr",
+    "email_affaires": "marie.fraslin@ch-beaune.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -797,6 +876,7 @@
     "service_titre": "Médecine 1 Cardiologie/USIC/Pneumologie/Neurologie/Médecine interne",
     "service_h3": "Dr Idriss KIOUEH",
     "email": "idriss.kioueh@ch-semur.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -807,6 +887,7 @@
     "service_titre": "3. SMR Cardiologie",
     "service_h3": "Dr Mohamed JOLAK",
     "email": "mohamed.jolak@ch-hco.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -814,9 +895,10 @@
     "groupe_titre": "Côtes-d'Armor",
     "etablissement": "Hôpital de Saint-Brieuc Centre Hospitalier Saint-Brieuc - Paimpol - Tréguier (Saint-Brieuc)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure483-establishment6766",
-    "service_titre": "Cardiologie / Cardiologie Interventionnelle hôpital de jour /  Hospitalisation de semaine de cardiologie",
+    "service_titre": "Cardiologie / Cardiologie Interventionnelle hôpital de jour / Hospitalisation de semaine de cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "clemence.fourrier@armorsante.bzh",
     "plateau_cardio": "Oui"
   },
   {
@@ -827,6 +909,7 @@
     "service_titre": "Cardiologie-UPAVC",
     "service_h3": "Dr Anne-Hélène GINGUENE",
     "email": "annehelene.ginguene@ch-dinan.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -837,6 +920,7 @@
     "service_titre": "CARDIOLOGIE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -847,6 +931,7 @@
     "service_titre": "SMR CARDIO-VASCULAIRE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -857,6 +942,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Guillaume GOSSELIN",
     "email": "guillaume.gosselin@armorsante.bzh",
+    "email_affaires": "clemence.fourrier@armorsante.bzh",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -867,6 +953,7 @@
     "service_titre": "Cardiologie - Unité de Soins Intensifs de cardiologie",
     "service_h3": "M. Larbi MANSOUR",
     "email": "l.mansour@ch-gueret.fr",
+    "email_affaires": "secdrh@ch-gueret.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -877,6 +964,7 @@
     "service_titre": "Cardiologie et Maladies Vasculaires",
     "service_h3": "Dr Philippe JARNIER",
     "email": "philippe.jarnier@ch-perigueux.fr",
+    "email_affaires": "florence.fons-atger@ch-perigueux.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -887,6 +975,7 @@
     "service_titre": "Hôpital de semaine de cardiologie, diabétologie et endocrinologie",
     "service_h3": "Dr Philippe JARNIER",
     "email": "philippe.jarnier@ch-perigueux.fr",
+    "email_affaires": "florence.fons-atger@ch-perigueux.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -897,6 +986,7 @@
     "service_titre": "SSR Cardio",
     "service_h3": "Dr Quang-Thu NGUYEN",
     "email": "quanthu.nguyen@ch-perigueux.fr",
+    "email_affaires": "florence.fons-atger@ch-perigueux.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -907,6 +997,7 @@
     "service_titre": "Cardiologie - Medecine Interne",
     "service_h3": "Mme Martine DUMAIN",
     "email": "martine.dumain@ch-bergerac.fr",
+    "email_affaires": "lorelei.mirot@ch-bergerac.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -917,6 +1008,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "lionel.chevallier@ch-perigueux.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -927,6 +1019,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Pr Nicolas MENEVEAU",
     "email": "nicolas.meneveau@univ-fcomte.fr",
+    "email_affaires": "kdurupt@chu-besancon.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -937,6 +1030,7 @@
     "service_titre": "Département de cardiologie",
     "service_h3": "Dr Martin RABOT",
     "email": "mrabot@ch-valence.fr",
+    "email_affaires": "fverheyden@ch-valence.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -947,6 +1041,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "secretariat.dam@ghpp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -957,6 +1052,7 @@
     "service_titre": "Médecine cardiologie - SIC - Pneumologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "p.clavaison@ch-hdn.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -967,6 +1063,7 @@
     "service_titre": "SSR cardiologie",
     "service_h3": "Dr Claudy KÜGLER-CHAMBRON",
     "email": "c.kugler@dieulefit-sante.org",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -977,6 +1074,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "louisa.atmani@ch-eureseine.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -987,6 +1085,7 @@
     "service_titre": "Médecine à orientation cardiologique - Vernon",
     "service_h3": "",
     "email": "",
+    "email_affaires": "louisa.atmani@ch-eureseine.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -997,6 +1096,7 @@
     "service_titre": "Médecine à orientation cardiologique",
     "service_h3": "Dr Eliza CUMINY",
     "email": "eliza.cumminy@ch-bernay.fr",
+    "email_affaires": "marguerite.clement@ch-eureseine.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1007,6 +1107,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Franck ALBERT",
     "email": "falbert@ch-chartres.fr",
+    "email_affaires": "ofalanga@ch-chartres.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1017,6 +1118,7 @@
     "service_titre": "Cardiologie-USIC-Explorations Fonctionnelles cardiologiques",
     "service_h3": "M. Dario BOTTIGLIERO",
     "email": "dbottigliero@ch-dreux.fr",
+    "email_affaires": "averdin@ch-dreux.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1027,6 +1129,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "M. Jacques MANSOURATI",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1037,6 +1140,7 @@
     "service_titre": "Département de Cardiologie",
     "service_h3": "Pr Jacques MANSOURATI",
     "email": "jacques.mansourati@chu-brest.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1047,6 +1151,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "y.senechal@ch-cornouaille.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1057,6 +1162,7 @@
     "service_titre": "Médecine à orientation cardiologie",
     "service_h3": "M. Eric LE GOFF",
     "email": "eric.legoff@chu-brest.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1067,6 +1173,7 @@
     "service_titre": "Pathologies Cardiovasculaires 29",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1077,6 +1184,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Jean-Philippe ELKAIM",
     "email": "secretariat.direction@ch-douarnenez.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1087,6 +1195,7 @@
     "service_titre": "Réadaptation Cardio-Vasculaire",
     "service_h3": "Dr Virginie JAN-BLIN",
     "email": "secretariat.direction@ch-douarnenez.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1097,6 +1206,7 @@
     "service_titre": "Soins de Suite et de Réadaptation Cardiovasculaire - SSR Cardio",
     "service_h3": "Dr Virginie JAN-BLIN",
     "email": "secretariat.direction@ch-douarnenez.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1107,6 +1217,7 @@
     "service_titre": "Cardio Pédiatrique",
     "service_h3": "M. Jean-Michel RAUZIER",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1117,6 +1228,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Pr Guillaume CAYLA",
     "email": "Mehdi.BOUADJAMA@chu-nimes.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1127,6 +1239,7 @@
     "service_titre": "Rééducation Cardio-Vasculaire",
     "service_h3": "Pr Arnaud DUPEYRON",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1137,6 +1250,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Clément ALARCON",
     "email": "dr.alarcon@ch-ales.fr",
+    "email_affaires": "audrey.perrier@ch-ales.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1147,6 +1261,7 @@
     "service_titre": "CARDIOLOGIE ET PNEUMOLOGIE",
     "service_h3": "Dr Olivier ABRIEU",
     "email": "oabrieu@ch-bagnolssurceze.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1157,6 +1272,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Pr Meyer ELBAZ",
     "email": "elbaz.m@chu-toulouse.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1167,6 +1283,7 @@
     "service_titre": "Chirurgie cardio-vasculaire",
     "service_h3": "Pr Bertrand MARCHEIX",
     "email": "marcheix.b@chu-toulouse.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1177,6 +1294,7 @@
     "service_titre": "Cardiologie pédiatrique",
     "service_h3": "Dr Clément KARSENTY",
     "email": "karsenty.cl@chu-toulouse.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1187,6 +1305,7 @@
     "service_titre": "CARDIOLOGIE  / PNEUMOLOGIE",
     "service_h3": "Dr Jean-Philippe BONNET",
     "email": "jeanphilippe.bonnet@ch-saintgaudens.fr",
+    "email_affaires": "johan.berkane@ch-saintgaudens.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1197,6 +1316,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Maryse LESCURE",
     "email": "m.lescure@ch-auch.fr",
+    "email_affaires": "v.bompart@ch-auch.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1207,6 +1327,7 @@
     "service_titre": "Cardiologie - électrophysiologie et stimulation cardiaque Groupe Sud",
     "service_h3": "Pr Jean-Michel HAISSAGUERRE",
     "email": "jean-michel.haissaguerre@chu-bordeaux.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1217,6 +1338,7 @@
     "service_titre": "Cardiologie et maladies vasculaires",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1227,6 +1349,7 @@
     "service_titre": "Cardiologie-valvulopathie-maladie coronaire et réadaptation",
     "service_h3": "Pr Raymond ROUDAUT",
     "email": "raymond.roudaut@chu-bordeaux.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1237,6 +1360,7 @@
     "service_titre": "Maladies cardio-vasculaires congénitales",
     "service_h3": "Dr Jean-Benoît THAMBO",
     "email": "jean-benoit.thambo@chu-bordeaux.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1247,6 +1371,7 @@
     "service_titre": "urgences cardiologiques et soins intensifs - cardiologie interventionnelle",
     "service_h3": "Pr Pierre COSTE",
     "email": "pierre.coste@chu-bordeaux.fr",
+    "email_affaires": "",
     "plateau_cardio": "Oui"
   },
   {
@@ -1257,6 +1382,7 @@
     "service_titre": "CARDIOLOGIE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1267,6 +1393,7 @@
     "service_titre": "Médecine polyvalente à orientation cardiologique",
     "service_h3": "Dr Philippe BORDIER",
     "email": "cardiologie@ch-sudgironde.fr",
+    "email_affaires": "manar.elouafi@ch-cadillac.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1277,6 +1404,7 @@
     "service_titre": "Cardiologie - hypertension artérielle Saint-André",
     "service_h3": "Pr Jean-Michel HAISSAGUERRE",
     "email": "jean-michel.haissaguerre@chu-bordeaux.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1287,6 +1415,7 @@
     "service_titre": "service de cardiologie",
     "service_h3": "Dr Romain DARIER",
     "email": "romain.darier@ch-arcachon.fr",
+    "email_affaires": "Vincent.Tortes-Saint-Jammes@ch-arcachon.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1297,6 +1426,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Nassib AZOURY",
     "email": "nassib.azoury@ch-beziers.fr",
+    "email_affaires": "carole.gleyzes@ch-beziers.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1307,6 +1437,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Pr Jean-Luc PASQUIE",
     "email": "jl-pasquie@chu-montpellier.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1317,6 +1448,7 @@
     "service_titre": "Service de cardiologie et maladies vasculaires",
     "service_h3": "",
     "email": "",
+    "email_affaires": "DAM-Secretariat@chu-rennes.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1327,6 +1459,7 @@
     "service_titre": "Cardiologie, USIC et explorations de cardiologie",
     "service_h3": "Dr Florence REVAULT D'ALLONNES",
     "email": "f.revault@ch-stmalo.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1337,6 +1470,7 @@
     "service_titre": "Hopital de Semaine de Cardiologie",
     "service_h3": "Dr Florence REVAULT D'ALLONNES",
     "email": "f.revault@ch-stmalo.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1347,6 +1481,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Catherine VIDAL",
     "email": "catherine.vidal@ch-vitre.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1357,6 +1492,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "M. Alexandru MISCHIE",
     "email": "alexandru.mischie@ch-chateauroux.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1367,6 +1503,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1377,6 +1514,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1387,6 +1525,7 @@
     "service_titre": "Réanimation cardio-vasculaire et thoracique",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1397,6 +1536,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1407,6 +1547,7 @@
     "service_titre": "Cardio-Vasculaire",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1417,6 +1558,7 @@
     "service_titre": "CARDIOLOGIE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1427,6 +1569,7 @@
     "service_titre": "Réadaptation cardio-vasculaire",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1437,6 +1580,7 @@
     "service_titre": "Cardiologie USIC USINV",
     "service_h3": "Dr Rémy HECHEMA",
     "email": "",
+    "email_affaires": "geraldine.ducrocq@hopitaux-jura.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1447,6 +1591,7 @@
     "service_titre": "CARDIOLOGIE - NEUROLOGIE",
     "service_h3": "Dr Ayi NAPPORN",
     "email": "cardio-neuro.cadre@ch-dole.fr",
+    "email_affaires": "olard.alexandra@ch-dole.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1457,6 +1602,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Hervé JEANVOINE",
     "email": "medecine.stclaude@hopitaux-jura.fr",
+    "email_affaires": "geraldine.ducrocq@hopitaux-jura.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1467,6 +1613,7 @@
     "service_titre": "CENTRE DE RÉADAPTATION CARDIOLOGIQUE ET PNEUMOLOGIQUE DE FRANCHE-COMTE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1477,6 +1624,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "simon.beaudrap@ch-dax.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1487,6 +1635,7 @@
     "service_titre": "Soins critiques : Réanimation/USIP/US Cardio",
     "service_h3": "",
     "email": "",
+    "email_affaires": "simon.beaudrap@ch-dax.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1497,6 +1646,7 @@
     "service_titre": "CARDIOLOGIE ET SOINS INTENSIFS",
     "service_h3": "Dr Pierre ROUGIER",
     "email": "alain.ranjatson@ch-mdm.fr",
+    "email_affaires": "candice.berland@ch-mdm.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1507,6 +1657,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Pierre-Marc LALLEMAND",
     "email": "sec.cardio@ch-blois.fr",
+    "email_affaires": "gallanl@ch-blois.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1517,6 +1668,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1527,6 +1679,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Pr Antoine DA COSTA",
     "email": "Antoine.DaCosta@chu-st-etienne.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1537,6 +1690,7 @@
     "service_titre": "Chirurgie Cardio-Vasculaire",
     "service_h3": "Pr Jean-Noel ALBERTINI",
     "email": "j.noel.albertini@chu-st-etienne.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1547,6 +1701,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Marie LEVALLOIS",
     "email": "secretariat.cardio@ch-roanne.fr",
+    "email_affaires": "secretariat.cme@ch-roanne.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1557,6 +1712,7 @@
     "service_titre": "Médecine cardiologique",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1567,6 +1723,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Mikaël BOULOT",
     "email": "mikael.boulot@ch-lepuy.fr",
+    "email_affaires": "sophie.benito@ch-lepuy.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1577,6 +1734,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "secretariat.dam@ch-saintnazaire.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1587,6 +1745,7 @@
     "service_titre": "Clinique cardiologique et des maladies vasculaires",
     "service_h3": "Pr Jean-Noël TROCHU",
     "email": "jean-noël.trochu@chu-nantes.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1597,6 +1756,7 @@
     "service_titre": "Médecine Cardiologie-Soins intensifs",
     "service_h3": "Dr Simon SAAD",
     "email": "",
+    "email_affaires": "celine.reuze@ch-cnp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1607,6 +1767,7 @@
     "service_titre": "Cardiologie - pneumologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1617,6 +1778,7 @@
     "service_titre": "Réadaptation cardio-vasculaire",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1627,6 +1789,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Marc GORALSKI",
     "email": "marc.goralski@chu-orleans.fr",
+    "email_affaires": "olivier.ferrendier@chu-orleans.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1637,6 +1800,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "sgrzesiak@ch-montargis.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1647,6 +1811,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Mihaela-Liliana BUCELEA",
     "email": "Mihaela.bucelea@ch-cahors.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1657,6 +1822,7 @@
     "service_titre": "POLE URGENCE - SURVEILLANCE CONTINUE - CARDIOLOGIE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "secretariat.drh@psv47.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1667,6 +1833,7 @@
     "service_titre": "CARDIOLOGIE AIGUE",
     "service_h3": "Dr Aurel CRACAN",
     "email": "cracanau@ch-agen-nerac.fr",
+    "email_affaires": "martini@ch-agen-nerac.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1677,6 +1844,7 @@
     "service_titre": "SSR CARDIOLOGIQUES",
     "service_h3": "",
     "email": "",
+    "email_affaires": "martini@ch-agen-nerac.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1687,6 +1855,7 @@
     "service_titre": "Cardiologie Pneumologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "michelle.anxolabehere@chicmt.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1697,6 +1866,7 @@
     "service_titre": "Medecine polyvalente (Cs addictologie, cardiologie, endocrinologie, oncologie, pneumologie, sexologie, neurologie, rhumatologie)",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1707,6 +1877,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Pr Fabrice PRUNIER",
     "email": "FaPrunier@chu-angers.fr",
+    "email_affaires": "DAM@chu-angers.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1717,6 +1888,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1727,6 +1899,7 @@
     "service_titre": "Cardiologie - Soins intensifs",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1737,16 +1910,18 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Fabrice PRUNIER",
     "email": "affaires-medicales@ch-saumur.fr",
+    "email_affaires": "laurent.renaut@ch-saumur.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
     "groupe_id": "50",
     "groupe_titre": "Manche",
-    "etablissement": "Centre hospitalier d'Avranches-Granville (Granville)",
+    "etablissement": "Hôpitaux du Sud-Manche (Granville)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1289-establishment5065",
     "service_titre": "Médecine Cardio-vasculaire et néphrologique",
     "service_h3": "Dr Takieddine ABADA",
     "email": "takieddine.abada@ch-avranches-granville.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1757,6 +1932,7 @@
     "service_titre": "Cardiologie et soins intensifs de cardiologie",
     "service_h3": "Dr Philippe LOISELET",
     "email": "p.loiselet@ch-cotentin.fr",
+    "email_affaires": "yann.tanguy@ch-cotentin.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1767,6 +1943,7 @@
     "service_titre": "Coronarographie - Centre de Cardiologie Interventionnelle de la Manche",
     "service_h3": "Dr Guillaume MALCOR",
     "email": "g.malcor@ch-cotentin.fr",
+    "email_affaires": "yann.tanguy@ch-cotentin.fr",
     "plateau_cardio": "Oui"
   },
   {
@@ -1777,6 +1954,7 @@
     "service_titre": "CARDIOLOGIE",
     "service_h3": "Dr Laurent MICHEL",
     "email": "laurent.michel@ch-stlo.fr",
+    "email_affaires": "laure.salles@ch-stlo.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1787,6 +1965,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Pr Damien METZ",
     "email": "dmetz@chu-reims.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1797,6 +1976,7 @@
     "service_titre": "Chirurgie Thoracique et Cardio-Vasculaire",
     "service_h3": "Pr Vito-Giovanni RUGGIERI",
     "email": "vgruggieri@chu-reims.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1807,6 +1987,7 @@
     "service_titre": "Imagerie Cardio-Thoracique, Uro-Néphrologie, Vasculaire et Interventionnelle",
     "service_h3": "Pr Claude MARCUS",
     "email": "cmarcus@chu-reims.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1817,6 +1998,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Nathalie BAJOLLE",
     "email": "nbajolle@ch-chalonsenchampagne.fr",
+    "email_affaires": "wchabbaz@ch-chalonsenchampagne.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1827,6 +2009,7 @@
     "service_titre": "CARDIOLOGIE",
     "service_h3": "Dr Mamy ANDRIAMBOLOLONA",
     "email": "m.andriambololona@ch-vitrylefrancois.fr",
+    "email_affaires": "celine.ruhland@ch-saintdizier.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1837,6 +2020,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "M. Olivier CLAUDON",
     "email": "olivier.claudon@ch-chaumont.fr",
+    "email_affaires": "xavier.huard@ch-shm.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1847,6 +2031,7 @@
     "service_titre": "CARDIOLOGIE ET U.S.I.C",
     "service_h3": "",
     "email": "",
+    "email_affaires": "celine.ruhland@ch-saintdizier.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1857,6 +2042,7 @@
     "service_titre": "CARDIOLOGIE usic",
     "service_h3": "",
     "email": "",
+    "email_affaires": "celine.ruhland@ch-saintdizier.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1867,6 +2053,7 @@
     "service_titre": "Consultation Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1877,6 +2064,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Tahar LAZIZI",
     "email": "tahar.lazizi@chlaval.fr",
+    "email_affaires": "affaires.medicales@chlaval.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1887,6 +2075,7 @@
     "service_titre": "CARDIOLOGIE",
     "service_h3": "Dr Abdelrhani MOUMEN",
     "email": "amoumen@ch-mayenne.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1897,6 +2086,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1907,6 +2097,7 @@
     "service_titre": "Cardiologie congénitale pédiatrique",
     "service_h3": "M. Gilles BOSSER",
     "email": "G.BOSSER@chru-nancy.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1917,6 +2108,7 @@
     "service_titre": "Centre de compétence des Maladies cardiovasculaires rares (troubles du rythme cardiaque)",
     "service_h3": "Pr Nicolas SADOUL",
     "email": "n.sadoul@chru-nancy.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1927,6 +2119,7 @@
     "service_titre": "Centre de compétences des maladies cardiovasculaires graves",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1937,6 +2130,7 @@
     "service_titre": "Chirurgie des maladies cardiovasculaires et transplantations (pôle territorial lorrain)",
     "service_h3": "M. Juan-Pablo MAUREIRA",
     "email": "jp.maureira@chru-nancy.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1947,6 +2141,7 @@
     "service_titre": "Département de cardiologie médicale et réadaptation",
     "service_h3": "Pr Nicolas SADOUL",
     "email": "n.sadoul@chru-nancy.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1957,6 +2152,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1967,6 +2163,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Alexandre KOCH",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1977,6 +2174,7 @@
     "service_titre": "Cardiologie et soins intensifs",
     "service_h3": "",
     "email": "",
+    "email_affaires": "celine.ruhland@ch-saintdizier.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1987,6 +2185,7 @@
     "service_titre": "Plateau technique médecine-cardiologie BPCO",
     "service_h3": "",
     "email": "",
+    "email_affaires": "celine.ruhland@ch-saintdizier.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1997,6 +2196,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2007,6 +2207,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Pierre KHATTAR",
     "email": "f.porhel@ghbs.bzh",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2017,6 +2218,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "armelle.germain@ch-centre-bretagne.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2027,6 +2229,7 @@
     "service_titre": "Médecine à orientation cardiologique",
     "service_h3": "Dr Louis-François GARNIER",
     "email": "louis-francois.garnier@ch-ploermel.fr",
+    "email_affaires": "maryse.caoudal@ch-bretagne-atlantique.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2037,6 +2240,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Khalifé KHALIFE",
     "email": "k.khalife@chr-metz-thionville.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2047,6 +2251,7 @@
     "service_titre": "Chirurgie cardio-vasculaire et thoracique",
     "service_h3": "M. Bruno SCHJOTH",
     "email": "b.schjoth@chr-metz-thionville.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2057,6 +2262,7 @@
     "service_titre": "Cardiologie - Médecine Interne A",
     "service_h3": "Dr Khalifé KHALIFE",
     "email": "k.khalife@chr-metz-thionville.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2067,6 +2273,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Mohamed NESSIBI",
     "email": "mohamed.nessibi@ch-sarreguemines.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2077,6 +2284,7 @@
     "service_titre": "Cardiologie et USIC",
     "service_h3": "Dr Awad AL AMMAR",
     "email": "awad.alammar@unisante.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2087,6 +2295,7 @@
     "service_titre": "CENTRE DE CONSULTATIONS MEDICO-CHIRURGICALES (57) CARDIOLOGIE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2097,6 +2306,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "secretariat.direction@ch-sarrebourg.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2107,6 +2317,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "chan.drh.sec@ght58.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2117,6 +2328,7 @@
     "service_titre": "Soins intensifs et surveillance continue de cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "chan.drh.sec@ght58.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2127,6 +2339,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Alexandre TECHE",
     "email": "teche.m@ght58.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2137,6 +2350,7 @@
     "service_titre": "Cardiologie - USIC",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2147,6 +2361,7 @@
     "service_titre": "CARDIOLOGIE - USIC",
     "service_h3": "Dr Rosario PILATO",
     "email": "rosario.pilato@ch-douai.fr",
+    "email_affaires": "emeline.bertrand@ch-douai.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2157,6 +2372,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Eric DECOULX",
     "email": "edecoulx@ch-tourcoing.fr",
+    "email_affaires": "cvasseur@ch-tourcoing.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2167,6 +2383,7 @@
     "service_titre": "Médecine polyvalente à orientation Gastro-entérologie et Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "amedicales@ch-denain.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2177,6 +2394,7 @@
     "service_titre": "Médecine à orientation Cardio-Vasculaire",
     "service_h3": "M. Alessandro COSENZA",
     "email": "alessandro.cosenza@ghsc.fr",
+    "email_affaires": "Clement.ACQUART@ghsc.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2187,6 +2405,7 @@
     "service_titre": "Cardiologie SVP",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2197,6 +2416,7 @@
     "service_titre": "Explorations fonctionnelles cardio, neuro et vasculaire SVP",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2207,6 +2427,7 @@
     "service_titre": "Laboratoire d'échocardiographie SVP",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2217,6 +2438,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Patrick KONE",
     "email": "p.kone@ch-cambrai.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2227,6 +2449,7 @@
     "service_titre": "Unité de Soins Intensifs de Cardiologie",
     "service_h3": "Dr Patrick KONE",
     "email": "p.kone@ch-cambrai.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2237,6 +2460,7 @@
     "service_titre": "Cardiologie - USIC",
     "service_h3": "M. Benaissa AGRAOU",
     "email": "agraou.benaissa@ch-maubeuge.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2247,6 +2471,7 @@
     "service_titre": "Cardiologie - Soins intensifs SP",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2257,6 +2482,7 @@
     "service_titre": "Pôle anesthésie-Réanimation cardio-thoracique",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2267,6 +2493,7 @@
     "service_titre": "Pôle cardiologie et maladies vasculaires",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2277,6 +2504,7 @@
     "service_titre": "Pôle Explorations fonctionnelles cardiovasculaires",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2287,6 +2515,7 @@
     "service_titre": "Hôpital de Jour de Réadaptation Cardio-Vasculaire",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2297,6 +2526,7 @@
     "service_titre": "Consultation de Cardiologie",
     "service_h3": "Dr Ahmed AMIAR",
     "email": "aamiar@chsa.fr",
+    "email_affaires": "fbried@chsa.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2307,6 +2537,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr François COVIAUX",
     "email": "f.coviaux@ch-armentieres.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2317,6 +2548,7 @@
     "service_titre": "Cardiologie SM",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2327,6 +2559,7 @@
     "service_titre": "Pôle cardio vasculaire et pulmonaire",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2337,6 +2570,7 @@
     "service_titre": "Cardiologie - USIC",
     "service_h3": "Dr Jérôme CLERC",
     "email": "j.clerc@ch-compiegnenoyon.fr",
+    "email_affaires": "c.balluais@ch-compiegnenoyon.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2347,6 +2581,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "s.salem@ch-beauvais.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2357,6 +2592,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2367,6 +2603,7 @@
     "service_titre": "Cardiologie Unité de soins Intensifs en Cardiologie (USIC)",
     "service_h3": "Dr Salim BELGUIDOUM",
     "email": "Salim.Belguidoum@ghpso.fr",
+    "email_affaires": "Abdoul.BA@ghpso.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2377,6 +2614,7 @@
     "service_titre": "Médecine Cardiologie et Pneumologie",
     "service_h3": "Dr Nizar MOHIDDINE",
     "email": "direction.flers@ght-cdn.fr",
+    "email_affaires": "chloe.moru@ght-cdn.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2387,6 +2625,7 @@
     "service_titre": "Consultation CARDIOLOGIE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "chloe.moru@ght-cdn.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2397,6 +2636,7 @@
     "service_titre": "CONSULTATIONS EXTERNES CARDIOLOGIE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2407,6 +2647,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2417,6 +2658,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2427,6 +2669,7 @@
     "service_titre": "Cardiologie - USIC",
     "service_h3": "Dr Eric VERBRUGGE",
     "email": "direction@ch-boulogne.fr",
+    "email_affaires": "el.noviant-laffanour@ch-boulogne.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2437,6 +2680,7 @@
     "service_titre": "Unité de Soins cardiologiques",
     "service_h3": "Dr Christophe MYCINSKI",
     "email": "cmycinski@ch-bethune.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2447,6 +2691,7 @@
     "service_titre": "cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2457,6 +2702,7 @@
     "service_titre": "Cardiologie / USIC / Explorations fonctionnelles cardio.",
     "service_h3": "Dr Francesco FAVATA",
     "email": "Francesco.FAVATA@gh-artoisternois.fr",
+    "email_affaires": "secretariat.direction@gh-artoisternois.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2467,6 +2713,7 @@
     "service_titre": "SSR Cardio - Pneumo (Éole)",
     "service_h3": "Dr Philippe PAUQUET",
     "email": "Philippe.PAUQUET@gh-artoisternois.fr",
+    "email_affaires": "secretariat.direction@gh-artoisternois.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2477,6 +2724,7 @@
     "service_titre": "Cardiologie médicale et médecine vasculaire",
     "service_h3": "M. Romain ESCHALIER",
     "email": "reschalier@chu-clermontferrand.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2487,6 +2735,7 @@
     "service_titre": "Chirurgie Cardio-Vasculaire",
     "service_h3": "Pr Lionel CAMILLERI",
     "email": "lcamilleri@chu-clermontferrand.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2497,6 +2746,7 @@
     "service_titre": "Médecine à orientation cardiologique",
     "service_h3": "Dr Pascale HAUMONT",
     "email": "p.haumont@ch-riom.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2507,6 +2757,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2517,6 +2768,7 @@
     "service_titre": "Cardiologie Consultations",
     "service_h3": "Dr Jean-Baptiste BERNEAU",
     "email": "",
+    "email_affaires": "jdaeschler@ch-cotebasque.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2527,6 +2779,7 @@
     "service_titre": "MEDECINE POLYVALENTE à orientations Cardiologie, Médecine, Pneumologie et Gastroentérologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2537,6 +2790,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Majdi ABDENNADHER",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2547,6 +2801,7 @@
     "service_titre": "Réanimation spécialisée en cardiologie",
     "service_h3": "M. Michel SERRANO",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2557,6 +2812,7 @@
     "service_titre": "Cardiologie et maladies vasculaires",
     "service_h3": "M. Christian DEMASLES",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2567,6 +2823,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2577,6 +2834,7 @@
     "service_titre": "Service de Cardiologie",
     "service_h3": "Dr Philippe COUPPIE",
     "email": "sec.cardiologie@ch-haguenau.fr",
+    "email_affaires": "Valentine.SCHALLER@ch-haguenau.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2587,6 +2845,7 @@
     "service_titre": "Consultations externes de cardiologie et explorations cardiovasculaires",
     "service_h3": "Dr Mounzer MANSOUR",
     "email": "Mounzer.MANSOUR@ghso.fr",
+    "email_affaires": "agnes.schreiner@ghso.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2597,6 +2856,7 @@
     "service_titre": "Plateau technique de cardiologie",
     "service_h3": "Dr Rodolphe THEOLADE",
     "email": "rtheolade@ch-wissembourg.fr",
+    "email_affaires": "dam@ch-haguenau.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2607,6 +2867,7 @@
     "service_titre": "SSR Cardiologique",
     "service_h3": "Dr Rodolphe THEOLADE",
     "email": "rtheolade@ch-wissembourg.fr",
+    "email_affaires": "dam@ch-haguenau.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2617,6 +2878,7 @@
     "service_titre": "Cardiologie - NHC",
     "service_h3": "",
     "email": "",
+    "email_affaires": "armelle.drexler@chru-strasbourg.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2627,6 +2889,7 @@
     "service_titre": "Chirurgie cardio vasculaire - transplantation et assistance cardiaque - NHC",
     "service_h3": "",
     "email": "",
+    "email_affaires": "armelle.drexler@chru-strasbourg.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2637,6 +2900,7 @@
     "service_titre": "Cardiologie (Médecine C)",
     "service_h3": "Dr Laszlo LEVAI",
     "email": "",
+    "email_affaires": "affairesmedicales.dirg@ch-colmar.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2647,6 +2911,7 @@
     "service_titre": "Explorations fonctionnelles cardio-vasculaires",
     "service_h3": "",
     "email": "",
+    "email_affaires": "affairesmedicales.dirg@ch-colmar.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2657,6 +2922,7 @@
     "service_titre": "Radiologie cardio-interventionnelle",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2667,6 +2933,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2677,6 +2944,7 @@
     "service_titre": "Consultation de Cardiologie Pédiatrique",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2687,6 +2955,7 @@
     "service_titre": "Service de Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2697,6 +2966,7 @@
     "service_titre": "CARDIOLOGIE, CARDIOLOGIE INTERVENTIONNELLE ET UNITE DE SOINS INTENSIFS DE CARDIOLOGIE",
     "service_h3": "Dr Olivier LE VAVASSEUR",
     "email": "secretariat.cardio@hno.fr",
+    "email_affaires": "cpicherel@hno.fr",
     "plateau_cardio": "Oui"
   },
   {
@@ -2707,6 +2977,7 @@
     "service_titre": "Consultation de Cardiologie Pédiatrique",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2717,6 +2988,7 @@
     "service_titre": "Plateau ambulatoire cardiologique",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2727,6 +2999,7 @@
     "service_titre": "Plateau Urgences Cardiologiques",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2737,6 +3010,7 @@
     "service_titre": "Service d'Hémodynamique et de Cardiologie Interventionnelle",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Oui"
   },
   {
@@ -2747,6 +3021,7 @@
     "service_titre": "Service d'Imagerie cardio-vasculaire et thoracique",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2757,6 +3032,7 @@
     "service_titre": "Service de Cardiologie : filière coronaires et valves",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2767,6 +3043,7 @@
     "service_titre": "Service de Cardiologie congénitale adultes et enfants",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2777,6 +3054,7 @@
     "service_titre": "Service de Cardiologie E (cardiologie générale)",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2787,6 +3065,7 @@
     "service_titre": "Service de Chirurgie Cardio-Vasculaire A",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2797,6 +3076,7 @@
     "service_titre": "Service de Chirurgie Cardio-Vasculaire B",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2807,6 +3087,7 @@
     "service_titre": "Service de Chirurgie Cardio-Vasculaire C",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2817,6 +3098,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2827,6 +3109,7 @@
     "service_titre": "CARDIOLOGIE ET PATHOLOGIE VASCULAIRE 69",
     "service_h3": "Dr Delphine MIOULET",
     "email": "cardiologie@hiadcssa.org",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2837,6 +3120,7 @@
     "service_titre": "Consultations de cardiologie - Explorations fonctionnelles cardiologiques",
     "service_h3": "Pr Pierre LANTELME",
     "email": "pierre.lantelme@chu-lyon.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2847,6 +3131,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Lisbeth CART",
     "email": "l.cart@gh70.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2857,6 +3142,7 @@
     "service_titre": "CARDIOLOGIE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2867,6 +3153,7 @@
     "service_titre": "Consultations Cardiologie",
     "service_h3": "Dr Ghassan YANNI",
     "email": "ghyanni@hoteldieu-creusot.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2877,6 +3164,7 @@
     "service_titre": "Consultations Cardiologie",
     "service_h3": "Dr Patrick BUTTARD",
     "email": "P.BUTTARD@ch-autun.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2887,6 +3175,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Patrick BUTTARD",
     "email": "patrick.buttard@ch-chalon71.fr",
+    "email_affaires": "sylvain.rollot@ch-chalon71.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2897,6 +3186,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Vincent DESCOTES-GENON",
     "email": "vincent.descotes-genon@ch-metropole-savoie.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2907,6 +3197,7 @@
     "service_titre": "Médecine polyvalente à orientation gastro-entérologie et cardiologie",
     "service_h3": "Dr Léa CARBONE",
     "email": "lea.carbone@ch-metropole-savoie.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2917,6 +3208,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Emmanuel DESJOYAUX",
     "email": "edesjoyaux@ch-annecygenevois.fr",
+    "email_affaires": "amechoud@ch-annecygenevois.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2927,6 +3219,7 @@
     "service_titre": "Cardiologie - USIC - Unité de soins intensifs cardiologiques",
     "service_h3": "Dr Emmanuel DESJOYAUX",
     "email": "edesjoyaux@ch-annecygenevois.fr",
+    "email_affaires": "amechoud@ch-annecygenevois.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2937,6 +3230,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Vuthik PANH",
     "email": "",
+    "email_affaires": "nmenuet@ch-alpes-leman.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2947,6 +3241,7 @@
     "service_titre": "Cardiologie clinique et explorations fonctionnelles - site de St Julien",
     "service_h3": "Dr Rachid BENDERBOUS",
     "email": "rbenderbous@ch-annecygenevois.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2957,6 +3252,7 @@
     "service_titre": "MEDECINE CARDIOLOGIQUE ET GASTROENTEROLOGIE",
     "service_h3": "Dr Patrick BROIN",
     "email": "Meds_Sec@ch-sallanches-chamonix.fr",
+    "email_affaires": "e.lemiere@ch-sallanches-chamonix.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2967,6 +3263,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Audrey NGEUTCHA TANTCHOU",
     "email": "secretariat-cardiologie@ch-hopitauxduleman.fr",
+    "email_affaires": "affaires-medicales@ch-hopitauxduleman.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2977,6 +3274,7 @@
     "service_titre": "Explorations fonctionnelles cardiologiques",
     "service_h3": "Mme Hélène VIVET",
     "email": "h-vivet@hopitauxduleman.fr",
+    "email_affaires": "affaires-medicales@ch-hopitauxduleman.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2987,6 +3285,7 @@
     "service_titre": "CARDIO-GERIATRIE",
     "service_h3": "Dr Mathieu CHACORNAC",
     "email": "mchacornac@ch-annecygenevois.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -2997,6 +3296,7 @@
     "service_titre": "Cardiogénétique et myogénétique moléculaire et cellulaire",
     "service_h3": "Dr MAGALIE LODIN PASQUIER",
     "email": "",
+    "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3007,6 +3307,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr MICHEL ZEITOUNI",
     "email": "",
+    "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3017,6 +3318,7 @@
     "service_titre": "Cardiologie - Hospitalisation",
     "service_h3": "Dr MARIA ELISABETA GHEORGHIU",
     "email": "",
+    "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3027,6 +3329,7 @@
     "service_titre": "Imagerie Cardiovasculaire et Thoracique (ICT)",
     "service_h3": "Dr PAUL-GYDEON RITVO",
     "email": "",
+    "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3037,6 +3340,7 @@
     "service_titre": "Lipidologie et Prévention Cardiovasculaire",
     "service_h3": "Dr ANTONIO GALLO",
     "email": "",
+    "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3047,6 +3351,7 @@
     "service_titre": "Pharmacologie oncologique et cardiovasculaire et Oncocardiologie",
     "service_h3": "Pr JOE ELIE SALEM",
     "email": "",
+    "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3057,6 +3362,7 @@
     "service_titre": "Radiologie cardiovasculaire et interventionnelle",
     "service_h3": "TRISTAN PITTIN",
     "email": "",
+    "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3067,6 +3373,7 @@
     "service_titre": "Unité de Cardiologie Ambulatoire Sans et Avec Rendez-vous",
     "service_h3": "Dr CLEMENT DAVRIL",
     "email": "",
+    "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3077,6 +3384,7 @@
     "service_titre": "Unité Soins Intensifs Cardiologie (USIC)",
     "service_h3": "Pr JOHANNE SILVAIN",
     "email": "",
+    "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3087,6 +3395,7 @@
     "service_titre": "Anesthésie en chirurgie digestive, endocrinienne, endoscopie digestive, radiologie et cardiologie interventionnelles",
     "service_h3": "Dr ILYES MEKKI",
     "email": "",
+    "email_affaires": "marie-cecile.mocellin@aphp.fr",
     "plateau_cardio": "Oui"
   },
   {
@@ -3097,6 +3406,7 @@
     "service_titre": "cardiologie",
     "service_h3": "Dr ANISSA ZIDOUNE",
     "email": "",
+    "email_affaires": "marie-cecile.mocellin@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3107,6 +3417,7 @@
     "service_titre": "explorations invasives cardiologiques",
     "service_h3": "Dr FABIEN PICARD",
     "email": "",
+    "email_affaires": "marie-cecile.mocellin@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3117,6 +3428,7 @@
     "service_titre": "Imagerie cardiothoracique et oncologique",
     "service_h3": "Pr MARIE PIERRE REVEL DUBOIS",
     "email": "",
+    "email_affaires": "marie-cecile.mocellin@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3127,6 +3439,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "MARIE CHRISTINE DARRICAU",
     "email": "",
+    "email_affaires": "nolwenn.jacob@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3137,6 +3450,7 @@
     "service_titre": "Explorations Fonctionnelles Cardio-vasculaires et Respiratoires",
     "service_h3": "Dr PIERRE LOZERON",
     "email": "",
+    "email_affaires": "nolwenn.jacob@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3147,6 +3461,7 @@
     "service_titre": "Unité de Soins Intensifs en Cardiologie",
     "service_h3": "AURORE LEMAY",
     "email": "",
+    "email_affaires": "nolwenn.jacob@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3157,6 +3472,7 @@
     "service_titre": "Hospitalisation de cardiologie",
     "service_h3": "Dr JULIA ATTIA",
     "email": "",
+    "email_affaires": "marie.hiance@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3167,6 +3483,7 @@
     "service_titre": "Imagerie cardiovasculaire",
     "service_h3": "Dr Alexandre FITOUSSI",
     "email": "",
+    "email_affaires": "marie.hiance@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3177,6 +3494,7 @@
     "service_titre": "Réanimation chirurgicale cardiologique",
     "service_h3": "Pr DAN LONGROIS",
     "email": "",
+    "email_affaires": "marie.hiance@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3187,6 +3505,7 @@
     "service_titre": "Soins intensifs de cardiologie",
     "service_h3": "Pr GREGORY DUCROCQ",
     "email": "",
+    "email_affaires": "marie.hiance@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3197,6 +3516,7 @@
     "service_titre": "Biochimie cardiovasculaire",
     "service_h3": "MURIELLE PIETROBONI",
     "email": "",
+    "email_affaires": "Sophie.maraval@egp.aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3207,6 +3527,7 @@
     "service_titre": "Cardio-oncologie",
     "service_h3": "Dr SEBASTIAN STOICA",
     "email": "",
+    "email_affaires": "Sophie.maraval@egp.aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3217,6 +3538,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr CATHERINE SZYMANSKI",
     "email": "",
+    "email_affaires": "Sophie.maraval@egp.aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3227,6 +3549,7 @@
     "service_titre": "Consultation de cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "Sophie.maraval@egp.aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3237,6 +3560,7 @@
     "service_titre": "Plateau Technique non invasif (Explorations non invasives cardio-vasculaires)",
     "service_h3": "Dr DORRA M'BAREK RABOUDI",
     "email": "",
+    "email_affaires": "Sophie.maraval@egp.aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3247,6 +3571,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr BENJAMIN SIBILIA",
     "email": "",
+    "email_affaires": "nolwenn.jacob@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3257,6 +3582,7 @@
     "service_titre": "CARDIOLOGIE",
     "service_h3": "Dr Romain CADOR",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3267,6 +3593,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr CLEMENT DARRICAUD",
     "email": "",
+    "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3277,6 +3604,7 @@
     "service_titre": "Soins intensifs de cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3287,6 +3615,7 @@
     "service_titre": "Cardiologie pédiatrique",
     "service_h3": "JULES ADER",
     "email": "",
+    "email_affaires": "marie.Ayoub@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3297,6 +3626,7 @@
     "service_titre": "Hôpital de jour de cardiologie pédiatrique",
     "service_h3": "Pr DAMIEN BONNET",
     "email": "",
+    "email_affaires": "marie.Ayoub@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3307,6 +3637,7 @@
     "service_titre": "Unité Fonctionnelle de Cardiologie Adulte",
     "service_h3": "Pr Eloi MARIJON",
     "email": "",
+    "email_affaires": "marie.Ayoub@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3317,6 +3648,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Pr ARON ARIEL COHEN",
     "email": "",
+    "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3327,6 +3659,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr BASTIEN MOYSSET",
     "email": "",
+    "email_affaires": "nolwenn.jacob@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3337,6 +3670,7 @@
     "service_titre": "UNITE DE READAPTATION CARDIO-VASCULAIRE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3347,6 +3681,7 @@
     "service_titre": "HTA cardiologie",
     "service_h3": "ELEONORE SOTTO",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3357,6 +3692,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3367,6 +3703,7 @@
     "service_titre": "Service de Chirurgie Thoracique et cardio-vasculaire",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3377,6 +3714,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Fabian TOURNEVACHE",
     "email": "fabian.tournevache@chi-elbeuf-louviers.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3387,6 +3725,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Emmanuel LECLUSE",
     "email": "emmanuel.lecluse@ch-havre.fr",
+    "email_affaires": "melanie.couturier@ch-havre.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3397,6 +3736,7 @@
     "service_titre": "SSR cardio-respiratoire (HC et HDJ)",
     "service_h3": "Dr Emmanuel LECLUSE",
     "email": "emmanuel.lecluse@ch-havre.fr",
+    "email_affaires": "melanie.couturier@ch-havre.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3407,6 +3747,7 @@
     "service_titre": "CARDIOLOGIE ET UNITE DE SOINS INTENSIFS CARDIOLOGIQUES",
     "service_h3": "Dr Carole HUCHE",
     "email": "chuche@ch-dieppe.fr",
+    "email_affaires": "rdubuisson@ch-dieppe.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3417,6 +3758,7 @@
     "service_titre": "Médecine à orientation cardiologique",
     "service_h3": "Dr Philippe CALOT",
     "email": "philippe.calot@ch-fecamp.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3427,6 +3769,7 @@
     "service_titre": "Cardiologie - USIC - HDJ - HDS - Explorations fonctionnelles cardiologiques - MLV",
     "service_h3": "Dr Simon ELHADAD",
     "email": "mgerber@ghef.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3437,6 +3780,7 @@
     "service_titre": "Unité de cardiologie du sport - MLV",
     "service_h3": "Dr Simon ELHADAD",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3447,6 +3791,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Cyrus MOINI",
     "email": "cyrus.moini@ghsif.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3457,6 +3802,7 @@
     "service_titre": "Cardiologie - USIC - Explorations fonctionnelles cardiologiques - MX",
     "service_h3": "Dr Sergio PERNA",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3467,6 +3813,7 @@
     "service_titre": "Cardiologie - Explorations fonctionnelles cardiologiques - CLM",
     "service_h3": "Dr Simon ELHADAD",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3477,6 +3824,7 @@
     "service_titre": "Cardiologie et maladies vasculaires",
     "service_h3": "Dr Farid TAOURI",
     "email": "ehaddad@ch-provins.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3487,6 +3835,7 @@
     "service_titre": "Médecine A-B (neurologie - cardiologie)",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3497,6 +3846,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Adama SANGARE",
     "email": "adama.sangare@ch-montereau.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3507,6 +3857,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr David BERVILLE",
     "email": "david.berville@ght-yvelinesnord.fr",
+    "email_affaires": "agathe.benoist@ght-yvelinesnord.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3517,6 +3868,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Geraldine GIBAULT GENTY",
     "email": "ggibaultgenty@ght78sud.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3527,6 +3879,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr David BERVILLE",
     "email": "david.berville@ght-yvelinesnord.fr",
+    "email_affaires": "agathe.benoist@ght-yvelinesnord.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3537,6 +3890,7 @@
     "service_titre": "Cardiologie-Pneumologie-USIC",
     "service_h3": "Dr Christophe CHAVELAS",
     "email": "cchavelas@ght78sud.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3547,6 +3901,7 @@
     "service_titre": "Service de SSR Cardiologie-Néphrologie-Polyvalents",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3557,6 +3912,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr David BERVILLE",
     "email": "david.berville@ght-yvelinesnord.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3567,6 +3923,7 @@
     "service_titre": "Cardiologie et Explorations Cardiovasculaires",
     "service_h3": "",
     "email": "",
+    "email_affaires": "karine.morin@ch-niort.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3577,6 +3934,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3587,6 +3945,7 @@
     "service_titre": "Cardiologie et Pneumo-Allergologie Pédiatriques",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3597,6 +3956,7 @@
     "service_titre": "Cardiologie, Rythmologie et Stimulation Cardiaque",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3607,6 +3967,7 @@
     "service_titre": "Réanimation Médico-Chirurgicale Cardio Thoracique Vasculaire et Respiratoire",
     "service_h3": "Pr Hervé DUPONT",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3617,6 +3978,7 @@
     "service_titre": "Unité de Soins Intensifs de Cardiologie (USIC)",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3627,6 +3989,7 @@
     "service_titre": "Médecine cardiologique - USIC",
     "service_h3": "Dr Vincent MOUQUET",
     "email": "hautbout.karine@ch-abbeville.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3637,6 +4000,7 @@
     "service_titre": "Soins de suite et de réadaptation cardio-respiratoires",
     "service_h3": "Dr Olivier LELEU",
     "email": "hautbout.karine@ch-abbeville.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3647,6 +4011,7 @@
     "service_titre": "SSR - Réadaptation cardio-vasculaire",
     "service_h3": "Dr Florent KRIM",
     "email": "cardiovasculaire@ch-corbie.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3657,6 +4022,7 @@
     "service_titre": "CARDIOLOGIE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3667,6 +4033,7 @@
     "service_titre": "CARDIOLOGIE et USIC",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3677,6 +4044,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "jeremy.luceno@ch-albi.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3687,6 +4055,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Nouredinne EL HAJJAJI",
     "email": "n.elhajjaji@ch-montauban.fr",
+    "email_affaires": "secretariat-dsqgr@ch-montauban.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3697,6 +4066,7 @@
     "service_titre": "Soins Intensifs Neuro-Cardio-Vasculaires",
     "service_h3": "Dr Nouredinne EL HAJJAJI",
     "email": "n.elhajjaji@ch-montauban.fr",
+    "email_affaires": "secretariat-dsqgr@ch-montauban.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3707,6 +4077,7 @@
     "service_titre": "Cardiologie A",
     "service_h3": "Dr Jean-Michel TARTIERE",
     "email": "jean-michel.tartiere@ch-toulon.fr",
+    "email_affaires": "Corentin.Balluais@ch-toulon.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3717,6 +4088,7 @@
     "service_titre": "Unité de Soins intensifs cardiologiques (USIC)",
     "service_h3": "Dr Farid CHALLAL",
     "email": "farid.challal@ch-toulon.fr",
+    "email_affaires": "Corentin.Balluais@ch-toulon.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3727,6 +4099,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Hélène ZAKARIAN",
     "email": "zakarian-h@chi-fsr.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3737,6 +4110,7 @@
     "service_titre": "CARDIOLOGIE ET MALADIES VASCULAIRES HIA Sainte-Anne",
     "service_h3": "Pr Gilles CELLARIER",
     "email": "cardiologie@hia-sainte-anne.ssa.msante.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3747,6 +4121,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3757,6 +4132,7 @@
     "service_titre": "Consultations Cardiologie",
     "service_h3": "Mme Daniele RAUFAST",
     "email": "daniele.raufast@chu-lyon.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3767,6 +4143,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "baratier.aurelie@ch-avignon.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3777,6 +4154,7 @@
     "service_titre": "Service de médecine A - Cardiologie",
     "service_h3": "Dr Patrick GIRAUD",
     "email": "p.giraud@ch-cavaillon.fr",
+    "email_affaires": "anne.desroche@ch-cavaillon.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3787,6 +4165,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "secretariat.dam@chd-vendee.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3797,6 +4176,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Claire BOIVINEAU",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3807,6 +4187,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3817,6 +4198,7 @@
     "service_titre": "Cardiologie et neuro-vasculaire",
     "service_h3": "",
     "email": "",
+    "email_affaires": "corentin.ringot@ght85.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3827,6 +4209,7 @@
     "service_titre": "Chirurgie cardio-thoracique",
     "service_h3": "Pr Pierre CORBI",
     "email": "pierre.corbi@chu-poitiers.fr",
+    "email_affaires": "heloise.baux@chu-poitiers.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3837,6 +4220,7 @@
     "service_titre": "Service médico-chirurgical de Cardiologie",
     "service_h3": "Pr Luc-Philippe CHRISTIAENS",
     "email": "luc-philippe.christiaens@chu-poitiers.fr",
+    "email_affaires": "heloise.baux@chu-poitiers.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3847,6 +4231,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Damien COISNE",
     "email": "cardiologie@ghnv.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3857,6 +4242,7 @@
     "service_titre": "Médecine générale - Cardiologie - Rhumatologie - Angiologie - Diabétologie/endocrinologie - Douleur",
     "service_h3": "Dr Jean-Claude LORENZO",
     "email": "jean-claude.lorenzo@ch-montmorillon.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3867,6 +4253,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Pr Victor ABOYANS",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3877,6 +4264,7 @@
     "service_titre": "Cardiologie USIC Plateau Technique",
     "service_h3": "",
     "email": "",
+    "email_affaires": "sec.direction@ch-ed.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3887,6 +4275,7 @@
     "service_titre": "Unité de Soins Intensifs de Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "sec.direction@ch-ed.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3897,6 +4286,7 @@
     "service_titre": "Médecine orientation Cardiologie",
     "service_h3": "",
     "email": "",
+    "email_affaires": "helene.marion@ch-remiremont.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3907,6 +4297,7 @@
     "service_titre": "CARDIOLOGIE ET SOINS INTENSIFS CARDIAQUES",
     "service_h3": "Dr Jean-Louis MEREGNANI",
     "email": "jl.meregnani@ch-ouestvosgien.fr",
+    "email_affaires": "e.andrique@ch-ouestvosgien.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3917,6 +4308,7 @@
     "service_titre": "Cardiologie et unité de soins intensifs cardiologiques",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3927,6 +4319,7 @@
     "service_titre": "Médecine cardiologie et soins intensifs",
     "service_h3": "Dr Didier PACAUD",
     "email": "dpacaud@ch-sens.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3937,6 +4330,7 @@
     "service_titre": "Plateau Technique de Cardiologie",
     "service_h3": "Dr Yan MORVAN",
     "email": "morvan@ch-joigny.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3947,6 +4341,7 @@
     "service_titre": "SMR des affections cardio-vasculaires",
     "service_h3": "Dr Yan MORVAN",
     "email": "morvan@ch-joigny.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3957,6 +4352,7 @@
     "service_titre": "médecine 2 à orientation pneumologique et cardiologique",
     "service_h3": "Dr Brahim BOUKHELOUA",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3967,6 +4363,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Yoann LEFRANCOIS",
     "email": "yoann.lefrancois@hnfc.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3977,6 +4374,7 @@
     "service_titre": "CARDIOLOGIE",
     "service_h3": "Dr Brahim MEFTOUT",
     "email": "brahim.meftout@chsf.fr",
+    "email_affaires": "antoine.vallauri@chsf.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3987,6 +4385,7 @@
     "service_titre": "SMR READAPTATION CARDIO VASCULAIRE",
     "service_h3": "Dr François KOUKOUI",
     "email": "francois.koukoui@ch-sud-francilien.fr",
+    "email_affaires": "antoine.vallauri@chsf.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3997,6 +4396,7 @@
     "service_titre": "Cardiologie et Unité de Soins Intensifs de Cardiologie (USIC)",
     "service_h3": "Dr Maruan BARRI",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4007,6 +4407,7 @@
     "service_titre": "READAPTATION CARDIAQUE ET SOINS DE SUITE CARDIOLOGIQUES",
     "service_h3": "Dr Titi FARROKHI",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4017,6 +4418,7 @@
     "service_titre": "Cardiologie et maladies vasculaires",
     "service_h3": "Dr MARIE HAUGUEL-MOREAU",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4027,6 +4429,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr CLAUDIUS STATESCU",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4037,6 +4440,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr AGNES CACHIER",
     "email": "",
+    "email_affaires": "marie.hiance@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4047,6 +4451,7 @@
     "service_titre": "CARDIOLOGIE/MEDECINE AERONAUTIQUE 92",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4057,6 +4462,7 @@
     "service_titre": "CHIRURGIE THORACIQUE ET CARDIO-VASCULAIRE 92",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4067,6 +4473,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Mohand GOUDJIL",
     "email": "mohand.goudjil@ch-nanterre.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4077,6 +4484,7 @@
     "service_titre": "Unité de Soins Intensifs de Cardiologie",
     "service_h3": "Dr Mohand GOUDJIL",
     "email": "mohand.goudjil@ch-nanterre.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4087,6 +4495,7 @@
     "service_titre": "Hôpital de jour de Soins de suite et de réadaptation cardio-vasculaires",
     "service_h3": "Dr Fatima BOUKHSIBI",
     "email": "fatima.boukhsibi@ch-rueil.fr",
+    "email_affaires": "drh@ch-rueil.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4097,6 +4506,7 @@
     "service_titre": "Soins de Suite et de Réadaptation Cardiovasculaire",
     "service_h3": "Dr Fatima BOUKHSIBI",
     "email": "fatima.boukhsibi@ch-rueil.fr",
+    "email_affaires": "drh@ch-rueil.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4107,6 +4517,7 @@
     "service_titre": "Spécialités médicales (Cardiologie)",
     "service_h3": "Dr Camille BOTELLA",
     "email": "cbotella@ch-rivesdeseine.fr",
+    "email_affaires": "direction@ch-rivesdeseine.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4117,6 +4528,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr François WALYLO",
     "email": "francois.walylo@ch-aulnay.fr",
+    "email_affaires": "maxime.lemee@ght-gpne.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4127,6 +4539,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "NATHALIE AZOPPARDI",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4137,6 +4550,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Albert BOCCARA",
     "email": "albert.boccara@ght-gpne.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4147,6 +4561,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "M. Olivier NALLET",
     "email": "olivier.nallet@ght-gpne.fr",
+    "email_affaires": "maxime.lemee@ght-gpne.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4157,6 +4572,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr SAFA JEBALI",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4167,6 +4583,7 @@
     "service_titre": "Explorations fonctionnelles cardio-vasculaires",
     "service_h3": "Dr OLIVIER CHOURAQUI",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4177,6 +4594,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr ALBAN COPIE",
     "email": "",
+    "email_affaires": "adeline.rouby@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4187,6 +4605,7 @@
     "service_titre": "Cardiologie interventionnelle",
     "service_h3": "Pr EMMANUEL TEIGER",
     "email": "",
+    "email_affaires": "adeline.rouby@aphp.fr",
     "plateau_cardio": "Oui"
   },
   {
@@ -4197,6 +4616,7 @@
     "service_titre": "Chirurgie cardio-vasculaire",
     "service_h3": "MORGANE ARNOUX",
     "email": "",
+    "email_affaires": "adeline.rouby@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4207,6 +4627,7 @@
     "service_titre": "Exploration fonctionnelle cardiovasculaire non invasive et de cardiologie ambulatoire",
     "service_h3": "Pr GENEVIEVE DERUMEAUX",
     "email": "",
+    "email_affaires": "adeline.rouby@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4217,6 +4638,7 @@
     "service_titre": "CARDIOLOGIE",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4227,6 +4649,7 @@
     "service_titre": "court séjour gériatrique à orientation cardiologie et neuro-psycho",
     "service_h3": "Dr SONIA ADRAR",
     "email": "",
+    "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4237,6 +4660,7 @@
     "service_titre": "Soins de suite et de réadapation à orientation cardiologie et neuro-psycho-gériatrique",
     "service_h3": "Dr CARMELO LAFUENTE LAFUENTE",
     "email": "",
+    "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4247,6 +4671,7 @@
     "service_titre": "Cardiologie et urgences cardio-vasculaires",
     "service_h3": "Dr Emmanuel SALENGRO",
     "email": "emmanuel.salengro@chiv.fr",
+    "email_affaires": "elena.ketterer@chiv.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4257,6 +4682,7 @@
     "service_titre": "Cardiologie et maladies vasculaires",
     "service_h3": "Dr Maria STEFURIAC",
     "email": "pole-medical@hia-begin.ssa.mssante.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4267,6 +4693,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Véronique DECALF",
     "email": "veronique.decalf@ght-novo.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4277,6 +4704,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Nabil POULOS",
     "email": "nabil.poulos@ch-gonesse.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4287,6 +4715,7 @@
     "service_titre": "Cardiologie - Cardiologie interventionnelle - USIC",
     "service_h3": "",
     "email": "",
+    "email_affaires": "sec.drh@ch-simoneveil.fr",
     "plateau_cardio": "Oui"
   },
   {
@@ -4297,6 +4726,7 @@
     "service_titre": "CARDIOLOGIE",
     "service_h3": "Dr François DUCLOS",
     "email": "francois.duclos@ch-argenteuil.fr",
+    "email_affaires": "bianca.dasilvabarreto@ch-argenteuil.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4307,6 +4737,7 @@
     "service_titre": "CARDIOLOGIE",
     "service_h3": "Dr Ioana MORARU",
     "email": "i.moraru@hopital-parc-taverny.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4317,6 +4748,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Pr Annie LANNUZEL",
     "email": "annie.lannuzel@chu-guadeloupe.fr",
+    "email_affaires": "christiana.cologer@chu-guadeloupe.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4327,6 +4759,7 @@
     "service_titre": "Chirurgie thoracique et cardio-vasculaire",
     "service_h3": "",
     "email": "",
+    "email_affaires": "christiana.cologer@chu-guadeloupe.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4337,6 +4770,7 @@
     "service_titre": "Département de Cardiologie - Soins Intensifs 7B",
     "service_h3": "Pr Jocelyn INAMO",
     "email": "jocelyn.inamo@chu-martinique.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4347,6 +4781,7 @@
     "service_titre": "Département de Cardiologie 7D",
     "service_h3": "Pr Jocelyn INAMO",
     "email": "jocelyn.inamo@chu-martinique.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4357,6 +4792,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Yves-Kénol FRANCK",
     "email": "yves-kenol.franck@ch-cayenne.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4367,6 +4803,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Grace-À-Dieu YABETA",
     "email": "g.yabeta@ch-ouestguyane.fr",
+    "email_affaires": "s.lavenaire@ch-ouestguyane.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4377,6 +4814,7 @@
     "service_titre": "Cardiologie (Sud)",
     "service_h3": "",
     "email": "",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4387,6 +4825,7 @@
     "service_titre": "Cardiologie (Nord)",
     "service_h3": "Dr Christian KICHENIN",
     "email": "cardiologie@chd-fguyon.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4397,6 +4836,7 @@
     "service_titre": "Chir. Thoracique et Cardiovasculaire",
     "service_h3": "M. Jean-François DELAMBRE",
     "email": "jf-delambre@chd-fguyon.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4407,6 +4847,7 @@
     "service_titre": "Médecine à orientation Cardiologie et Neurologie",
     "service_h3": "Dr Fanny LE MEE",
     "email": "secretariat.cardiologie@chor.re",
+    "email_affaires": "Ol.MANICON@pso.re",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4417,6 +4858,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "M. Christophe LEGOANVIC",
     "email": "christophe.legoanvic@cht.pf",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   }
 ]
