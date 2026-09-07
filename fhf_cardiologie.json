@@ -249,7 +249,7 @@
     "service_titre": "Médecine A / Cardiologie",
     "service_h3": "Dr Philippe CHARRE",
     "email": "p.charre@ch-privas.fr",
-    "email_affaires": "a.guiraud@ch-privas.fr",
+    "email_affaires": "secretariat.drh@ch-privas.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -302,8 +302,8 @@
     "etablissement": "Centre hospitalier (Carcassonne)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure245-establishment4090",
     "service_titre": "Cardiologie",
-    "service_h3": "Dr Youcef AFIFI",
-    "email": "youcef.afifi@ch-carcassonne.fr",
+    "service_h3": "Dr Karim BEN BRAHIM",
+    "email": "karim.benbrahim@ch-carcassonne.fr",
     "email_affaires": "affairesmedicales-cooperations@ch-carcassonne.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
@@ -1074,7 +1074,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
-    "email_affaires": "louisa.atmani@ch-eureseine.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1085,7 +1085,7 @@
     "service_titre": "Médecine à orientation cardiologique - Vernon",
     "service_h3": "",
     "email": "",
-    "email_affaires": "louisa.atmani@ch-eureseine.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1908,8 +1908,8 @@
     "etablissement": "Centre Hospitalier de SAUMUR (Saumur)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1244-establishment5022",
     "service_titre": "Cardiologie",
-    "service_h3": "Dr Fabrice PRUNIER",
-    "email": "affaires-medicales@ch-saumur.fr",
+    "service_h3": "",
+    "email": "",
     "email_affaires": "laurent.renaut@ch-saumur.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
@@ -2777,7 +2777,7 @@
     "etablissement": "Centre Hospitalier de Bigorre site de la Gespe (MCO) (Tarbes)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1746-establishment5505",
     "service_titre": "Cardiologie",
-    "service_h3": "Dr Majdi ABDENNADHER",
+    "service_h3": "Mme Christine LEONARD",
     "email": "",
     "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
@@ -2955,7 +2955,7 @@
     "service_titre": "CARDIOLOGIE, CARDIOLOGIE INTERVENTIONNELLE ET UNITE DE SOINS INTENSIFS DE CARDIOLOGIE",
     "service_h3": "Dr Olivier LE VAVASSEUR",
     "email": "secretariat.cardio@hno.fr",
-    "email_affaires": "cpicherel@hno.fr",
+    "email_affaires": "direction-generale@hno.fr",
     "plateau_cardio": "Oui"
   },
   {
