@@ -775,8 +775,8 @@
     "etablissement": "Centre hospitalier de Haute-Corrèze Direction Commune des Hôpitaux de Corrèze (Ussel)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure431-establishment4252",
     "service_titre": "Cardiologie/Soins continus cardiologiques",
-    "service_h3": "Dr Alain BERENFELD",
-    "email": "a.berenfeld@chussel.fr",
+    "service_h3": "Dr Racine LY",
+    "email": "r.ly@ch-ussel.fr",
     "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
@@ -1590,7 +1590,7 @@
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure940-establishment4732",
     "service_titre": "CARDIOLOGIE - NEUROLOGIE",
     "service_h3": "Dr Ayi NAPPORN",
-    "email": "cardio-neuro.cadre@ch-dole.fr",
+    "email": "bettinger.christelle@ch-dole.fr",
     "email_affaires": "olard.alexandra@ch-dole.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
@@ -1755,7 +1755,7 @@
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1092-establishment4879",
     "service_titre": "Médecine Cardiologie-Soins intensifs",
     "service_h3": "Dr Simon SAAD",
-    "email": "",
+    "email": "nolwenn.perpina@ch-cnp.fr",
     "email_affaires": "celine.reuze@ch-cnp.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
@@ -1800,7 +1800,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
-    "email_affaires": "sgrzesiak@ch-montargis.fr",
+    "email_affaires": "jperret@ch-montargis.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1974,8 +1974,8 @@
     "etablissement": "Bâtiment D Robert Debre (Reims)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1310-establishment1252",
     "service_titre": "Imagerie Cardio-Thoracique, Uro-Néphrologie, Vasculaire et Interventionnelle",
-    "service_h3": "Pr Claude MARCUS",
-    "email": "cmarcus@chu-reims.fr",
+    "service_h3": "Mme Fabienne MENU",
+    "email": "fmenu@chu-reims.fr",
     "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
@@ -3252,7 +3252,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "Dr Audrey NGEUTCHA TANTCHOU",
     "email": "secretariat-cardiologie@ch-hopitauxduleman.fr",
-    "email_affaires": "affaires-medicales@ch-hopitauxduleman.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3261,9 +3261,9 @@
     "etablissement": "HOPITAUX DU LEMAN Site Georges PIANTA à THONON (Thonon-les-Bains)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2017-establishment5755",
     "service_titre": "Explorations fonctionnelles cardiologiques",
-    "service_h3": "Mme Hélène VIVET",
-    "email": "h-vivet@hopitauxduleman.fr",
-    "email_affaires": "affaires-medicales@ch-hopitauxduleman.fr",
+    "service_h3": "Mme Myriam MOUCHET",
+    "email": "m-mouchet@ch-hopitauxduleman.fr",
+    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4319,7 +4319,7 @@
     "service_titre": "Médecine cardiologie et soins intensifs",
     "service_h3": "Dr Didier PACAUD",
     "email": "dpacaud@ch-sens.fr",
-    "email_affaires": "",
+    "email_affaires": "drh@ch-sens.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -4446,7 +4446,7 @@
   {
     "groupe_id": "92",
     "groupe_titre": "Hauts-de-Seine",
-    "etablissement": "Hôpital d'instruction des Armées PERCY (CLAMART)",
+    "etablissement": "Hôpital National d'Instruction des Armées PERCY (CLAMART)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure5561-establishment8044",
     "service_titre": "CARDIOLOGIE/MEDECINE AERONAUTIQUE 92",
     "service_h3": "",
@@ -4457,7 +4457,7 @@
   {
     "groupe_id": "92",
     "groupe_titre": "Hauts-de-Seine",
-    "etablissement": "Hôpital d'instruction des Armées PERCY (CLAMART)",
+    "etablissement": "Hôpital National d'Instruction des Armées PERCY (CLAMART)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure5561-establishment8044",
     "service_titre": "CHIRURGIE THORACIQUE ET CARDIO-VASCULAIRE 92",
     "service_h3": "",
