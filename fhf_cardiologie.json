@@ -226,7 +226,7 @@
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure169-establishment4018",
     "service_titre": "Cardiologie",
     "service_h3": "Dr Vincent AUDIGIER",
-    "email": "nor.el.houda.zelazli@ch-ardeche-meridionale.fr",
+    "email": "",
     "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
@@ -530,7 +530,7 @@
   {
     "groupe_id": "13",
     "groupe_titre": "Bouches-du-Rhône",
-    "etablissement": "Hopital d'Instruction des Armées LAVERAN (MARSEILLE)",
+    "etablissement": "Hopital National d'Instruction des Armées LAVERAN (MARSEILLE)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure5561-establishment8034",
     "service_titre": "CARDIOLOGIE - HIA LAVERAN",
     "service_h3": "",
@@ -788,7 +788,7 @@
     "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
-    "email_affaires": "relations.humaines@ch-bastia.fr",
+    "email_affaires": "sec-ressources-humaines@ch-bastia.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -799,7 +799,7 @@
     "service_titre": "Explorations fonctionnelles de cardiologie, consultations de cardiologie",
     "service_h3": "",
     "email": "",
-    "email_affaires": "relations.humaines@ch-bastia.fr",
+    "email_affaires": "sec-ressources-humaines@ch-bastia.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -810,7 +810,7 @@
     "service_titre": "Soins Médicaux et de Réadaptation (SMR) cardio-vasculaire et respiratoire",
     "service_h3": "",
     "email": "",
-    "email_affaires": "relations.humaines@ch-bastia.fr",
+    "email_affaires": "sec-ressources-humaines@ch-bastia.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -821,7 +821,7 @@
     "service_titre": "Unité de Soins Intensifs de Cardiologie (USIC)",
     "service_h3": "",
     "email": "",
-    "email_affaires": "relations.humaines@ch-bastia.fr",
+    "email_affaires": "sec-ressources-humaines@ch-bastia.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1168,7 +1168,7 @@
   {
     "groupe_id": "29",
     "groupe_titre": "Finistère",
-    "etablissement": "Hôpital d'Instruction des Armées CLERMONT-TONNERRE (BREST)",
+    "etablissement": "Hôpital Régional d'Instruction des Armées CLERMONT-TONNERRE (BREST)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure5561-establishment8035",
     "service_titre": "Pathologies Cardiovasculaires 29",
     "service_h3": "",
@@ -2279,7 +2279,7 @@
   {
     "groupe_id": "57",
     "groupe_titre": "Moselle",
-    "etablissement": "Hopital d'Instruction des Armees LEGOUEST (METZ)",
+    "etablissement": "Hopital Régional d'Instruction des Armees LEGOUEST (METZ)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure5561-establishment8037",
     "service_titre": "CENTRE DE CONSULTATIONS MEDICO-CHIRURGICALES (57) CARDIOLOGIE",
     "service_h3": "",
@@ -2681,28 +2681,6 @@
     "service_h3": "",
     "email": "",
     "email_affaires": "",
-    "plateau_cardio": "Non spécifié / Non"
-  },
-  {
-    "groupe_id": "62",
-    "groupe_titre": "Pas-de-Calais",
-    "etablissement": "Centre Hospitalier d'Arras (Arras)",
-    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1656-establishment5419",
-    "service_titre": "Cardiologie / USIC / Explorations fonctionnelles cardio.",
-    "service_h3": "Dr Francesco FAVATA",
-    "email": "Francesco.FAVATA@gh-artoisternois.fr",
-    "email_affaires": "secretariat.direction@gh-artoisternois.fr",
-    "plateau_cardio": "Non spécifié / Non"
-  },
-  {
-    "groupe_id": "62",
-    "groupe_titre": "Pas-de-Calais",
-    "etablissement": "Centre Hospitalier d'Arras (Arras)",
-    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1656-establishment5419",
-    "service_titre": "SSR Cardio - Pneumo (Éole)",
-    "service_h3": "Dr Philippe PAUQUET",
-    "email": "Philippe.PAUQUET@gh-artoisternois.fr",
-    "email_affaires": "secretariat.direction@gh-artoisternois.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -3225,6 +3203,28 @@
   {
     "groupe_id": "74",
     "groupe_titre": "Haute-Savoie",
+    "etablissement": "HOPITAUX DU LEMAN Site Georges PIANTA à THONON (Thonon-les-Bains)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2017-establishment5755",
+    "service_titre": "Cardiologie",
+    "service_h3": "Dr Audrey NGEUTCHA TANTCHOU",
+    "email": "",
+    "email_affaires": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "74",
+    "groupe_titre": "Haute-Savoie",
+    "etablissement": "HOPITAUX DU LEMAN Site Georges PIANTA à THONON (Thonon-les-Bains)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2017-establishment5755",
+    "service_titre": "Explorations fonctionnelles cardiologiques",
+    "service_h3": "Mme Myriam MOUCHET",
+    "email": "",
+    "email_affaires": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "74",
+    "groupe_titre": "Haute-Savoie",
     "etablissement": "Centre Hospitalier Annecy Genevois site de St Julien en Genevois (Saint-Julien-en-Genevois)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2012-establishment5754",
     "service_titre": "Cardiologie clinique et explorations fonctionnelles - site de St Julien",
@@ -3242,28 +3242,6 @@
     "service_h3": "Dr Patrick BROIN",
     "email": "Meds_Sec@ch-sallanches-chamonix.fr",
     "email_affaires": "e.lemiere@ch-sallanches-chamonix.fr",
-    "plateau_cardio": "Non spécifié / Non"
-  },
-  {
-    "groupe_id": "74",
-    "groupe_titre": "Haute-Savoie",
-    "etablissement": "HOPITAUX DU LEMAN Site Georges PIANTA à THONON (Thonon-les-Bains)",
-    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2017-establishment5755",
-    "service_titre": "Cardiologie",
-    "service_h3": "Dr Audrey NGEUTCHA TANTCHOU",
-    "email": "secretariat-cardiologie@ch-hopitauxduleman.fr",
-    "email_affaires": "",
-    "plateau_cardio": "Non spécifié / Non"
-  },
-  {
-    "groupe_id": "74",
-    "groupe_titre": "Haute-Savoie",
-    "etablissement": "HOPITAUX DU LEMAN Site Georges PIANTA à THONON (Thonon-les-Bains)",
-    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2017-establishment5755",
-    "service_titre": "Explorations fonctionnelles cardiologiques",
-    "service_h3": "Mme Myriam MOUCHET",
-    "email": "m-mouchet@ch-hopitauxduleman.fr",
-    "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
