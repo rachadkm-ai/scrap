@@ -572,39 +572,6 @@
     "plateau_cardio": "Non spécifié / Non"
   },
   {
-    "groupe_id": "14",
-    "groupe_titre": "Calvados",
-    "etablissement": "Centre hospitalier de la Côte Fleurie Site de Cricqueboeuf (Honfleur)",
-    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure337-establishment4167",
-    "service_titre": "Médecine cardiologique",
-    "service_h3": "Dr Aref FERROUDJ",
-    "email": "Aferroudj@ch-cotefleurie.fr",
-    "email_affaires": "",
-    "plateau_cardio": "Non spécifié / Non"
-  },
-  {
-    "groupe_id": "14",
-    "groupe_titre": "Calvados",
-    "etablissement": "Centre hospitalier de la Côte Fleurie Site de Cricqueboeuf (Honfleur)",
-    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure337-establishment4167",
-    "service_titre": "SSR cardiologique",
-    "service_h3": "Dr Jean-Paul MABIRE",
-    "email": "jpmabire@ch-cotefleurie.fr",
-    "email_affaires": "",
-    "plateau_cardio": "Non spécifié / Non"
-  },
-  {
-    "groupe_id": "14",
-    "groupe_titre": "Calvados",
-    "etablissement": "Centre Hospitalier Aunay-Bayeux Site de Bayeux (BAYEUX)",
-    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure331-establishment4163",
-    "service_titre": "Médecine interne à orientation cardiologique",
-    "service_h3": "",
-    "email": "",
-    "email_affaires": "",
-    "plateau_cardio": "Non spécifié / Non"
-  },
-  {
     "groupe_id": "15",
     "groupe_titre": "Cantal",
     "etablissement": "Centre Hospitalier Henri Mondor (AURILLAC)",
@@ -1271,7 +1238,7 @@
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure716-establishment919",
     "service_titre": "Cardiologie",
     "service_h3": "Pr Meyer ELBAZ",
-    "email": "elbaz.m@chu-toulouse.fr",
+    "email": "",
     "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
@@ -1282,7 +1249,7 @@
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure716-establishment919",
     "service_titre": "Chirurgie cardio-vasculaire",
     "service_h3": "Pr Bertrand MARCHEIX",
-    "email": "marcheix.b@chu-toulouse.fr",
+    "email": "",
     "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
@@ -1293,7 +1260,7 @@
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure716-establishment924",
     "service_titre": "Cardiologie pédiatrique",
     "service_h3": "Dr Clément KARSENTY",
-    "email": "karsenty.cl@chu-toulouse.fr",
+    "email": "",
     "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
   },
@@ -3294,7 +3261,7 @@
     "etablissement": "AP-HP Hôpital Universitaire Pitié Salpêtrière (Paris)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2048-establishment5783",
     "service_titre": "Cardiologie",
-    "service_h3": "Dr MICHEL ZEITOUNI",
+    "service_h3": "Dr PAUL GUEDENEY",
     "email": "",
     "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
@@ -3305,7 +3272,7 @@
     "etablissement": "AP-HP Hôpital Universitaire Pitié Salpêtrière (Paris)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2048-establishment5783",
     "service_titre": "Cardiologie - Hospitalisation",
-    "service_h3": "Dr MARIA ELISABETA GHEORGHIU",
+    "service_h3": "Dr MARIAM BOUCHAREB",
     "email": "",
     "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
@@ -3437,7 +3404,7 @@
     "etablissement": "AP-HP Groupe hospitalier Lariboisière - Fernand-Widal (Paris)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2043-establishment5778",
     "service_titre": "Explorations Fonctionnelles Cardio-vasculaires et Respiratoires",
-    "service_h3": "Dr PIERRE LOZERON",
+    "service_h3": "Dr RYMMA COHEN",
     "email": "",
     "email_affaires": "nolwenn.jacob@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
@@ -3525,7 +3492,7 @@
     "etablissement": "AP-HP Hôpital européen Georges-Pompidou (Paris)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2056-establishment5791",
     "service_titre": "Cardiologie",
-    "service_h3": "Dr CATHERINE SZYMANSKI",
+    "service_h3": "Dr VICTOR WALDMANN",
     "email": "",
     "email_affaires": "Sophie.maraval@egp.aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
@@ -3580,7 +3547,7 @@
     "etablissement": "Hôpital Hôpital Saint Antoine (Paris)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2034-establishment5772",
     "service_titre": "Cardiologie",
-    "service_h3": "Dr CLEMENT DARRICAUD",
+    "service_h3": "Dr ANTOINE DARNEAU",
     "email": "",
     "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
@@ -3635,7 +3602,7 @@
     "etablissement": "AP-HP Hôpital Tenon (Paris)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2055-establishment5790",
     "service_titre": "Cardiologie",
-    "service_h3": "Pr ARON ARIEL COHEN",
+    "service_h3": "Dr CAROLIN KOYANDAKPA DIBERT",
     "email": "",
     "email_affaires": "choella.akbaraly@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
@@ -4570,7 +4537,7 @@
     "etablissement": "Hôpital Bicêtre AP-HP (Le Kremlin-Bicêtre)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2589-establishment6290",
     "service_titre": "Cardiologie",
-    "service_h3": "Dr SAFA JEBALI",
+    "service_h3": "CHRISTINE TERROLLE",
     "email": "",
     "email_affaires": "",
     "plateau_cardio": "Non spécifié / Non"
@@ -4592,7 +4559,7 @@
     "etablissement": "AP-HP Hôpital Henri Mondor (Créteil)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure2577-establishment6278",
     "service_titre": "Cardiologie",
-    "service_h3": "Dr ALBAN COPIE",
+    "service_h3": "Dr TANGUY BOIS",
     "email": "",
     "email_affaires": "adeline.rouby@aphp.fr",
     "plateau_cardio": "Non spécifié / Non"
