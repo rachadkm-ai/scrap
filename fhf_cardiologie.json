@@ -1916,6 +1916,17 @@
   {
     "groupe_id": "50",
     "groupe_titre": "Manche",
+    "etablissement": "Hôpitaux du Sud-Manche (Granville)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1289-establishment5065",
+    "service_titre": "Médecine A - Médecine polyvalente à orientation cardio-vasculaire, néphrologique et neurologique",
+    "service_h3": "Dr Dominique BIDOLI",
+    "email": "dominique.bidoli@ch-avranches-granville.fr",
+    "email_affaires": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "50",
+    "groupe_titre": "Manche",
     "etablissement": "Centre Hospitalier Public du Cotentin (CHERBOURG-EN-COTENTIN)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1270-establishment3376",
     "service_titre": "Cardiologie et soins intensifs de cardiologie",
@@ -2909,17 +2920,6 @@
     "etablissement": "Hôpital Emile Muller (Mulhouse)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1818-establishment9947",
     "service_titre": "Radiologie cardio-interventionnelle",
-    "service_h3": "",
-    "email": "",
-    "email_affaires": "",
-    "plateau_cardio": "Non spécifié / Non"
-  },
-  {
-    "groupe_id": "68",
-    "groupe_titre": "Haut-Rhin",
-    "etablissement": "Hôpital Hasenrain (Mulhouse)",
-    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1818-establishment5573",
-    "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
     "email_affaires": "",
