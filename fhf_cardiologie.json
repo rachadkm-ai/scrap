@@ -170,9 +170,9 @@
     "etablissement": "Centre hospitalier d'Antibes Juan-les-Pins (Antibes)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure154-establishment4004",
     "service_titre": "Cardiologie et maladies vasculaires - soins intensifs cardiologiques - neurologie et exploration fonctionnelle du système nerveux - médecine du sport",
-    "service_h3": "Dr Laurent JACQ",
-    "email": "laurent.jacq@ch-antibes.fr",
-    "email_affaires": "",
+    "service_h3": "Dr Anne BELLEMAIN-APPAIX",
+    "email": "anne.bellemain-appaix@ch-antibes.fr",
+    "email_affaires": "sophie.grienenberger@ch-antibes.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -755,7 +755,7 @@
     "service_titre": "CARDIOLOGIE - ANGIOPLASTIE",
     "service_h3": "Dr Eric FLEURANT",
     "email": "eric.fleurant@ch-brive.fr",
-    "email_affaires": "sarah.ferret@ch-brive.fr",
+    "email_affaires": "laure.barrouillet-masset@ch-correze.fr",
     "plateau_cardio": "Non spécifié / Non"
   },
   {
@@ -1302,7 +1302,7 @@
     "groupe_titre": "Haute-Garonne",
     "etablissement": "CENTRE HOSPITALIER COMMINGES PYRENEES (Saint-Gaudens)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure736-establishment4536",
-    "service_titre": "CARDIOLOGIE  / PNEUMOLOGIE",
+    "service_titre": "CARDIOLOGIE / PNEUMOLOGIE",
     "service_h3": "Dr Jean-Philippe BONNET",
     "email": "jeanphilippe.bonnet@ch-saintgaudens.fr",
     "email_affaires": "johan.berkane@ch-saintgaudens.fr",
@@ -2920,6 +2920,17 @@
     "etablissement": "Hôpital Emile Muller (Mulhouse)",
     "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1818-establishment9947",
     "service_titre": "Radiologie cardio-interventionnelle",
+    "service_h3": "",
+    "email": "",
+    "email_affaires": "",
+    "plateau_cardio": "Non spécifié / Non"
+  },
+  {
+    "groupe_id": "68",
+    "groupe_titre": "Haut-Rhin",
+    "etablissement": "Hôpital Hasenrain (Mulhouse)",
+    "fiche_url": "https://etablissements.fhf.fr/annuaire/establishment/structure1818-establishment5573",
+    "service_titre": "Cardiologie",
     "service_h3": "",
     "email": "",
     "email_affaires": "",
